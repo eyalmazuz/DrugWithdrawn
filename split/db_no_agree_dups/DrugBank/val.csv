@@ -1,0 +1,1087 @@
+Unnamed: 0,index,smiles,length,inchikey,name,groups,withdrawn_class,source
+3926,3926,CCOc1ccc2c(c1)[nH]c(n2)SCCN3CCOCC3.Cl.Cl,48,OFMVMQZFMVQDFO-UHFFFAOYSA-N,fabomotizole dihydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1302,1302,COCC1=C(C(=O)OC(C)OC(=O)OC(C)C)N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1,85,LTINZAODLRIQIX-FBXRGJNPSA-N,cefpodoxime proxetil,approved,0,['ChEMBL']
+336,336,CC1C=CC=CC=CC=CC=CC=CC=CC(CC(C(C(CC(=O)CC(CC(CC(CC(=O)CCCC(=O)CC(=O)OC1C(C)CC(C)C(CC(=O)C2=CC=C(C=C2)N)O)O)O)O)O)C(=O)O)O)OC3C(C(C(C(O3)C)O)N)O,144,OPGSFDUODIJJGF-OPBPSKILSA-N,candicidin,withdrawn,1,['WITHDRAWN']
+516,516,CN1CCc2nc(C(=O)N[C@@H]3C[C@@H](C(=O)N(C)C)CC[C@@H]3NC(=O)C(=O)Nc3ccc(Cl)cn3)sc2C1.Cc1ccc(S(=O)(=O)O)cc1,120,ZLFZITWZOYXXAW-QXXZOGQOSA-N,edoxaban tosylate,approved,0,['ChEMBL']
+2296,2296,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)NC2C(C(C(OC2O)CO)O)O)I)N(C)C(=O)C)I,67,BAQCROVBDNBEEB-KSDLJXBFSA-N,metrizamide,withdrawn,1,['WITHDRAWN']
+1456,1456,CC1=C(C(c2cccc(c2)N(=O)=O)C(=C(C)N1)C(=O)OCCOC)C(=O)OC/C(/[H])=C(\[H])/c3ccccc3,82,KJEBULYHNRNJTE-UHFFFAOYSA-N,cilnidipine,Possibly Marketed Outside US,0,['NCATS']
+5127,5127,CCCCCCCCCCCC(=O)N(C)CC(=O)[O-].[Na+],36,BACYUWVYYTXETD-UHFFFAOYSA-M,sodium lauroyl sarcosinate,Possibly Marketed Outside US,0,['NCATS']
+871,871,C[C@]1([H])C[C@@]2([H])[C@]3([H])C[C@@]([H])(C4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@]2(C)[C@@]1([H])C(=O)COC(=O)C)O)Cl)F,98,ARPLCFGLEYFDCN-CDACMRRYSA-N,clocortolone acetate,US Approved Rx,0,['NCATS']
+783,783,CC1(C)[C@]2([H])CC[C@]3(C)[C@]([H])(C(=O)C=C4[C@]5([H])C[C@](C)(CC[C@]5(C)CC[C@]43C)C(=O)O)[C@@]2(C)CC[C@]1([H])O,101,MPDGHEJMBKOTSU-YKLVYJNSSA-N,enoxolone,US Previously Marketed,1,['NCATS']
+3758,3758,CC[N+](C)(CC)CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,49,GFRUPHOKLBPHTQ-UHFFFAOYSA-N,oxyphenonium,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+3550,3550,OC(=O)CCC1=NC(=C(O1)C1=CC=CC=C1)C1=CC=CC=C1,52,OFPXSFXSNFPTHF-UHFFFAOYSA-N,oxaprozin,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1820,1820,[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3C(C)=C[C@@]21[H],75,IIVBFTNIGYRNQY-YQLZSBIMSA-N,nomegestrol acetate,approved; investigational,0,"['DrugBank', 'NCATS']"
+5373,5373,[Cr].[Na+].[Na+].O.O.[OH-].[OH-],32,AUIWXPILHIIWIV-UHFFFAOYSA-L,sodium chromate cr-51,US Previously Marketed,1,['NCATS']
+2501,2501,c1ccc2CN(CCc2c1)C(=N)N.c1ccc2CN(CCc2c1)C(=N)N.OS(=O)(=O)O,65,CAYGYVYWRIHZCQ-UHFFFAOYSA-N,debrisoquin sulfate,Possibly Marketed Outside US,0,['NCATS']
+3502,3502,CCOC(=O)C1C(=Nc2ccc(cc2C(=N1)c3ccccc3F)Cl)O,53,CUCHJCMWNFEYOM-UHFFFAOYSA-N,ethyl loflazepate,Possibly Marketed Outside US,0,['NCATS']
+4645,4645,Cl.OC(CCN1CCCCC1)(c1ccccc1)C1CCCC1,40,WBCWFMFZMRFRLT-UHFFFAOYSA-N,cycrimine hydrochloride,withdrawn,1,['ChEMBL']
+822,822,C[C@]1([H])C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@]2(C)[C@]1(C(=O)COC(=O)CCC(=O)O)O)O)F,100,IEKLVCVEJCEIJD-LYRWTKHRSA-N,dexamethasone succinate,US Approved Rx,0,['NCATS']
+5591,5591,CC(C)CC1=CC=C(C=C1)CC(=O)O,29,CYWFCPPBTWOZSF-UHFFFAOYSA-N,ibufenac,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+1931,1931,C[C@H]1OC2=C(N)N=CC(=C2)C2=C(C#N)N(C)N=C2CN(C)C(=O)C2=C1C=C(F)C=C2,73,IIXWYSCJSQVBQM-LLVKDONJSA-N,lorlatinib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5004,5004,O=c1[n-]cnc2[nH]ncc12.[Na+],37,PTJRZVJXXNYNLN-UHFFFAOYSA-M,allopurinol sodium,approved,0,['ChEMBL']
+5504,5504,C1CCC(CC1)C(CC2CCCCN2)C3CCCCC3,30,CYXKNKQEMFBLER-UHFFFAOYSA-N,perhexiline,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2681,2681,COC1=CC2=C(NC(=N2)[S@@](=O)CC2=NC=C(C)C(OC)=C2C)C=C1,62,SUBDBMMJDZJVOS-DEOSSOPVSA-N,esomeprazole,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4047,4047,CCN(CC)CCOC(=O)C(C1=CC=CC=C1)C1=CC=CC=C1,46,JGOAIQNSOGZNBX-UHFFFAOYSA-N,adiphenine,approved; withdrawn,1,"['DrugBank', 'NCATS']"
+5929,5929,CC(=O)OC1=CC(O)=CC=C1,24,ZZPKZRHERLGEKA-UHFFFAOYSA-N,resorcinol monoacetate,approved; experimental,0,"['DrugBank', 'NCATS']"
+5405,5405,CCCNC(C)C(=O)Nc1ccccc1C.Cl,32,BJPJNTKRKALCPP-UHFFFAOYSA-N,prilocaine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+4603,4603,Cl.N=C(N)NC(=O)c1nc(Cl)c(N)nc1N.O.O,41,LTKVFMLMEYCWMK-UHFFFAOYSA-N,amiloride hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+5696,5696,CCCC(CCC)C(=O)OC(C)OC(=O)OCC,28,ZIJGGSZJPPURSY-UHFFFAOYSA-N,1-(ethoxycarbonyloxy)ethyl valproate,US Approved Rx,0,['NCATS']
+4003,4003,CCOC(=O)CN=C([C@]1([H])CCCN1C(=O)Cc2ccccc2)O,47,PJNSMUBMSNAEEN-AWEZNQCLSA-N,omberacetam,Possibly Marketed Outside US,0,['NCATS']
+6004,6004,C=C[C@](C)(CCC=C(C)C)O,23,CDOSHBSSFJOMGT-SNVBAGLBSA-N,"linalool, (+)-",Possibly Marketed Outside US,0,['NCATS']
+3552,3552,CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O,52,HCRKCZRJWPKOAR-JTQLQIEISA-N,brinzolamide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1364,1364,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)SC(C)(C)SC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C,83,FYPMFJGVHOHGLL-UHFFFAOYSA-N,probucol,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2582,2582,CCOC(=O)C1(CCCN(C)CC1)c2ccccc2.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,63,KCVHFFSPDODYOG-UHFFFAOYSA-N,ethoheptazine citrate,US Previously Marketed,1,['NCATS']
+6318,6318,[I-].[I-].[Mn+2],16,QWYFOIJABGVEFP-UHFFFAOYSA-L,manganese iodide,US Approved Rx,0,['NCATS']
+6043,6043,C(=O)[O-].C(=O)[O-].[Ca+2],22,BDAGIHXWWSANSR-UHFFFAOYSA-M,calcium formate,US Approved OTC,0,['NCATS']
+3371,3371,[Na+].[Na+].OC(=O)CN(CCN(CC(O)=O)CC([O-])=O)CC([O-])=O,54,ZGTMUACCHSMWAC-UHFFFAOYSA-L,edetate disodium anhydrous,approved; vet_approved,0,"['DrugBank', 'ChEMBL']"
+4340,4340,C1CN=C(N1)CN(CC2=CC=CC=C2)C3=CC=CC=C3,43,REYFJDPCWQRWAA-UHFFFAOYSA-N,antazoline,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2551,2551,CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1.O=P(O)(O)O,64,PGZUMBJQJWIWGJ-ONAKXNSWSA-N,oseltamivir phosphate,approved,0,['ChEMBL']
+1432,1432,[H][C@]12[C@@H](C)C(S[C@@H]3CN[C@H](CNS(N)(=O)=O)C3)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O,82,AVAACINZEOAHHE-VFZPANTDSA-N,doripenem,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4229,4229,c1ccc(c(c1)C(=O)O)N=C(CCc2ccc(cc2)O)O,45,DLFOKZQWYFNKCL-UHFFFAOYSA-N,hydroxyphenyl propamidobenzoic acid,Possibly Marketed Outside US,0,['NCATS']
+925,925,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COP(=O)(O)O,96,VQODGRNSFPNSQE-CXSFZGCWSA-N,dexamethasone phosphoric acid,approved,0,['ChEMBL']
+3158,3158,CC(C)c1cccc(C(C)C)c1OCOP(=O)([O-])[O-].[Na+].[Na+],56,LWYLQNWMSGFCOZ-UHFFFAOYSA-L,fospropofol disodium,withdrawn,1,['ChEMBL']
+3177,3177,CC(C)N(CC[C@H](C1=CC=CC=C1)C1=C(O)C=CC(C)=C1)C(C)C,56,OOGJQPCLVADCPB-HXUWFJFHSA-N,tolterodine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2676,2676,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)COC1=CC=CC=C1)C(O)=O,62,BPLBGHOLXOTWMN-MBNYWOFBSA-N,phenoxymethylpenicillin,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2055,2055,COC1=C(OC)C=C2[C@@H](CN(C)CCCN3CCC4=CC(OC)=C(OC)C=C4CC3=O)CC2=C1,71,ACRHBAYQBXXRTO-OAQYLSRUSA-N,ivabradine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+488,488,CC(C)C[C@H](NC(=O)[C@H](CCC1=CC=CC=C1)NC(=O)CN1CCOCC1)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1,123,BLMPQMFVWMYDKT-NZTKNTHTSA-N,carfilzomib,approved; investigational,0,"['DrugBank', 'NCATS']"
+1714,1714,CC1=C(C(=O)O)N2C(=O)[C@]([H])([C@@]2([H])SC1)N=C([C@@]([H])(c3ccc(cc3)[O-])N)O.[Na+],77,BOEGTKLJZSQCCD-UEKVPHQBSA-M,cefadroxil sodium,US Approved Rx,0,['NCATS']
+5287,5287,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,33,WKGXYQFOCVYPAC-UHFFFAOYSA-N,felbamate,withdrawn,1,['WITHDRAWN']
+2368,2368,CN(C)CCN(Cc1ccccc1)c1ccccn1.O=C(O)CC(O)(CC(=O)O)C(=O)O,66,GGRBYIUPUOYRLQ-UHFFFAOYSA-N,tripelennamine citrate,withdrawn,1,['ChEMBL']
+2534,2534,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OS(O)(=O)=O)C=C3,64,JKKFKPJIXZFSSB-CBZIJGRNSA-N,estrone sulfate,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4300,4300,CC(=O)[N-]S(=O)(=O)c1ccc(N)cc1.O.[Na+],44,IHCDKJZZFOUARO-UHFFFAOYSA-M,sulfacetamide sodium,approved,0,['ChEMBL']
+744,744,[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)COC(=O)CC)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,103,KUVIULQEHSCUHY-XYWKZLDCSA-N,beclomethasone dipropionate,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3436,3436,CCCC(=O)Nc1c(I)cc(I)c(CC(CC)C(=O)[O-])c1I.[Na+],53,KTVKGXZZBQCBGD-UHFFFAOYSA-M,tyropanoate sodium,withdrawn,1,['ChEMBL']
+708,708,CO[C@@]1(NC(=O)C(C(=O)[O-])c2ccc(O)cc2)C(=O)N2C(C(=O)[O-])=C(CSc3nnnn3C)CO[C@@H]21.[Na+].[Na+],105,GRIXGZQULWMCLU-HUTAOCTPSA-L,moxalactam disodium,withdrawn,1,['ChEMBL']
+2465,2465,CC1=NC=C(N=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1,65,ZJJXGWJIGJFDTL-UHFFFAOYSA-N,glipizide,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6081,6081,C[N+](C)(C)CCCC(=O)OC,21,XQSLKIBWQSTAGK-UHFFFAOYSA-N,carpronium,Possibly Marketed Outside US,0,['NCATS']
+4030,4030,CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)CC4)C)O)C)C(=O)C,46,GZENKSODFLBBHQ-ILSZZQPISA-N,medrysone,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4726,4726,CC(C)NC[C@@]([H])(COc1ccc(cc1)CC(=N)O)O,40,METKIMKYRPQLGS-LBPRGKRZSA-N,"atenolol, (-)-",Possibly Marketed Outside US,0,['NCATS']
+4558,4558,c1ccc2c(c1)c(=N)c3ccccc3[nH]2,41,XJGFWWJLMVZSIG-UHFFFAOYSA-N,aminacrine,US Previously Marketed,1,['NCATS']
+3116,3116,CC[C@]12CCCN3CCc4c5ccccc5n(C(=O)C1)c4[C@]23[H],57,WYJAPUKIYAZSEM-MOPGFXCFSA-N,vinburnine,Possibly Marketed Outside US,0,['NCATS']
+2999,2999,CCOc1ccc(Cc2c3cc(c(cc3cc(C)n2)OC)OC)cc1OC,58,NFABMCCMPXXBFY-UHFFFAOYSA-N,dimoxyline,US Previously Marketed,1,['NCATS']
+3690,3690,C/C(/[H])=C(/c1ccc(cc1)O)\C(=C(\[H])/C)\c2ccc(cc2)O,50,NFDFQCUYFHCNBW-UHFFFAOYSA-N,isodienestrol,US Previously Marketed,1,['NCATS']
+4650,4650,c1cc(cc2c1cc3ccc(cc3n2)N)N,40,WDVSHHCDHLJJJR-UHFFFAOYSA-N,proflavine,US Previously Marketed,1,['NCATS']
+5988,5988,CC(N)CC1=CC=C(O)C=C1,23,GIKNHHRFLCDOEU-UHFFFAOYSA-N,hydroxyamphetamine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+73,73,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.O=C([O-])c1cc2ccccc2c(Cc2c(O)c(C(=O)[O-])cc3ccccc23)c1O,225,OOPDAHSJBRZRPH-UHFFFAOYSA-L,pyrvinium pamoate,withdrawn,1,['ChEMBL']
+162,162,[H][C@]12CC[C@]3([H])[C@]([H])(C[C@@H](O)[C@]4(C)[C@H](CC[C@]34O)C3=CC(=O)OC3)[C@@]1(C)CC[C@@H](C2)O[C@H]1C[C@H](O)[C@H](O[C@H]2C[C@H](O)[C@H](O[C@H]3C[C@H](O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1,188,LTMHDMANZUZIPE-PUGKRICDSA-N,digoxin,approved,0,"['DrugBank', 'ChEMBL']"
+5932,5932,C[C@H](N)Cc1ccccc1,24,KWTSXDURSIMDCE-QMMMGPOBSA-N,dextroamphetamine,approved,0,"['ChEMBL', 'NCATS']"
+6206,6206,[O-2].[O-2].[Th+4],18,DNNLEMIRRGUGOZ-UHFFFAOYSA-N,thorium dioxide,US Previously Marketed,1,['NCATS']
+987,987,CC1=C([C@@]([H])(c2cccc(c2)N(=O)=O)C(=C(C)N1)C(=O)O[C@]3([H])CCCN(Cc4ccccc4)C3)C(=O)OC,94,QZVNQOLPLYWLHQ-ZEQKJWHPSA-N,benidipine,Possibly Marketed Outside US,0,['NCATS']
+2800,2800,c1cc(CNc2cc(c(cc2C(=O)O)S(=O)(=O)N)Cl)oc1.CCN(CC)CCO,61,BFSVOASYOCHEOV-UHFFFAOYSA-N,furosemide diethylaminoethanol,US Approved Rx,0,['NCATS']
+3663,3663,COC(=Nc1nc2ccc(cc2[nH]1)Sc3ccccc3)O,51,HDDSHPAODJUKPD-UHFFFAOYSA-N,fenbendazole,Possibly Marketed Outside US,0,['NCATS']
+5888,5888,O=S(=O)([O-])[O-].[Zn+2],24,NWONKYPBYAMBJT-UHFFFAOYSA-L,zinc sulfate,withdrawn,1,['ChEMBL']
+1324,1324,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC(OC)=C(OC)C=C2C[C@H]1C(O)=O,84,UWWDHYUMIORJTA-HSQYWUDLSA-N,moexipril,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4809,4809,CCCOc1ccc(C(=O)OCCN(CC)CC)cc1N.Cl,39,BFUUJUGQJUTPAF-UHFFFAOYSA-N,proparacaine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+401,401,COc1ccc2[n-]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1.COc1ccc2[n-]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1.[Mg+2],134,KWORUUGOSLYAGD-UHFFFAOYSA-N,omeprazole magnesium,approved,0,['ChEMBL']
+1025,1025,[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,92,YMTMADLUXIRMGX-RFPWEZLHSA-N,clocortolone,approved,0,"['DrugBank', 'NCATS']"
+5943,5943,COc1cc(cc(c1)OC)OC,24,LKUDPHPHKOZXCD-UHFFFAOYSA-N,"1,3,5-trimethoxybenzene",Possibly Marketed Outside US,0,['NCATS']
+608,608,c1cc(ccc1CCc2c[nH]c3c2c(nc(=N)[nH]3)O)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O.C(C(CO)(CO)N)O.C(C(CO)(CO)N)O.O.O,112,DUORKVZYABUEHW-AHJYMZSGSA-N,pemetrexed tromethamine,US Approved Rx,0,['NCATS']
+4488,4488,CN(C)CCC(C1=CC=C(Br)C=C1)C1=CC=CC=N1,42,ZDIGNSYAACHWNL-UHFFFAOYSA-N,brompheniramine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6183,6183,CCOC(=O)/C(/[H])=C(/[H])\C(=O)O,19,XLYMOEINVGRTEX-UHFFFAOYSA-N,ethyl maleate,Possibly Marketed Outside US,0,['NCATS']
+6157,6157,C(C(=O)[O-])C(=O)[O-],19,OFOBLEOULBTSOW-UHFFFAOYSA-L,propanedioate,US Previously Marketed,1,['NCATS']
+4814,4814,Cl.c1ccc2c(CC3=NCCN3)cccc2c1,39,DJDFFEBSKJCGHC-UHFFFAOYSA-N,naphazoline hydrochloride,approved,0,['ChEMBL']
+3567,3567,CNC[C@H](O)c1ccc(O)c(O)c1.O=C(O)C(O)C(O)C(=O)O,52,YLXIPWWIOISBDD-FVGYRXGTSA-N,epinephrine bitartrate,approved,0,['ChEMBL']
+1823,1823,O[C@H]1CCN(C1)C(=O)NC1=C2N=C(C=CN2N=C1)N1CCC[C@@H]1C1=C(F)C=CC(F)=C1,75,NYNZQNWKBKUAII-KBXCAEBGSA-N,larotrectinib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1968,1968,C[C@@]12CC[C@]3([H])[C@@]4([H])CCC(=O)C=C4CC[C@@]3([H])[C@]2([H])CC[C@]1([H])OC(=O)CCC5CCCC5,72,REWKEGSQGOSEES-FNKXXKKYSA-N,nandrolone cypionate,US Previously Marketed,1,['NCATS']
+2537,2537,[H][C@@]1([C@@H](NC(C)=O)C(CC)CC)[C@H](O)[C@H](C[C@H]1NC(N)=N)C(O)=O,64,XRQDFNLINLXZLB-CKIKVBCHSA-N,peramivir,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+6012,6012,C(C(Cl)(Cl)Cl)OP(=O)(O)O,22,YYQRGCZGSFRBAM-UHFFFAOYSA-N,triclofos,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+1688,1688,CC(C)(O)CNC1=NC(=NC(NC2=CC(=NC=C2)C(F)(F)F)=N1)C1=NC(=CC=C1)C(F)(F)F,77,DYLUUSLLRIQKOE-UHFFFAOYSA-N,enasidenib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4763,4763,CCC(CN(C)C)(CN(C)C)OC(=O)c1ccccc1,39,VEXNFKCQMGMBBJ-UHFFFAOYSA-N,amydricaine,US Previously Marketed,1,['NCATS']
+3526,3526,CC(C1=CC=CC=C1)NCCC(C2=CC=CC=C2)C3=CC=CC=C3,52,NMKSAYKQLCHXDK-UHFFFAOYSA-N,fendiline,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+3762,3762,CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,49,VYMDGNCVAMGZFE-UHFFFAOYSA-N,phenylbutazone,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4716,4716,CCCCCCCC(=O)[O-].CCCCCCCC(=O)[O-].[Mg+2],40,HPBJPFJVNDHMEG-UHFFFAOYSA-L,magnesium caprylate,Possibly Marketed Outside US,0,['NCATS']
+3960,3960,CC(CN=C(c1ccccc1OCC(=O)[O-])O)OC.[HgH+].O,47,FFICLBDDLNGYHV-UHFFFAOYSA-N,mersalyl acid,US Previously Marketed,1,['NCATS']
+1110,1110,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O,90,PYTMYKVIJXPNBD-UHFFFAOYSA-N,clomiphene citrate,approved,0,['ChEMBL']
+5831,5831,CN(CC(=O)O)C(=N)NP(=O)(O)O,26,DRBBFCLWYRJSJZ-UHFFFAOYSA-N,phosphocreatine,Possibly Marketed Outside US,0,['NCATS']
+2449,2449,CCOC(=O)C1(CCN(CCCNc2ccccc2)CC1)c3ccccc3.CCS(=O)(=O)O,65,CCIVGXIOQKPBKL-UHFFFAOYSA-N,piminodine esylate,US Previously Marketed,1,['NCATS']
+4235,4235,CC1(C(N2C(S1)C(C2=O)NC(=O)C3(CCCCC3)N)C(=O)O)C,44,HGBLNBBNRORJKI-WCABBAIRSA-N,cyclacillin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+5664,5664,CNCC(=O)c1ccc(c(c1)O)O,28,PZMVOUYYNKPMSI-UHFFFAOYSA-N,adrenalone,US Previously Marketed,1,['NCATS']
+311,311,C[C@]1([H])OC[C@]2([H])[C@]([H])([C@@]([H])([C@]([H])([C@@]([H])(O2)O[C@]3([H])c4cc5c(cc4[C@@]([H])(c6cc(c(c(c6)OC)OC(=O)OCC7([H])COC(C)(C)O7)OC)[C@]8([H])[C@]3([H])COC8=O)OCO5)O)O)O1,148,FCWSQAKOPTZCOD-SQYSSJHTSA-N,etoposide toniribate,US Approved Rx,0,['NCATS']
+1195,1195,CCC1CC(C2=C(N1C(=O)OCC)C=CC(=C2)C(F)(F)F)N(CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C(=O)OC,87,CMSGWTNRGKRWGS-NQIIRXRSSA-N,torcetrapib,withdrawn,1,['WITHDRAWN']
+3909,3909,Cc1c(c(CO)c(cn1)CSSCc2cnc(C)c(c2CO)O)O,48,SIXLXDIJGIWWFU-UHFFFAOYSA-N,pyritinol,Possibly Marketed Outside US,0,['NCATS']
+2535,2535,FC(F)(F)C1=CC(=CC=C1)N1CCN(CCN2C(=O)NC3=CC=CC=C23)CC1,64,PPRRDFIXUUSXRA-UHFFFAOYSA-N,flibanserin,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3155,3155,CCN(CC)C(=O)C1CN2CCc3cc(OC)c(OC)cc3C2CC1OC(C)=O.Cl,56,KZLNXGBVFTWMPS-UHFFFAOYSA-N,benzquinamide hydrochloride,withdrawn,1,['ChEMBL']
+2848,2848,C[C@@H]1CCN(C[C@@H]1N(C)C1=NC=NC2=C1C=CN2)C(=O)CC#N,60,UJLAWZDWDVHWOW-YPMHNXCESA-N,tofacitinib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1561,1561,CCNC(=O)CCC\C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1\C=C\[C@@H](O)CCC1=CC=CC=C1,79,AQOKCDNYWBIDND-FTOWTWDKSA-N,bimatoprost,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5939,5939,[Cl-].[Cl-].[Cl-].[In+3],24,PSCMQHVBLHHWTO-UHFFFAOYSA-K,indium chloride,Possibly Marketed Outside US,0,['NCATS']
+2446,2446,[Na+].[Na+].[O-]c1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1[O-],65,FNYZFZRGBBCWBI-UHFFFAOYSA-L,bithionolate sodium,withdrawn,1,['ChEMBL']
+5059,5059,Cl.c1ccc([C@H]2CN3CCSC3=N2)cc1,36,LAZPBGZRMVRFKY-HNCPQSOCSA-N,levamisole hydrochloride,withdrawn,1,['ChEMBL']
+5972,5972,c1c(c(=O)c(c[nH]1)I)I,23,FRPFEVLOFNAKBS-UHFFFAOYSA-N,iopydone,US Previously Marketed,1,['NCATS']
+5194,5194,Cc1cc(=O)oc2cc(ccc12)O.O,35,HRFJWEHVFMYQSS-UHFFFAOYSA-N,hymecromone hydrate,Possibly Marketed Outside US,0,['NCATS']
+1710,1710,Cc1cc(ccc1Oc2ccc(cc2)S(=O)(=O)C(F)(F)F)-n3c(=O)nc(n(C)c3=O)O,77,VBUNOIXRZNJNAD-UHFFFAOYSA-N,ponazuril,Possibly Marketed Outside US,0,['NCATS']
+2958,2958,Cn1c(cc(=O)n(C)c1=O)NCCCN2CCN(CC2)c3ccccc3OC.Cl,59,ICMGLRUYEQNHPF-UHFFFAOYSA-N,urapidil hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2292,2292,CC1(C)CC[C@]2([H])C[C@]([H])(C[C@]1([H])N2C)OC(=O)C(c3cccs3)(c4cccs4)O,68,AMHPTVWBZSYFSS-OAGGEKHMSA-N,mazaticol,Possibly Marketed Outside US,0,['NCATS']
+3066,3066,C1=CC=C2C(=C1)C(C(=O)N2)(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,57,SJDACOMXKWHBOW-UHFFFAOYSA-N,oxyphenisatine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'NCATS']"
+2862,2862,COC(=O)[C@H]1[C@@H](c2ccc(I)cc2)C[C@@H]2CC[C@H]1N2CCCF,60,HXWLAJVUJSVENX-HZMVEIRTSA-N,ioflupane,approved,0,"['ChEMBL', 'NCATS']"
+6115,6115,ClCCNC(=O)N(CCCl)N=O,20,DLGOEMSEDOSKAD-UHFFFAOYSA-N,carmustine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1521,1521,CN1C2=C(N=C(Cl)N2)C(=O)N(C)C1=O.CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,80,NFLLKCVHYJRNRH-UHFFFAOYSA-N,dimenhydrinate,approved,0,"['DrugBank', 'ChEMBL']"
+4076,4076,OC1=CC=C(C=C1)C1CNCCC2=C(Cl)C(O)=C(O)C=C12,46,TVURRHSHRRELCG-UHFFFAOYSA-N,fenoldopam,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+586,586,COc1nc2ccc(Br)cc2cc1[C@@H](c1ccccc1)[C@@](O)(CCN(C)C)c1cccc2ccccc12.O=C(O)/C=C/C(=O)O,113,ZLVSPMRFRHMMOY-WWCCMVHESA-N,bedaquiline fumarate,approved,0,['ChEMBL']
+4875,4875,NC1=CC=CC2=C1CN(C1CCC(=O)NC1=O)C2=O,38,GOTYRUGSSMKFNF-UHFFFAOYSA-N,lenalidomide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6131,6131,CN(C)C(=N)N=C(N)N.Cl,20,OETHQSJEHLVLGH-UHFFFAOYSA-N,metformin hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+2921,2921,CN(C)CC/C(/[H])=C\1/c2ccccc2Sc3ccc(cc13)Cl.CC(C(=O)O)O,59,ADFVBGPZUBEEQW-UHFFFAOYSA-N,chlorprothixene lactate,US Previously Marketed,1,['NCATS']
+4642,4642,CCCCN1CCCC[C@H]1C(=O)Nc1c(C)cccc1C,40,LEBVLXFERQHONN-INIZCTEOSA-N,levobupivacaine,withdrawn,1,"['ChEMBL', 'NCATS']"
+2240,2240,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O,68,AVKUERGKIZMTKX-NJBDSQKTSA-N,ampicillin,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4953,4953,c1cc(ccc1N)S(=O)(=O)[NH-].[Na+],37,CGRKCGWEOIQFRD-UHFFFAOYSA-N,sulfanilamide sodium,US Previously Marketed,1,['NCATS']
+2486,2486,CN1[C@H]2CC[C@@H]1C[C@H](OC(=O)C(CO)c1ccccc1)C2.O=S(=O)(O)O,65,VJFQPODMEGSXHC-RIMUKSHESA-N,atropine sulfate,approved,0,['ChEMBL']
+6037,6037,NC(=O)CC[C@H](N)C(=O)O,22,ZDXPYRJPNDTMRX-VKHMYHEASA-N,glutamine,approved,0,"['ChEMBL', 'NCATS']"
+1920,1920,CC#C[C@@]1(CC[C@@]2([H])[C@]3([H])C[C@]([H])(C)C4=CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@@]21C)O.O,73,LVHOURKCKUYIGK-RGUJTQARSA-N,dimethisterone,US Previously Marketed,1,['NCATS']
+2307,2307,[H][C@]12SCC(CSC3=NN=NN3C)=C(N1C(=O)[C@]2(NC(=O)CSCC#N)OC)C(O)=O,67,SNBUBQHDYVFSQF-HIFRSBDPSA-N,cefmetazole,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+749,749,CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)c1ccc(N)cc1.CCO,103,QWSHKNICRJHQCY-VBTXLZOXSA-N,darunavir ethanolate,approved,0,['ChEMBL']
+5535,5535,C[N+](C)(C)C[C@H](O)CC([O-])=O,30,PHIQHXFUZVPYII-ZCFIWIBFSA-N,levocarnitine,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+333,333,CN1CC[C@@]23[C@@]4([H])C=C[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)OC)O.CN1CC[C@@]23[C@@]4([H])C=C[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)OC)O.OS(=O)(=O)O,145,BCXHDORHMMZBBZ-DORFAMGDSA-N,codeine sulfate anhydrous,US Approved OTC,0,['NCATS']
+5802,5802,C[N+](C)(C)CCOC(N)=O.[Cl-],26,AIXAANGOTKPUOY-UHFFFAOYSA-N,carbachol,approved,0,"['ChEMBL', 'NCATS']"
+6460,6460,O[Se](O)=O,10,MCAHWIHFGHIESP-UHFFFAOYSA-N,selenious acid,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1177,1177,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,88,VWQWXZAWFPZJDA-CGVGKPPMSA-N,hydrocortisone succinate,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4033,4033,CC12CCC3C(C1CCC2(C)O)CCC4C3(CC5=C(C4)NN=C5)C,46,LKAJKIOFIWVMDJ-IYRCEVNGSA-N,stanozolol,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+6187,6187,COC(=O)/C(/[H])=C(/[H])\C(=O)OC,19,LDCRTTXIJACKKU-UHFFFAOYSA-N,dimethyl maleate,US Approved Rx,0,['NCATS']
+6038,6038,CCOC(=O)c1cccnc1,22,XBLVHTDFJBKJLG-UHFFFAOYSA-N,ethyl nicotinate,US Approved Rx,0,['NCATS']
+5824,5824,c1nc-2c(N)nc[nH]c2n1,26,GFFGJBXGBJISGV-UHFFFAOYSA-N,adenine,Possibly Marketed Outside US,0,['NCATS']
+2225,2225,c1cc(cc(c1)Cl)[C@]2([H])CCO[P@](=O)(COCCn3cnc4c(N)ncnc43)O2,69,GWNHAOBXDGOXRR-HJFSHJIFSA-N,pradefovir,US Approved Rx,0,['NCATS']
+2803,2803,CCCCc1cc2c(cc1OCc3ccccc3)[nH]cc(c2=O)C(=O)OC,61,NNOPDLNHPOLRRE-UHFFFAOYSA-N,nequinate,Possibly Marketed Outside US,0,['NCATS']
+3443,3443,CC[N+](C)(C)CCC(c1ccccc1)(c2ccccc2)C(=N)O,53,KFZMXOLSYABOSE-UHFFFAOYSA-O,ambutonium,US Previously Marketed,1,['NCATS']
+1698,1698,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1.O=C(O)CC(O)(CC(=O)O)C(=O)O,77,IVLVTNPOHDFFCJ-UHFFFAOYSA-N,fentanyl citrate,approved,0,"['ChEMBL', 'NCATS']"
+2853,2853,CCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCC(O)CO)OC(=O)CCCCCCCCCCCCC,60,BPHQZTVXXXJVHI-UHFFFAOYSA-N,dl-dimyristoylphosphatidylglycerol,approved,0,"['DrugBank', 'NCATS']"
+5592,5592,C1CSC2=NC(CN21)C3=CC=CC=C3,29,HLFSDGLLUJUHTE-SNVBAGLBSA-N,levamisole,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+3561,3561,CN1C2=C(C=C(Cl)C=C2)C(=NC(O)C1=O)C1=CC=CC=C1Cl,52,FJIKWRGCXUCUIG-UHFFFAOYSA-N,lormetazepam,approved,0,"['DrugBank', 'NCATS']"
+3165,3165,c1ccc(cc1)C(CNc2ccccn2)O.c1ccc(c(c1)C(=O)O)O,56,HICVRAOITHDABM-UHFFFAOYSA-N,phenyramidol salicylate,US Previously Marketed,1,['NCATS']
+372,372,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O,137,LKCWBDHBTVXHDL-RMDFUYIESA-N,amikacin,approved; investigational; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6026,6026,FCOC(C(F)(F)F)C(F)(F)F,22,DFEYYRMXOJXZRJ-UHFFFAOYSA-N,sevoflurane,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5214,5214,Nc1ccc(C(=O)[O-])c(O)c1.[K+],34,PRZJIMSXCLZGLT-UHFFFAOYSA-M,aminosalicylate potassium,withdrawn,1,['ChEMBL']
+4160,4160,c1cc(ccc1N)S(=O)(=O)N=c2cncc[nH]2,45,YEAICDDXRUOCKJ-UHFFFAOYSA-N,sulfapyrazine,US Previously Marketed,1,['NCATS']
+5356,5356,CCC1(CCC(=O)NC1=O)C2=CC=CC=C2,32,JMBQKKAJIKAWKF-UHFFFAOYSA-N,glutethimide,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+2715,2715,Cc1ccc(cc1)C(=O)Oc2ccc(cc2)C(CN(C)C)C3(CCCCC3)O.Cl,62,BVWFJKQJRNSYCR-UHFFFAOYSA-N,toludesvenlafaxine hydrochloride anhydrous,US Approved Rx,0,['NCATS']
+5490,5490,[Fe+3].[Fe+3].[O-2].[O-2].[O-2],31,LIKBJVNGSGBSGK-UHFFFAOYSA-N,ferric oxide red,US Approved OTC,0,['NCATS']
+1732,1732,Cn1c(nnn1)SCC2=C(C(=O)O)N3C(=O)[C@]([C@@]3([H])SC2)(N=C(CSCC#N)[O-])OC.[Na+],76,BITQGIOJQWZUPL-PBCQUBLHSA-M,cefmetazole sodium,US Previously Marketed,1,['NCATS']
+1680,1680,CC1=C(N(CC2=CC=C(OCCN3CCCCCC3)C=C2)C2=C1C=C(O)C=C2)C1=CC=C(O)C=C1,77,UCJGJABZCDBEDK-UHFFFAOYSA-N,bazedoxifene,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5887,5887,CC(CC1=CC=CC=C1)NC.Cl,24,TWXDDNPPQUTEOV-FVGYRXGTSA-N,methamphetamine hydrochloride,withdrawn,1,['WITHDRAWN']
+1430,1430,[H][C@]12O[C@@]1([H])[C@]1([H])C[C@@]([H])(C[C@@]2([H])[N+]1(C)C)OC(=O)C(O)(C1=CC=CS1)C1=CC=CS1,82,LERNTVKEWCAPOY-DZZGSBJMSA-N,tiotropium,approved,0,"['DrugBank', 'ChEMBL']"
+3229,3229,CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,55,VAYOSLLFUXYJDT-RDTXWAMCSA-N,lysergic acid diethylamide,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+3914,3914,Cc1nc(cc(n1)OC)NS(=O)(=O)c2ccc(cc2)N,48,QKLSCPPJEVXONT-UHFFFAOYSA-N,sulfametomidine,Possibly Marketed Outside US,0,['NCATS']
+1509,1509,C1CNCCN1.C1CNCCN1.C1CNCCN1.O=C(O)CC(O)(CC(=O)O)C(=O)O.O=C(O)CC(O)(CC(=O)O)C(=O)O,80,JDDHUROHDHPVIO-UHFFFAOYSA-N,piperazine citrate,withdrawn,1,['ChEMBL']
+2382,2382,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC(=C)C2=CC(=O)C=C[C@]12C,66,BFYIZQONLCFLEV-DAELLWKTSA-N,exemestane,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+976,976,CN1C(=O)C(C)=C2N(C(=O)N(C3CC3)C(=O)C2=C1NC1=CC=C(I)C=C1F)C1=CC(NC(C)=O)=CC=C1,94,LIRYPHYGHXZJBZ-UHFFFAOYSA-N,trametinib,approved,0,"['DrugBank', 'NCATS']"
+6451,6451,CC(C)CCON=O,11,OWFXIOWLTKNBAP-UHFFFAOYSA-N,isopentyl nitrite,Possibly Marketed Outside US,0,['NCATS']
+4525,4525,CC(C)(C)NC[C@H](O)c1ccc(O)c(CO)c1.Cl,42,OWNWYCOLFIFTLK-YDALLXLXSA-N,levalbuterol hydrochloride,approved,0,['ChEMBL']
+1575,1575,CCCCCCCCCCCCCCCC(=O)OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O,79,PXKHGMGELZGJQE-ILBGXUMGSA-N,chloramphenicol palmitate,approved; vet_approved,0,"['DrugBank', 'NCATS']"
+2871,2871,COC(=O)[C@H](c1ccccc1Cl)N1CCc2sccc2C1.O=S(=O)(O)O,60,FDEODCTUSIWGLK-RSAXXLAASA-N,clopidogrel bisulfate,approved,0,"['ChEMBL', 'NCATS']"
+5271,5271,c1ccc(c(c1)C(=O)[O-])S.CC.[HgH+],34,ZYPZRORZEJSYJX-UHFFFAOYSA-M,ethylmercurithiosalicylic acid,US Approved Rx,0,['NCATS']
+5762,5762,C(C[C@@]([H])(C(=O)O)N)CNC(=N)N.Cl,27,KWTQSFXGGICVPE-WCCKRBBISA-N,arginine hydrochloride,US Approved Rx,0,['NCATS']
+2330,2330,[H]\C(=C(\[H])C1=CC(OC)=C(OC)C=C1)C1=NC2=C(N1C)C(=O)N(CC)C(=O)N2CC,67,IQVRBWUUXZMOPW-PKNBQFBNSA-N,istradefylline,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+6163,6163,FC(F)OC(Cl)C(F)(F)F,19,PIWKPBJCKXDKJR-UHFFFAOYSA-N,isoflurane,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3981,3981,NC(=O)C[S@@](=O)C(C1=CC=CC=C1)C1=CC=CC=C1,47,YFGHCGITMMYXAQ-LJQANCHMSA-N,armodafinil,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+3044,3044,C1CC(=N[C@]1([H])C(=O)O)O.C1CC(=N[C@]1([H])C(=O)[O-])[O-].[Cu+2],58,CKBLQUOAMGLVCH-QHTZZOMLSA-L,copper pidolate,Possibly Marketed Outside US,0,['NCATS']
+6425,6425,[Al+3].[P-3],12,PGCGUUGEUBFBPP-UHFFFAOYSA-N,aluminum phosphide,US Approved OTC,0,['NCATS']
+3584,3584,COC(=NN=Cc1cn(=O)c2ccccc2n1=O)O,52,OVGGLBAWFMIPPY-UHFFFAOYSA-N,carbadox,Possibly Marketed Outside US,0,['NCATS']
+2313,2313,[H][C@]12SCC(Cl)=C(N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O,67,QYIYFLOTGYLRGG-GPCCPHFNSA-N,cefaclor,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5235,5235,CN1N=NC2=C(N=CN2C1=O)C(N)=O,34,BPEGJWRSRHCHSN-UHFFFAOYSA-N,temozolomide,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1770,1770,CC(C)(C)C(=O)Oc1ccc(cc1)S(=O)(=O)Nc2ccccc2C(=NCC(=O)[O-])O.[Na+],76,BTGNGJJLZOIYID-UHFFFAOYSA-M,sivelestat sodium anhydrous,Possibly Marketed Outside US,0,['NCATS']
+2553,2553,CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1.Cl,64,GPPJWWMREQHLQT-BHQIMSFRSA-N,cariprazine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+3924,3924,CCC(CC)O[C@]1([H])C=C(C[C@@]([H])([C@@]1([H])N=C(C)O)N)C(=O)O,48,NENPYTRHICXVCS-YNEHKIRRSA-N,oseltamivir acid,US Approved Rx,0,['NCATS']
+6433,6433,[Li+].[NH2-],12,AFRJJFRNGGLMDW-UHFFFAOYSA-N,lithium amide,US Approved Rx,0,['NCATS']
+2361,2361,C/C(=C(\CCO)/SSCCC(CCCCC(=O)OC)SC(=O)C)/N(Cc1cnc(C)[nH]c1=N)C=O,67,VJTXQHYNRDGLON-UHFFFAOYSA-N,octotiamine,Possibly Marketed Outside US,0,['NCATS']
+5417,5417,c1cc(N(=O)=O)oc1/C(/[H])=N\O,32,PTBKFATYSVLSSD-UHFFFAOYSA-N,nifuroxime,Possibly Marketed Outside US,0,['NCATS']
+5292,5292,CC(C)NCC(COC1=CC=CC2=C1C=CC2)O,33,MPGBPFMOOXKQRX-UHFFFAOYSA-N,indenolol,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+1807,1807,C[C@H]1CN(C[C@H](CC2=CC=CC=C2)C(=O)NCC(O)=O)CC[C@@]1(C)C1=CC(O)=CC=C1,75,UPNUIXSCZBYVBB-JVFUWBCBSA-N,alvimopan,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4930,4930,CCCCOC1=C(C=CC(=C1)C(=O)OCCN(CC)CC)N,37,CMHHMUWAYWTMGS-UHFFFAOYSA-N,benoxinate,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+4333,4333,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,43,NHUHCSRWZMLRLA-UHFFFAOYSA-N,sulfisoxazole,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+3012,3012,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,58,VOXZDWNPVJITMN-ZBRFXRBCSA-N,estradiol,approved; investigational; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3132,3132,CN1c2ccc(cc2C(=NCC1=O)c3ccccc3)N(=O)=O,57,GWUSZQUVEVMBPI-UHFFFAOYSA-N,nimetazepam,Possibly Marketed Outside US,0,['NCATS']
+1063,1063,C[C@]1(COC2=CC=C(C=C2)N2CCC(CC2)OC2=CC=C(OC(F)(F)F)C=C2)CN2C=C(N=C2O1)[N+]([O-])=O,91,XDAOLTSRNUSPPH-XMMPIXPASA-N,delamanid,approved; investigational,0,"['DrugBank', 'NCATS']"
+848,848,CC(=O)Oc1ccccc1C(=O)[O-].CC(=O)Oc1ccccc1C(=O)[O-].CC(=O)Oc1ccccc1C(=O)[O-].[Al+3],99,BSYNRYMUTXBXSQ-UHFFFAOYSA-M,aluminum acetylsalicylate,US Approved OTC,0,['NCATS']
+5146,5146,CCCC(C(=O)C1=CC=C(C=C1)C)N2CCCC2,35,SWUVZKWCOBGPTH-UHFFFAOYSA-N,pyrovalerone,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+5031,5031,Cc1ccc(c(c1)OCC(CNC(C)(C)C)O)Cl,37,HQIRNZOQPUAHHV-UHFFFAOYSA-N,bupranolol,Possibly Marketed Outside US,0,['NCATS']
+3580,3580,C(Cn1cncc1N(=O)=O)N2CCOCC2.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,52,HIMDIGOBZNJDDV-UHFFFAOYSA-N,nimorazole maleate,Possibly Marketed Outside US,0,['NCATS']
+838,838,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC.COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC.O=S(=O)(O)O,99,UILMMYFRNCCPLK-UHFFFAOYSA-N,trimethoprim sulfate,approved,0,['ChEMBL']
+1191,1191,CCN(CC)C(=N[C@@]1([H])C[C@]2([H])c3cccc4c3c(C[C@@]2([H])N(C)C1)c[nH]4)O.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O.O,88,FFZZPXNWIVRTAW-KYWSACDSSA-N,terguride hydrogen maleate monohydrate,Possibly Marketed Outside US,0,['NCATS']
+197,197,CC[C@]1([H])[C@](C)([C@@]([H])([C@@]([H])(C)N(C)C[C@]([H])(C)C[C@](C)([C@@]([H])([C@@]([H])(C)[C@@]([H])([C@@]([H])(C)C(=O)O1)O[C@@]2([H])C[C@](C)([C@]([H])([C@]([H])(C)O2)O)OC)O[C@@]3([H])[C@@]([H])([C@]([H])(C[C@@]([H])(C)O3)N(C)C)O)O)O)O.O,175,HQUPLSLYZHKKQT-WVVFQGGUSA-N,azithromycin monohydrate,US Approved Rx,0,['NCATS']
+4667,4667,CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO,40,UQRORFVVSGFNRO-UTINFBMNSA-N,miglustat,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5024,5024,C[C@](Cc1ccc(c(c1)O)O)(C(=O)O)N,37,CJCSPKMFHVPWAR-UHFFFAOYSA-N,methyldopa anhydrous,US Approved Rx,0,['NCATS']
+105,105,CC1(C)[C@]2([H])CC[C@]3(C)[C@]([H])(C(=O)C=C4[C@]5([H])C[C@](C)(CC[C@]5(C)CC[C@]43C)C(=O)O)[C@@]2(C)CC[C@]1([H])O[C@]6([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)[O-])O6)O)O)O[C@@]7([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)[O-])O7)O)O)O.[K+].[K+],206,BIVBRWYINDPWKA-VLQRKCJKSA-L,glycyrrhizinate dipotassium,US Previously Marketed,1,['NCATS']
+4506,4506,CCCCCCCCCCCCCCCCOP([O-])(=O)OCC[N+](C)(C)C,42,PQLXHQMOHUQAKB-UHFFFAOYSA-N,miltefosine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3681,3681,CCCC(CCC)C(=O)O[C@]1([H])C[C@]2([H])CC[C@]([H])(C1)[N+]2(C)C,50,XGGHHHBGPSNXFE-ZSHCYNCHSA-N,methyl anisotropinium,US Previously Marketed,1,"['ChEMBL', 'NCATS']"
+157,157,CC1=C2[C@]([H])(C(=O)[C@]3(C)[C@]([H])(C[C@]4([H])[C@@](CO4)([C@@]3([H])[C@@]([H])([C@](C[C@]1([H])OC(=O)[C@@]([H])([C@]([H])(c5ccccc5)N=C(c6ccccc6)O)O)(C2(C)C)O)OC(=O)c7ccccc7)OC(=O)C)OC(=O)OCC([H])(CO)O)OC(=O)C,190,HSUDWURBWSUCOB-JPHWUADUSA-N,paclitaxel ceribate,US Approved Rx,0,['NCATS']
+4082,4082,CCCC(=O)NC1=CC=C(OCC(O)CNC(C)C)C(=C1)C(C)=O,46,GOEMGAFJFRBGGG-UHFFFAOYSA-N,acebutolol,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5636,5636,CCOc1ccc(cc1)NC(=O)CN.O,29,LQJARUQXWJSDFL-UHFFFAOYSA-N,phenocoll monohydrate,Possibly Marketed Outside US,0,['NCATS']
+5905,5905,CCC1=NC=CC(=C1)C(N)=S,24,AEOCXXJPGCBFJA-UHFFFAOYSA-N,ethionamide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+603,603,NC[C@@H]1CC[C@@H](N)[C@@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)O1,112,JJCQSGDBDPYCEO-XVZSLQNASA-N,dibekacin,approved,0,"['DrugBank', 'NCATS']"
+5105,5105,O[Bi]1OC2=CC(=CC(O)=C2O1)C(O)=O,36,JAONZGLTYYUPCT-UHFFFAOYSA-K,bismuth subgallate,approved,0,"['DrugBank', 'NCATS']"
+5044,5044,CCCC(CCC)C(=O)OC1CC2CCC(C1)[N+]2(C)C,36,XGGHHHBGPSNXFE-XYPWUTKMSA-N,anisotropine,withdrawn,1,['WITHDRAWN']
+957,957,Cc1c(-c2ccccc2)n(c3cccc[n+]13)/N=N/n4c5cccc[n+]5c(C)c4-c6ccccc6,95,NJAGGYXZTILBMJ-UHFFFAOYSA-N,fazadinium,Possibly Marketed Outside US,0,['NCATS']
+4876,4876,BrC1=C(NC2=NCCN2)C=CC2=NC=CN=C12,38,XYLJNLCSTIOKRM-UHFFFAOYSA-N,brimonidine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1555,1555,Cn1c(nnn1)SCC2=C(C(=O)O)N3C(=O)[C@]([H])([C@@]3([H])SC2)N=C([C@@]([H])(c4ccccc4)O)O,79,OLVCFLKTBJRLHI-AXAPSJFSSA-N,cefamandole,US Previously Marketed,1,['NCATS']
+5771,5771,CC1NCCOC1c1ccccc1.Cl,26,VJNXVAVKCZJOFQ-UHFFFAOYSA-N,phenmetrazine hydrochloride,withdrawn,1,['ChEMBL']
+3619,3619,CN(C)CCC1=CNC2=CC=C(C[C@H]3COC(=O)N3)C=C12,51,ULSDMUVEXKOYBU-ZDUSSCGKSA-N,zolmitriptan,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1251,1251,CC(C)(C)C1=NC(=C(S1)C1=NC(N)=NC=C1)C1=C(F)C(NS(=O)(=O)C2=C(F)C=CC=C2F)=CC=C1,86,BFSMGDJOXZAERB-UHFFFAOYSA-N,dabrafenib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+988,988,CC1=C/C/2=N\CCCCCCCCCC/N=C/3\C=C(C)N(CCCCCCCCCCN1c4ccccc24)c5ccccc35.CC(=O)O.CC(=O)O,94,GCWKUHNKKWYKOP-UHFFFAOYSA-N,bisdequalinium diacetate,Possibly Marketed Outside US,0,['NCATS']
+5395,5395,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,32,FAKRSMQSSFJEIM-RQJHMYQMSA-N,captopril,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+672,672,CC(=CC[C@]1([H])[C@@](C)([C@@]2([H])[C@@]([H])([C@@]([H])(CC[C@@]32CO3)OC(=O)/C(/[H])=C(\[H])/C(/[H])=C(\[H])/C(/[H])=C(\[H])/C(/[H])=C(\[H])/C(=O)O)OC)O1)C.C1CCC(CC1)NC2CCCCC2,107,NGGMYCMLYOUNGM-SSXZYXAESA-N,bicyclohexylammonium fumagillin,US Previously Marketed,1,['NCATS']
+4309,4309,CCCCCCCCCCCCCCCCCCOC(=O)CC(CC(=O)O)(C(=O)O)O,44,REVZBRXEBPWDRA-UHFFFAOYSA-N,"citric acid, 1-stearyl ester",US Approved OTC,0,['NCATS']
+6188,6188,C1C(CN(CC(=N)O)C1=O)O,19,IHLAQQPQKRMGSS-UHFFFAOYSA-N,oxiracetam,Possibly Marketed Outside US,0,['NCATS']
+3912,3912,C[n+]1ccc(cc1)C(=[OH+])[N-]Cc2ccccc2,48,QOEJDHLJOKRPJG-UHFFFAOYSA-O,enisamium,Possibly Marketed Outside US,0,['NCATS']
+4847,4847,C1CNCCC1CCC2=CNC3=CC=CC=C32,38,SADQVAVFGNTEOD-UHFFFAOYSA-N,indalpine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+3492,3492,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl.OCCN1CCCC1,53,DCERVXIINVUMKU-UHFFFAOYSA-N,diclofenac epolamine,approved,0,['ChEMBL']
+2255,2255,COC1=C(C=C2C(OC3=CC=C(NC(=O)NC4CC4)C(Cl)=C3)=CC=NC2=C1)C(N)=O,68,WOSKHXYHFSIKNG-UHFFFAOYSA-N,lenvatinib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5122,5122,CNCCCCOc1ccccc1Cc2ccccc2,36,QSQQPMHPCBLLGX-UHFFFAOYSA-N,bifemelane,Possibly Marketed Outside US,0,['NCATS']
+2657,2657,CCC(=O)NS(=O)(=O)C1=CC=C(C=C1)C2=C(ON=C2C3=CC=CC=C3)C,62,TZRHLKRLEZJVIJ-UHFFFAOYSA-N,parecoxib,withdrawn,1,['WITHDRAWN']
+2297,2297,CC1=C(C(=C2CCC(OC2=C1C)(C)COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4)C)O,67,GXPHKUHSUJUWKP-UHFFFAOYSA-N,troglitazone,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+4,4,CO[C@H]1O[C@H](COS(O)(=O)=O)[C@@H](O[C@@H]2O[C@H]([C@@H](O[C@H]3O[C@H](COS(O)(=O)=O)[C@@H](O[C@@H]4O[C@@H]([C@@H](O[C@H]5O[C@H](COS(O)(=O)=O)[C@@H](O)[C@H](O)[C@H]5NS(O)(=O)=O)[C@H](O)[C@H]4O)C(O)=O)[C@H](OS(O)(=O)=O)[C@H]3NS(O)(=O)=O)[C@H](O)[C@H]2OS(O)(=O)=O)C(O)=O)[C@H](O)[C@H]1NS(O)(=O)=O,293,KANJSNBRCNMZMV-ABRZTLGGSA-N,fondaparinux,approved; investigational,0,"['DrugBank', 'NCATS']"
+1489,1489,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1.O=[N+]([O-])O,81,HAAITRDZHUANGT-UHFFFAOYSA-N,sertaconazole nitrate,approved,0,['ChEMBL']
+1850,1850,CC(C)C1C2=C(CCC1(CCN(C)CCCC3=NC4=CC=CC=C4N3)OC(=O)COC)C=C(C=C2)F,74,HBNPJJILLOYFJU-VMPREFPWSA-N,mibefradil,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+2659,2659,CCCCCCc1ccc(O)cc1O.Nc1c2ccccc2nc2ccccc12,62,YZODJQFXMFEJRM-UHFFFAOYSA-N,acrisorcin,withdrawn,1,['ChEMBL']
+1594,1594,CN1CC[C@]([H])(C[C@]1([H])c2[nH]c3ccccc3n2)N=C(Nc4ccc(cc4)C#N)O.Cl.Cl,79,PFKJLMROSSVKSV-NMWSZSNKSA-N,glasdegib dihydrochloride,US Approved Rx,0,['NCATS']
+2443,2443,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O.Cl.Cl.O.O,65,YVNAYSHNIILOJS-UHFFFAOYSA-N,amodiaquine hydrochloride,withdrawn,1,['ChEMBL']
+5015,5015,C[N+](C)(C)CCOP(=O)([O-])OC[C@@]([H])(CO)O,37,HDUQGPMPQGZXPN-MRVPVSSYSA-N,choline alfoscerate,Possibly Marketed Outside US,0,['NCATS']
+1934,1934,FC(F)(F)C1=CC=C(CNC2=NC=C(CC3=CNC4=NC=C(Cl)C=C34)C=C2)C=N1,73,JGWRKYUXBBNENE-UHFFFAOYSA-N,pexidartinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+226,226,CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C2=O)C2=C(O)C(\C=N\N4CCN(C)CC4)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(O)=C2C(O)=C3C,168,JQXXHWHPUNPDRT-WLSIYKJHSA-N,rifampicin,approved,0,"['DrugBank', 'ChEMBL']"
+5114,5114,CC(=O)O.NCc1ccc(S(N)(=O)=O)cc1,36,UILOTUUZKGTYFQ-UHFFFAOYSA-N,mafenide acetate,approved,0,['ChEMBL']
+2723,2723,CC[C@]12CCCN3CCc4c5ccccc5n(C(=C1)C(=O)OCC)c4[C@]23[H],62,DDNCQMVWWZOMLN-IRLDBZIGSA-N,vinpocetine,Possibly Marketed Outside US,0,['NCATS']
+88,88,CC1(C)[C@]2([H])CC[C@]3(C)[C@]([H])(C(=O)C=C4[C@]5([H])C[C@](C)(CC[C@]5(C)CC[C@]43C)C(=O)[O-])[C@@]2(C)CC[C@]1([H])O[C@]6([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)[O-])O6)O)O)O[C@@]7([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)[O-])O7)O)O)O.[Na+].[Na+].[Na+],217,CCXAYLQLOLXXKE-DWJAGBRCSA-K,trisodium glycyrrhizate,US Previously Marketed,1,['NCATS']
+6202,6202,CSCC[C@@]([H])(C(=O)O)N,18,FFEARJCKVFRZRR-BYPYZUCNSA-N,methionine,US Previously Marketed,1,['NCATS']
+2211,2211,CN(CCOc1ccc(cc1)CC2C(=NC(=O)S2)O)c3ccccn3.C(\[H])(=C(/[H])\C(=O)O)/C(=O)O,69,SUFUKZSWUHZXAV-UHFFFAOYSA-N,rosiglitazone fumarate,US Approved Rx,0,['NCATS']
+4692,4692,COC1=C(O)C=CC(CNC(=O)CCCC\C=C\C(C)C)=C1,40,YKPUWZUDDOIDPM-SOFGYWHQSA-N,capsaicin,approved,0,"['DrugBank', 'ChEMBL']"
+5444,5444,CNCC(=O)c1ccc(c(c1)O)O.Cl,31,CSRRBDMYOUQTCO-UHFFFAOYSA-N,adrenalone hydrochloride,US Previously Marketed,1,['NCATS']
+6111,6111,C1CNCCN1.O.O.O.O.O.O,20,AVRVZRUEXIEGMP-UHFFFAOYSA-N,piperazine hexahydrate,US Previously Marketed,1,['NCATS']
+2924,2924,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O,59,AUYYCJSJGJYCDS-LBPRGKRZSA-N,liothyronine,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4611,4611,Cn1c2c(c(=O)n(C)c1=O)nc[nH]2.C(CO)N,41,DAAFJZUNCOXSKD-UHFFFAOYSA-N,theophylline olamine,US Approved Rx,0,['NCATS']
+1200,1200,CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)[O-])c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+].[Na+],87,RTYJTGSCYUUYAL-YCAHSCEMSA-L,carbenicillin disodium,withdrawn,1,['ChEMBL']
+6339,6339,CCCC(CCC)C(O)=O,15,NIJJYAXOARWZEE-UHFFFAOYSA-N,valproic acid,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2565,2565,Cc1cc2c(cccc2OCC(CNC(C)(C)C)OC(=O)c3ccccc3)[nH]1,64,UUOJIACWOAYWEZ-UHFFFAOYSA-N,bopindolol,Possibly Marketed Outside US,0,['NCATS']
+3935,3935,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,47,ASWVTGNCAZCNNR-UHFFFAOYSA-N,sulfamethazine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+2541,2541,OCCN(C(=O)CO)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I,64,AMDBBAQNWSUWGN-UHFFFAOYSA-N,ioversol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4330,4330,CC(C)NC(=N)NC(=N)Nc1ccc(cc1)Cl.CC(=O)O,44,GMZHWOAPIKGZAJ-UHFFFAOYSA-N,proguanil acetate,US Approved Rx,0,['NCATS']
+2450,2450,CC(C)(Cc1ccccc1)NC.CC(C)(Cc1ccccc1)NC.OS(=O)(=O)O.O.O,65,JPESSSURNLGQRF-UHFFFAOYSA-N,mephentermine sulfate dihydrate,US Previously Marketed,1,['NCATS']
+2790,2790,Cc1c(CCNCc2ccc(cc2)/C(/[H])=C(\[H])/C(=NO)O)c3ccccc3[nH]1.O,61,FPOHNWQLNRZRFC-UHFFFAOYSA-N,panobinostat hydrate,US Approved Rx,0,['NCATS']
+1249,1249,CN(C)C1=CC=C(C=C1)[C@H]1C[C@@]2(C)[C@@H](CC[C@]2(O)C(C)=O)[C@@H]2CCC3=CC(=O)CCC3=C12,86,HKDLNTKNLJPAIY-WKWWZUSTSA-N,ulipristal,approved,0,"['DrugBank', 'NCATS']"
+2157,2157,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)C(C4=CC=CC=C4)OC=O)SC2)C(=O)O,69,RRJHESVQVSRQEX-SUYBPPKGSA-N,cefamandole nafate,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+1144,1144,CC1=NN(c2ccc(C)c(C)c2)C(=O)/C1=N\Nc1cccc(-c2cccc(C(=O)O)c2)c1O.NCCO.NCCO,89,PLILLUUXAVKBPY-SBIAVEDLSA-N,eltrombopag olamine,approved,0,['ChEMBL']
+2653,2653,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,62,CGIGDMFJXJATDK-UHFFFAOYSA-N,indomethacin,withdrawn,1,['WITHDRAWN']
+518,518,C=Cc1c(C)c2c([H])c3C(=C(CCC(=O)[O-])c(c([H])c4C(=C(C)c(c([H])c5c(C=C)c(C)c(c([H])c1[n-]2)[nH]5)n4)CCC(=O)[O-])n3)C.Cl.[Fe+3],120,BTIJJDXEELBZFS-UHFFFAOYSA-K,hemin,US Approved Rx,0,['NCATS']
+2902,2902,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,59,FUBBGQLTSCSAON-PBFPGSCMSA-N,cephaloglycin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+6274,6274,C(C(=O)[O-])N.[Na+],17,DHMQDGOQFOQNFH-UHFFFAOYSA-M,sodium glycinate,US Approved OTC,0,['NCATS']
+4457,4457,CC1=CC(=NN=C1NCCN2CCOCC2)C3=CC=CC=C3,42,LDMWSLGGVTVJPG-UHFFFAOYSA-N,minaprine,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+4659,4659,c1cc(c(/C(/[H])=N/NC(=N)N)c(c1)Cl)Cl.CC(=O)O,40,MCSPBPXATWBACD-UHFFFAOYSA-N,guanabenz acetate,US Previously Marketed,1,['NCATS']
+963,963,CCCC(=O)c1ccc2c(c1)N(CCCN3CCN(C)CC3)c4ccccc4S2.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,94,DVLBYTMYSMAKHP-UHFFFAOYSA-N,butaperazine maleate,US Previously Marketed,1,['NCATS']
+2044,2044,COC1=C(C=C(C=C1)C1=CC2=C(C=C1)C=C(C=C2)C(O)=O)C12CC3CC(CC(C3)C1)C2,71,LZCDAPDGXCYOEH-UHFFFAOYSA-N,adapalene,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+316,316,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5.CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5.O.O.O.O.O.O=S(=O)(O)O,147,GRVOTVYEFDAHCL-RTSZDRIGSA-N,morphine sulfate,approved,0,['ChEMBL']
+4561,4561,CC(C)(C)NC[C@@]([H])(COc1ccccc1C2CCCC2)O,41,KQXKVJAGOJTNJS-HNNXBMFYSA-N,penbutolol,US Previously Marketed,1,['NCATS']
+841,841,CO[C@@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1Cc4ccc(O)c5c4[C@@]3(CCN1CC1CC1)[C@H]2O5.Cl,99,UAIXRPCCYXNJMQ-HPRIMLMLSA-N,buprenorphine hydrochloride,approved,0,['ChEMBL']
+5941,5941,[Cl-].[Cl-].[Cl-].[Sm+3],24,BHXBZLPMVFUQBQ-JIYWDPRMSA-K,samarium chloride sm-153,US Approved Rx,0,['NCATS']
+5150,5150,C=CCOc1ccccc1OCC(O)CNC(C)C.Cl,35,COAJXCLTPGGDAJ-UHFFFAOYSA-N,oxprenolol hydrochloride,withdrawn,1,['ChEMBL']
+4299,4299,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2.Cl,44,GQWNECFJGBQMBO-UHFFFAOYSA-N,molindone hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+3725,3725,C(\[H])(=C(/C#N)\C(=O)O)/c1cc(c(c(c1)O)O)N(=O)=O,50,XDDDOLQEZBJWFZ-UHFFFAOYSA-N,entacapone acid,Possibly Marketed Outside US,0,['NCATS']
+3588,3588,c1cn([C@@]2([H])[C@@]([H])([C@@]([H])([C@@]([H])(CO)O2)O)O)c(=O)nc1O,52,DRTQHJPVMGBUCF-XVFCMESISA-N,uridine,US Approved Rx,0,['NCATS']
+2038,2038,CCC(=O)c1ccc2c(c1)N(CC(C)N(C)C)c3ccccc3S2.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,71,ILEKKZUHFYUQIE-UHFFFAOYSA-N,propiomazine maleate,US Previously Marketed,1,['NCATS']
+362,362,c1cn([C@@]2([H])[C@@]([H])([C@@]([H])([C@@]([H])(COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@]3([H])[C@]([H])([C@]([H])([C@]([H])(n4ccc(nc4=O)O)O3)O)O)O2)O)O)c(=O)nc1O,139,NMLMACJWHPHKGR-NCOIDOBVSA-N,diquafosol,Possibly Marketed Outside US,0,['NCATS']
+3573,3573,C[C@]([H])(c1ccccc1)N.C[C@@]1([H])[C@]([H])(O1)P(=O)(O)O.O,52,RQEUFEKYXDPUSK-SSDOTTSWSA-N,fosfomycin (r)-1-phenethylamine monohydrate,US Approved Rx,0,['NCATS']
+5728,5728,CNCC(c1ccc(cc1)O)O.Cl,27,COTCEGYSNTWJQV-UHFFFAOYSA-N,oxedrine hydrochloride,US Previously Marketed,1,['NCATS']
+2466,2466,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]1O[C@H](C)[C@@H](O)[C@H]1O,65,GAGWJHPBXLXJQN-UORFTKCHSA-N,capecitabine,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4177,4177,OC1N=C(C2=CC=CC=C2)C2=C(NC1=O)C=CC(Cl)=C2,45,ADIMAYPTOBDMTL-UHFFFAOYSA-N,oxazepam,approved,0,"['DrugBank', 'ChEMBL']"
+711,711,CC1(C)[C@]([H])(C(=O)O)N2C(=O)[C@]([H])([C@@]2([H])S1)N=C([C@@]([H])(c3ccccc3)N=C(N4CCN(C4=O)S(=O)(=O)C)O)[O-].[Na+].O,105,CZXDIDROKIDGNE-SYNJJEHYSA-M,mezlocillin sodium monohydrate,US Previously Marketed,1,['NCATS']
+1182,1182,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C.O=C(O)C[C@H](O)C(=O)O,88,LBWFXVZLPYTWQI-IPOVEDGCSA-N,sunitinib malate,approved,0,['ChEMBL']
+1608,1608,CCCCCCCC(=O)Oc1ccc(cc1)[C@]([H])(CC)[C@]([H])(CC)c2ccc(cc2)OC(=O)CCCCCCC,78,JZMCTYYCJNIOBO-MEKGRNQZSA-N,hexestrol dicaprylate,US Previously Marketed,1,['NCATS']
+2454,2454,CC/C(=C(/CC)\c1ccc(cc1)OP(=O)(O)O)/c2ccc(cc2)OP(=O)(O)O,65,NLORYLAYLIXTID-UHFFFAOYSA-N,fosfestrol,US Previously Marketed,1,['NCATS']
+2655,2655,CC1=C(C2=C(N1CC(=O)O)C=C(C=C2)OC)C(=O)C3=CC=C(C=C3)Cl,62,DGMZLCLHHVYDIS-UHFFFAOYSA-N,clometacin,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+1014,1014,C1CN(CCN1CCOC(=O)C2=CC=CC=C2NC3=C4C=CC(=CC4=NC=C3)C(F)(F)F)C5=CC=CC(=C5)C(F)(F)F,92,NWGGKKGAFZIVBJ-UHFFFAOYSA-N,antrafenine,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+6069,6069,[H]N([H])CC(=O)CCC(=O)OCCCCCC,21,RYQOILLJDKPETL-UHFFFAOYSA-N,hexaminolevulinate,approved,0,"['DrugBank', 'ChEMBL']"
+3128,3128,CC(CCc1ccc(cc1)O)NCCc2ccc(c(c2)O)O.OP(=O)(O)O,57,JJDDIKDNBCHINM-UHFFFAOYSA-N,dobutamine phosphate,US Approved Rx,0,['NCATS']
+455,455,CC(=O)OC[C@]1([H])[C@]([H])([C@@]([H])([C@]([H])([C@]([H])(O1)O[C@@]2(COC(=O)C)[C@]([H])([C@@]([H])([C@@]([H])(COC(=O)C)O2)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,126,ZIJKGAXBCRWEOL-SAXBRCJISA-N,sucrose octaacetate,US Previously Marketed,1,['NCATS']
+3105,3105,Cl.Cl.OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,57,ANOMHKZSQFYSBR-UHFFFAOYSA-N,hydroxyzine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+2284,2284,CC(=O)c1ccc2c(c1)N(CCCN(C)C)c3ccccc3S2.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,68,FQRHOOHLUYHMGG-UHFFFAOYSA-N,acepromazine maleate,Possibly Marketed Outside US,0,['NCATS']
+3387,3387,C[N@@+]12CCCC[C@]2([H])CCC(=C(c3cccs3)c4cccs4)C1,54,ZGSDGGRVFIYKKE-OXQOHEQNSA-N,tiquizium,Possibly Marketed Outside US,0,['NCATS']
+1308,1308,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N.OS(=O)(=O)O,84,OIXVKQDWLFHVGR-WQDIDPJDSA-N,neomycin sulfate,withdrawn,1,['WITHDRAWN']
+4442,4442,CN1CCC2=C(C1)c3ccccc3Cc4ccccc42,43,GVPIXRLYKVFFMK-UHFFFAOYSA-N,setiptiline,Possibly Marketed Outside US,0,['NCATS']
+2709,2709,C#Cc1cccc(c1)Nc2c3cc4c(cc3ncn2)OCCOCCOCCO4.Cl,62,PNNGXMJMUUJHAV-UHFFFAOYSA-N,icotinib hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+3149,3149,C1=CC(=C(C=C1C(CNCCCCCCNCC(C2=CC(=C(C=C2)O)O)O)O)O)O,56,OXLZNBCNGJWPRV-UHFFFAOYSA-N,hexoprenaline,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+1117,1117,CCCCCCCCCCCCCCCC(=NCC(=N[C@@]([H])(CCC(=N)O)C(=O)N1CCC[C@@]1([H])C(=N[C@@]([H])(CCCNC(=N)N)C(=O)O)O)O)O,90,IHRKJQSLKLYWBQ-QKDODKLFSA-N,palmitoyl tetrapeptide-7,Possibly Marketed Outside US,0,['NCATS']
+1748,1748,COC1=CC(NC2=C(C=NC3=CC(OCCCN4CCN(C)CC4)=C(OC)C=C23)C#N)=C(Cl)C=C1Cl,76,UBPYILGKFZZVDX-UHFFFAOYSA-N,bosutinib,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+953,953,CN([C@]1([H])CC[C@]2([C@@]3([H])Cc4ccc(c5c4[C@@]2(CCN3CC6CC6)[C@@]1([H])O5)O)O)C(=O)/C(/[H])=C(\[H])/c7ccoc7,95,XGZZHZMWIXFATA-OUBLWOLJSA-N,nalfurafine,Possibly Marketed Outside US,0,['NCATS']
+5772,5772,C(CC(=O)O)[C@@]([H])(C(=O)O)N.Cl,26,RPAJSBKBKSSMLJ-DFWYDOINSA-N,glutamic acid hydrochloride,US Previously Marketed,1,['NCATS']
+2170,2170,c1cc(c(cc1[As]=[As]c2ccc(c(c2)NCOSO)[O-])N)[O-].[Na+].[Na+],69,DPHYMYNGFCHTGH-UHFFFAOYSA-K,neoarsphenamine disodium,US Previously Marketed,1,['NCATS']
+194,194,CC[C@]1([H])[C@](C)([C@@]([H])([C@@]([H])(C)C(=O)[C@]([H])(C)C[C@](C)([C@@]([H])([C@@]([H])(C)[C@@]([H])([C@@]([H])(C)C(=O)O1)O[C@@]2([H])C[C@](C)([C@]([H])([C@]([H])(C)O2)O)OC)O[C@@]3([H])[C@@]([H])([C@]([H])(C[C@@]([H])(C)O3)N(C)C)O)O)O)O.Cl,176,BXBSPTIDIMGJNO-YZPBMOCRSA-N,erythromycin hydrochloride,US Approved Rx,0,['NCATS']
+3582,3582,CC(COc1ccc(cc1)Oc2ccccc2)Oc3ccccn3,52,NHDHVHZZCFYRSB-UHFFFAOYSA-N,pyriproxyfen,Possibly Marketed Outside US,0,['NCATS']
+5383,5383,c1cc2c(cc1Cl)[nH]c(=N)o2,32,YGCODSQDUUUKIV-UHFFFAOYSA-N,zoxazolamine,US Previously Marketed,1,['NCATS']
+1206,1206,C[C@@]([H])(CO)N=C([C@]1([H])C=C2c3cccc4c3c(C[C@@]2([H])N(C)C1)c[nH]4)O.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,87,VZCYOOQTPOCHFL-UHFFFAOYSA-N,ergonovine maleate,US Previously Marketed,1,['NCATS']
+4352,4352,CN(C)CCC(O)(c1ccccc1)c1ccccc1Cl,43,WRCHFMBCVFFYEQ-UHFFFAOYSA-N,chlophedianol,withdrawn,1,"['DrugBank', 'ChEMBL']"
+4719,4719,CCOc1cc(c(cc1C(=O)CCC(=O)O)OCC)OCC,40,YPTFHLJNWSJXKG-UHFFFAOYSA-N,trepibutone,Possibly Marketed Outside US,0,['NCATS']
+434,434,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1.Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1.O=C(O)C(O)C(O)C(=O)O,130,VXRDAMSNTXUHFX-UHFFFAOYSA-N,zolpidem tartrate,approved,0,['ChEMBL']
+3893,3893,CCN1CCCC1CNC(=O)C1=CC(=C(N)C=C1OC)S(=O)(=O)CC,48,NTJOBXMMWNYJFB-UHFFFAOYSA-N,amisulpride,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6015,6015,[As](=O)([O-])([O-])[O-],22,DJHGAFSJWGLOIV-UHFFFAOYSA-K,arsenate ion,US Previously Marketed,1,['NCATS']
+2159,2159,C1=CC=C(C=C1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC3=CC=C(C=C3)C(=O)O,69,SPPTWHFVYKCNNK-FQEVSTJZSA-N,bentiromide,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+5683,5683,CCOCCP(CCOCC)CCP(CCOCC)CCOCC,28,QCWJONLQSHEGEJ-UHFFFAOYSA-N,tetrofosmin,approved,0,"['DrugBank', 'NCATS']"
+377,377,C[S@+](CC[C@@]([H])(C(=O)[O-])N)C[C@]1([H])[C@]([H])([C@]([H])([C@]([H])(n2cnc3c(N)ncnc32)O1)O)O.Cc1ccc(cc1)S(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O,137,JOXIMZWYDAKGHI-UHFFFAOYSA-N,"s-adenosyl-l-methionine disulfate tosylate, (r)-",Possibly Marketed Outside US,0,['NCATS']
+2670,2670,C/C(/[H])=C(\c1ccc(cc1)OC(=O)C)/C(=C(\[H])/C)/c2ccc(cc2)OC(=O)C,62,YWLLGDVBTLPARJ-UHFFFAOYSA-N,dienestrol diacetate,US Previously Marketed,1,['NCATS']
+3821,3821,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-],49,JZMJDSHXVKJFKW-UHFFFAOYSA-M,behentrimonium methosulfate,Possibly Marketed Outside US,0,['NCATS']
+1234,1234,CC(C)(C)C(=O)OCOC(=O)[C@@]1([H])C(C)(C)S[C@]2([H])[C@@]([H])(C(=O)N12)N=C([C@@]([H])(c3ccccc3)N)O.Cl,87,DQECFVGMGBQCPA-GLCLSGQWSA-N,pivampicillin hydrochloride,US Approved Rx,0,['NCATS']
+2360,2360,CN(C)c1ccc2c(c1)[s+]c3cc(ccc3n2)N(C)C.[Cl-].O.O.O.O.O,67,MPJUMPKAHSMDLF-UHFFFAOYSA-M,methylene blue pentahydrate,US Approved Rx,0,['NCATS']
+1520,1520,CC(C)(C(O)=O)C1=CC=C(C=C1)C(O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,80,RWTNPBWLLIMQHL-UHFFFAOYSA-N,fexofenadine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3146,3146,CC(=O)OCC1C(C(C(O1)N2C(=O)NC(=O)C=N2)OC(=O)C)OC(=O)C,56,QQOBRRFOVWGIMD-OJAKKHQRSA-N,azaribine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+6153,6153,COC(=O)CCC(=O)CN.Cl,19,UJYSYPVQHFNBML-UHFFFAOYSA-N,methyl aminolevulinate hydrochloride,US Previously Marketed,1,['NCATS']
+981,981,CN1C=C(C=N1)C1=CN2N=CN=C(N3CCN(CC3)C3=NC=C(C=N3)[C@@](C)(N)C3=CC=C(F)C=C3)C2=C1,94,DWYRIWUZIJHQKQ-SANMLTNESA-N,avapritinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4001,4001,CCCSS/C(=C(\C)/N(Cc1cnc(C)[nH]c1=N)C=O)/CCO,47,UDCIYVVYDCXLSX-UHFFFAOYSA-N,prosultiamine,Possibly Marketed Outside US,0,['NCATS']
+6498,6498,C=COC=C,7,QYKIQEUNHZKYBP-UHFFFAOYSA-N,vinyl ether,US Previously Marketed,1,['NCATS']
+4820,4820,C(=O)[C@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O)O)O)O,39,GZCGUPFRVQAUEE-KVTDHHQDSA-N,"mannose, d-",Possibly Marketed Outside US,0,['NCATS']
+387,387,C=CC1=C(C)c2c([H])c3c(C)c(CCC(=O)O)c(c([H])c4C(=C(C)c(c([H])c5c(C=C)c(C)c(c([H])c1n2)[nH]5)n4)CCC(=O)O)[nH]3.C(C[C@@]([H])(C(=O)O)N)CNC(=N)N.[Fe+2],136,BONOMRJXDYBFLR-INZIHYEWSA-N,heme arginate,Possibly Marketed Outside US,0,['NCATS']
+707,707,C[C@]1([H])C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@]2(C)[C@]1(C(=O)COS(=O)(=O)[O-])O)O)F.[Na+],106,DVVRRDZBTZGGCT-WKSAPEMMSA-M,dexamethasone sodium sulfate,US Approved Rx,0,['NCATS']
+5830,5830,C(C(CS(=O)(=O)[O-])S)S.[Na+],26,FGGPAWQCCGEWTJ-UHFFFAOYSA-M,unithiol,Possibly Marketed Outside US,0,['NCATS']
+6510,6510,B(O)(O)O,6,KGBXLFKZBHKPEV-UHFFFAOYSA-N,boric acid,withdrawn,1,"['WITHDRAWN', 'NCATS']"
+6309,6309,[Na+].CC([O-])=O,16,VMHLLURERBWHNL-UHFFFAOYSA-M,sodium acetate,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1283,1283,CC(C)[C@@]([H])(C)/C(/[H])=C(\[H])/[C@@]([H])(C)[C@@]1([H])CC[C@@]2([H])/C(=C(\[H])/C(/[H])=C/3\C[C@]([H])(CC[C@]3([H])C)O)/CCC[C@]12C,85,ILYCWAKSDCYMBB-QHOORVTFSA-N,dihydrotachysterol,US Previously Marketed,1,['NCATS']
+1454,1454,CC[C@]([H])(C(=O)O)Oc1cccc(c1)CN(CCCOc2ccc(cc2)OC)c3nc4ccccc4o3,82,ZHKNLJLMDFQVHJ-RUZDIDTESA-N,pemafibrate,Possibly Marketed Outside US,0,['NCATS']
+4909,4909,CCCCN(CCCC)C(c1ccc(cc1)OC)C(=N)O,38,WUSAVCGXMSWMQM-UHFFFAOYSA-N,ambucetamide,Possibly Marketed Outside US,0,['NCATS']
+4313,4313,CN(C)CC/C(/[H])=C/1\c2ccccc2CSc3ccccc13,44,PHTUQLWOUWZIMZ-UHFFFAOYSA-N,dothiepin,Possibly Marketed Outside US,0,['NCATS']
+5680,5680,CC(C)(CO)[C@@H](O)C(=O)NCCCO,28,SNPLKNRPJHDVJA-ZETCQYMHSA-N,dexpanthenol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1459,1459,CN1C(=O)C[C@@]([H])(C(=N[C@@]([H])(Cc2cnc[nH]2)C(=O)N3CCC[C@@]3([H])C(=N)O)O)N=C1O.O.O.O.O,82,HRCJDWMUKPHPHR-NTFWNTCYSA-N,taltirelin tetrahydrate,Possibly Marketed Outside US,0,['NCATS']
+6058,6058,[Ce+3].[F-].[F-].[F-],21,KRHYYFGTRYWZRS-UHFFFAOYSA-N,cerous fluoride,US Previously Marketed,1,['NCATS']
+2152,2152,C=CCN1CC[C@@]23c4c5ccc(c4O[C@@]3([H])C(=O)CC[C@]2([C@@]1([H])C5)O)O.Cl.O.O,70,TXMZWEASFRBVKY-IOQDSZRYSA-N,naloxone hydrochloride dihydrate,US Approved Rx,0,['NCATS']
+6370,6370,CCCCCCCCC(=O)O,14,FBUKVWPVBMHYJY-UHFFFAOYSA-N,pelargonic acid,US Previously Marketed,1,['NCATS']
+2327,2327,[Al+3].[Al+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O,67,DIZPMCHEQGEION-UHFFFAOYSA-H,aluminum sulfate,approved,0,"['DrugBank', 'NCATS']"
+258,258,COc1cc(CC2c3c(cc(OC)c(OC)c3OC)CC[N+]2(C)CCCOC(=O)CCC(=O)OCCC[N+]2(C)CCc3cc(OC)c(OC)c(OC)c3C2Cc2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC.[Cl-].[Cl-],160,APADFLLAXHIMFU-UHFFFAOYSA-L,doxacurium chloride,withdrawn,1,['ChEMBL']
+6313,6313,[I-].[I-].[Pt+2],16,HRGDZIGMBDGFTC-UHFFFAOYSA-N,platinous iodide,US Approved Rx,0,['NCATS']
+2281,2281,CN1CC[C@@]23[C@@]4([H])CCC(=O)[C@]2([H])Oc5c(ccc(C[C@]41[H])c53)OC.Cl.O.O,68,HEUMIQUBXVWULP-GXTZACRKSA-N,hydrocodone hydrochloride dihydrate,US Approved Rx,0,['NCATS']
+2768,2768,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC,61,KPBZROQVTHLCDU-UHFFFAOYSA-N,clevidipine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3114,3114,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1.O.O=C(O)/C=C/C(=O)O,57,YETWCSLOYUZBLK-JITBQSAISA-N,desvenlafaxine fumarate,approved,0,['ChEMBL']
+5129,5129,CCc1ccc(cc1)C(=O)C(C)CN2CCCCC2,36,SQUNAWUMZGQQJD-UHFFFAOYSA-N,eperisone,Possibly Marketed Outside US,0,['NCATS']
+2811,2811,CC(=Nc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)N(=O)=O)O,61,GWBPFRGXNGPPMF-UHFFFAOYSA-N,sulfanitran,Possibly Marketed Outside US,0,['NCATS']
+2081,2081,c1cc2c(CO[C@@]([H])(Cn3ccnc3)c4ccc(cc4Cl)Cl)csc2c(c1)Cl,71,JLGKQTAYUIMGRK-IBGZPJMESA-N,arasertaconazole,US Approved Rx,0,['NCATS']
+3631,3631,CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N,51,YBBLVLTVTVSKRW-UHFFFAOYSA-N,anastrozole,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4553,4553,CCC(CC)(C1=CC=CC=C1)C(=O)OCCOCCN(CC)CC,41,IQADUMSPOQKAAO-UHFFFAOYSA-N,oxeladin,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+818,818,O=C([O-])c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)[O-])cc(=O)c34)cccc2o1.[Na+].[Na+],100,VLARUOGDXDTHEH-UHFFFAOYSA-L,cromolyn sodium,approved,0,['ChEMBL']
+2903,2903,CCC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)CCO,59,XZSMZRXAEFNJCU-UHFFFAOYSA-N,carphenazine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+6212,6212,NNCCC1=CC=CC=C1,18,RMUCZJUITONUFY-UHFFFAOYSA-N,phenelzine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3544,3544,OCCN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1,52,RGCVKNLCSQQDEP-UHFFFAOYSA-N,perphenazine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1330,1330,CCCS(=O)(=O)NC1=C(F)C(C(=O)C2=CNC3=NC=C(C=C23)C2=CC=C(Cl)C=C2)=C(F)C=C1,84,GPXBXXGIAQBQNI-UHFFFAOYSA-N,vemurafenib,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1269,1269,CCN(CC)C(=N[C@@]1([H])C[C@]2([H])c3cccc4c3c(C[C@@]2([H])N(C)C1)c[nH]4)O.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,86,JOAHPSVPXZTVEP-YXJHDRRASA-N,terguride hydrogen maleate,Possibly Marketed Outside US,0,['NCATS']
+4903,4903,C[C@@H]1O[C@@H]1P(=O)(O)O.NC(CO)(CO)CO,38,QZJIMDIBFFHQDW-LMLSDSMGSA-N,fosfomycin tromethamine,approved,0,['ChEMBL']
+1009,1009,CCOc1ccc(cc1)Cc2cc(ccc2Cl)[C@@]3([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O3)O)O)O.C[C@@]([H])(CO)O.O,93,DNIAPMSPPWPWGF-VKHMYHEASA-N,dapagliflozin propanediol,US Approved Rx,0,['NCATS']
+4710,4710,CCOC(=O)[C@@](C)(N)Cc1ccc(O)c(O)c1,40,SVEBYYWCXTVYCR-LBPRGKRZSA-N,methyldopate,approved,0,"['ChEMBL', 'NCATS']"
+5049,5049,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C,36,SNPPWIUOZRMYNY-UHFFFAOYSA-N,bupropion,withdrawn,1,['WITHDRAWN']
+2538,2538,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(C=C3CC[C@@]21[H])=NO,64,ISHXLNHNDMZNMC-XUDSTZEESA-N,norelgestromin,approved; investigational,0,"['DrugBank', 'NCATS']"
+3358,3358,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O,54,MAEIEVLCKWDQJH-UHFFFAOYSA-N,bumetanide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+958,958,CN(C)c1ccc(c2c1C[C@@]3([H])C[C@@]4([H])[C@@]([H])(C(=C(C(=O)[C@]4(C(=C3C2=O)O)O)C(=N)O)O)N(C)C)O.Cl.O.O,95,GZAQVQPBWMPNJU-ZMKIAWMISA-N,minocycline hydrochloride dihydrate,US Approved Rx,0,['NCATS']
+1598,1598,C([C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O)O[C@@]1([H])[C@@]([H])([C@]([H])([C@]([H])([C@@]([H])(CO)O1)O)O)O)O)O)O.O,79,LXMBXZRLTPSWCR-XBLONOLSSA-N,lactitol monohydrate,US Approved Rx,0,['NCATS']
+859,859,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-])cc1.[Na+].[Na+],98,DASQOOZCTWOQPA-GXKRWWSZSA-L,methotrexate sodium,approved,0,['ChEMBL']
+6028,6028,S=P(N1CC1)(N1CC1)N1CC1,22,FOCVUCIESVLUNU-UHFFFAOYSA-N,thiotepa,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2693,2693,CN1C=NC2=C(F)C(NC3=C(Cl)C=C(Br)C=C3)=C(C=C12)C(=O)NOCCO,62,CYOHGALHFOKKQC-UHFFFAOYSA-N,selumetinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1593,1593,C1CC12CN(C[C@@]2([H])N)c3c(cc4c(c3Cl)n(cc(c4=O)C(=O)O)[C@]5([H])C[C@]5([H])F)F,79,PNUZDKCDAWUEGK-CYZMBNFOSA-N,sitafloxacin anhydrous,Possibly Marketed Outside US,0,['NCATS']
+5382,5382,CC(C)([C@@]1([H])CC[C@](C)(CC1)O)O.O,32,JGKJMBOJWVAMIJ-OFAZAQPOSA-N,terpin hydrate,US Previously Marketed,1,['NCATS']
+2968,2968,c1ccc2c(c1)nc3-c(cc(=O)c4c3c(cc(C(=O)O)n4)O)o2,59,OKPNYGAWTYOBFZ-UHFFFAOYSA-N,pirenoxine,Possibly Marketed Outside US,0,['NCATS']
+612,612,[H][C@@]12OC3=C4C(C[C@@]5([H])N(CC6CC6)CC[C@@]14[C@@]5(O)CC(C(=O)NC(C)(C)C1=NC(=NO1)C1=CC=CC=C1)=C2O)=CC=C3O,111,AXQACEQYCPKDMV-RZAWKFBISA-N,naldemedine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1436,1436,CC(C)OC(=O)[C@H](C)N[P@](=O)(CO[C@H](C)CN1C=NC2=C(N)N=CN=C12)OC1=CC=CC=C1,82,LDEKQSIMHVQZJK-CAQYMETFSA-N,tenofovir alafenamide,approved,0,"['DrugBank', 'ChEMBL']"
+5189,5189,CCCCC(CC)CN=C(CC(C)OC(=O)CCC(=O)O)O,35,CQONVBIGUJWUFE-UHFFFAOYSA-N,butoctamide semisuccinate,Possibly Marketed Outside US,0,['NCATS']
+6487,6487,NC(=O)NO,8,VSNHCAURESNICA-UHFFFAOYSA-N,hydroxyurea,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3129,3129,c1cc(c(cc1Oc2c(cc(cc2I)CC(C(=O)O)N)I)I)O.Cl,57,AUYYCJSJGJYCDS-UHFFFAOYSA-N,rathyronine hydrochloride,US Approved Rx,0,['NCATS']
+5818,5818,c1ccc2c(c1)cc[nH]2,26,SIKJAQJRHWYJAI-UHFFFAOYSA-N,indole,Possibly Marketed Outside US,0,['NCATS']
+5052,5052,CC(C)NCC(C1=CC2=CC=CC=C2C=C1)O,36,HRSANNODOVBCST-UHFFFAOYSA-N,pronetalol,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+2147,2147,CC(C)c1cc2CC[C@]3([H])[C@](C)(CCC[C@@]3(C)C(=O)O)c2cc1S(=O)(=O)O,70,IWCWQNVIUXZOMJ-MISYRCLQSA-N,ecabet,Possibly Marketed Outside US,0,['NCATS']
+1717,1717,CCCCC(=O)N(Cc1ccc(cc1)-c2ccccc2-c3n[nH]nn3)[C@]([H])(C(C)C)C(=O)O,77,ACWBQPMHZXGDFX-JOCHJYFZSA-N,"valsartan, d-",US Approved Rx,0,['NCATS']
+5043,5043,CCCCOC1=CC=C(C=C1)C(=O)CCN2CCCCC2,36,BZEWSEKUUPWQDQ-UHFFFAOYSA-N,dyclonine,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2241,2241,[H][C@]12SCC(C=C)=C(N1C(=O)[C@H]2NC(=O)C(=N/O)\C1=CSC(N)=N1)C(O)=O,68,RTXOFQZKPXMALH-GHXIOONMSA-N,cefdinir,approved,0,"['DrugBank', 'ChEMBL']"
+3645,3645,Cl.Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,51,ZHSKUOZOLHMKEA-UHFFFAOYSA-N,bendamustine hydrochloride,approved,0,['ChEMBL']
+3949,3949,CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C,47,KQKPFRSPSRPDEB-UHFFFAOYSA-N,sumatriptan,withdrawn,1,['WITHDRAWN']
+259,259,COC1=CC(C[C@@H]2C3=CC(OC)=C(OC)C=C3CC[N+]2(C)CCCOC(=O)CC\C=C\CCC(=O)OCCC[N+]2(C)CCC3=CC(OC)=C(OC)C=C3[C@H]2CC2=CC(OC)=C(OC)C(OC)=C2)=CC(OC)=C1OC,160,ILVYCEVXHALBSC-OTBYEXOQSA-N,mivacurium,approved,0,"['DrugBank', 'ChEMBL']"
+5245,5245,OC[C@H]1NC[C@H](O)[C@@H](O)[C@H]1O,34,LXBIFEVIBLOUGU-DPYQTVNSSA-N,migalastat,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5447,5447,CCCC(C)C1(CCSC)C(=NC(=S)N=C1O)O,31,KEMCRVSPPRNENL-UHFFFAOYSA-N,methitural,US Previously Marketed,1,['NCATS']
+3438,3438,c1ccc(cc1)C(c2ccccc2)(C(=O)OCCN3CCCCC3)O.Cl,53,RZWPJFMNFATBEG-UHFFFAOYSA-N,pipethanate hydrochloride,US Previously Marketed,1,['NCATS']
+2046,2046,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=C(O)C=C1)C(O)=O,71,LSQZJLSUYDQPKJ-NJBDSQKTSA-N,amoxicillin,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+613,613,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(=O)OCOC(=O)[C@@H]1N2C(=O)C[C@@]2([H])S(=O)(=O)C1(C)C,111,OPYGFNJSCUDTBT-PMLPCWDUSA-N,sultamicillin,approved; investigational,0,"['DrugBank', 'NCATS']"
+4919,4919,C(CCCCC(=O)[O-])CCCC(=O)[O-].[Na+].[Na+],38,CXMXRPHRNRROMY-UHFFFAOYSA-L,disodium sebacate,Possibly Marketed Outside US,0,['NCATS']
+6062,6062,c1ccc(c(c1)C(=N)O)O,21,SKZKKFZAGNVIMN-UHFFFAOYSA-N,salicylamide,US Previously Marketed,1,['NCATS']
+6137,6137,[Na+].[Na+].[O-][O-],20,ANAIPYUSIMHBEL-UHFFFAOYSA-N,sodium peroxide,US Approved OTC,0,['NCATS']
+1980,1980,[H][C@]12SCC(CSC3=NN=C(C)S3)=C(N1C(=O)[C@H]2NC(=O)CN1C=NN=N1)C(O)=O,72,MLYYVTUWGNIJIB-BXKDBHETSA-N,cefazolin,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+142,142,C[C@]1([H])C[C@]([H])(CC=O)[C@@]([H])([C@]([H])([C@@]([H])(CC(=O)O[C@]([H])(C)C/C(/[H])=C(\[H])/C(/[H])=C(\[H])/[C@]1([H])O[C@@]2([H])CC[C@@]([H])([C@@]([H])(C)O2)N(C)C)O)OC)O[C@@]3([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C)O3)O[C@@]4([H])C[C@](C)([C@]([H])([C@]([H])(C)O4)O)O)N(C)C)O,194,ACTOXUHEUCPTEW-ZOTSFZJCSA-N,spiramycin i,Possibly Marketed Outside US,0,['NCATS']
+2171,2171,CCN(CC)CCCC(C)N=c1c2ccc(cc2[nH]c3ccc(cc31)OC)Cl.Cl.Cl,69,GPKJTRJOBQGKQK-UHFFFAOYSA-N,quinacrine hydrochloride anhydrous,US Previously Marketed,1,['NCATS']
+1857,1857,Cc1c(ccc2c1c(=N)[nH]c(=N)[nH]2)CNc3cc(c(c(c3)OC)OC)OC.CC(=O)O,74,LZAHAWHPLGBAQD-UHFFFAOYSA-N,trimetrexate monoacetate,US Previously Marketed,1,['NCATS']
+5385,5385,CCN(CC)CC(=O)NC1=C(C)C=CC=C1C,32,NNJVILVZKWQKPM-UHFFFAOYSA-N,lidocaine,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3316,3316,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,55,XMSXQFUHVRWGNA-UHFFFAOYSA-N,cyclomethicone 5,Possibly Marketed Outside US,0,['NCATS']
+2175,2175,COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1COC2=CC=CC=C2O1,69,RUZYUOTYCVRMRZ-UHFFFAOYSA-N,doxazosin,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4615,4615,CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCC(C)C,41,LGEZTMRIZWCDLW-UHFFFAOYSA-N,isocetyl stearate,Possibly Marketed Outside US,0,['NCATS']
+5564,5564,CC(C)(C)NCC(c1ccccc1Cl)O,30,YREYLAVBNPACJM-UHFFFAOYSA-N,tulobuterol,Possibly Marketed Outside US,0,['NCATS']
+3152,3152,OC(=O)CCC(=O)C1=CC2=C(C=C1)C1=C3C2=CC=CC3=CC=C1,56,QOBAOSCOLAGPKI-UHFFFAOYSA-N,florantyrone,withdrawn,1,"['DrugBank', 'NCATS']"
+5263,5263,CC[C@@H](CO)NCCN[C@@H](CC)CO.Cl.Cl,34,AUAHHJJRFHRVPV-BZDVOYDHSA-N,ethambutol hydrochloride,approved,0,['ChEMBL']
+1088,1088,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.O=C1N(Cc2ccccc2)C2C[S+]3CCCC3C2N1Cc1ccccc1,90,HALWUDBBYKMYPW-UHFFFAOYSA-M,trimethaphan camsylate,withdrawn,1,['ChEMBL']
+5546,5546,[Mg++].NCC([O-])=O.NCC([O-])=O,30,AACACXATQSKRQG-UHFFFAOYSA-L,magnesium glycinate,approved,0,"['DrugBank', 'NCATS']"
+3490,3490,Cl.O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,53,RICLFGYGYQXUFH-UHFFFAOYSA-N,buspirone hydrochloride,approved,0,['ChEMBL']
+3456,3456,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,53,RKUNBYITZUJHSG-SPUOUPEWSA-N,atropine,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1583,1583,CN[C@@H](C)[C@H](O)c1ccccc1.CN[C@@H](C)[C@H](O)c1ccccc1.O=S(=O)(O)O,79,CAVQBDOACNULDN-KHFUBBAMSA-N,ephedrine sulfate,approved,0,"['ChEMBL', 'NCATS']"
+3975,3975,CN[C@@H]1CCC2=C(C1)C1=C(N2)C=CC(=C1)C(N)=O,47,XPSQPHWEGNHMSK-SECBINFHSA-N,frovatriptan,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2254,2254,[H][C@@]12CC[C@@H](C)[C@]3([H])CC[C@@]4(C)OO[C@@]13[C@]([H])(O[C@H](OC)[C@@H]2C)O4,68,SXYIRMFQILZOAM-HVNFFKDJSA-N,artemether,approved,0,"['DrugBank', 'ChEMBL']"
+3162,3162,COc1c(ncnc1OC)[N-]S(=O)(=O)c2ccc(cc2)N.[Na+],56,BRWVMICPOSOJRG-UHFFFAOYSA-N,sulfadoxine sodium,US Previously Marketed,1,['NCATS']
+6053,6053,CC(CC1=CC=CC=C1)NN,21,VXTWEDPZMSVFEF-UHFFFAOYSA-N,pheniprazine,withdrawn,1,"['DrugBank', 'NCATS']"
+3520,3520,CCC(=O)OC(CC1=CC=CC=C1)(C2=CC=CC=C2)C(C)CN(C)C,52,XLMALTXPSGQGBX-GCJKJVERSA-N,propoxyphene,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+6448,6448,[Cl-].[Rb+],11,FGDZQCVHDSGLHJ-UHFFFAOYSA-M,rubidium chloride,approved,0,"['ChEMBL', 'NCATS']"
+1897,1897,c1ccc2c(c1)nc(n2C3=CCN(CCCC(=O)c4ccc(cc4)F)CC3)O.CC(C(=O)O)O,74,CUYSTLHETVVORS-UHFFFAOYSA-N,droperidol lactate,US Approved Rx,0,['NCATS']
+1783,1783,CC1(C)[C@@]([H])(C=C(Br)Br)[C@@]1([H])C(=O)O[C@]([H])(C#N)c2cccc(c2)Oc3ccccc3,76,OWZREIFADZCYQD-NSHGMRRFSA-N,deltamethrin,Possibly Marketed Outside US,0,['NCATS']
+1161,1161,COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C.Cl.Cl,88,MTJLQTFHJIHXIX-GDUXWEAWSA-N,mibefradil dihydrochloride,withdrawn,1,['ChEMBL']
+1749,1749,NC(=O)C1=CC2=CC(=CC=C2O1)N1CCN(CCCCC2=CNC3=C2C=C(C=C3)C#N)CC1,76,SGEGOXDYSFKCPT-UHFFFAOYSA-N,vilazodone,approved,0,"['DrugBank', 'ChEMBL']"
+1962,1962,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(CO)O,72,ASXBYYWOLISCLQ-HZYVHMACSA-N,dihydrostreptomycin,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+281,281,CCCCCCCC/C(/[H])=C(/[H])\CCCCCCCC(=O)O.CCCCCCCC/C(/[H])=C(/[H])\CCCCCCCC(=O)O.CCCCCCCC/C(/[H])=C(/[H])\CCCCCCCC(=O)O.C([C@]([H])([C@]([H])([C@@]([H])([C@]([H])(CO)O)O)O)O)O.C([C@]([H])([C@]([H])([C@@]([H])([C@]([H])(CO)O)O)O)O)O,156,CUNWUEBNSZSNRX-RKAXZRKWSA-N,sorbitan sesquioleate,Possibly Marketed Outside US,0,['NCATS']
+3418,3418,CCSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)C,53,XCTYLCDETUVOIP-UHFFFAOYSA-N,thiethylperazine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+5037,5037,C(CCC[C@@]([H])([C@]([H])(CCCCCCO)O)O)CCCC(=O)O,37,MEHUJCGAYMDLEL-GJZGRUSLSA-N,aleuritic acid,Possibly Marketed Outside US,0,['NCATS']
+4877,4877,CC(C)NCC(O)C1=CC=C(NS(C)(=O)=O)C=C1,38,ZBMZVLHSJCTVON-UHFFFAOYSA-N,sotalol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1950,1950,CCCCCCCCCCCCCCCC(=O)OC[C@]1([H])[C@]([H])([C@@]([H])([C@]([H])(n2ccc(=N)nc2O)O1)O)O,73,SHBAKEKBTCPUFI-OUJCMCIWSA-N,cytarabine-5'-palmitate,US Approved Rx,0,['NCATS']
+942,942,[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,95,CBGUOGMQLZIXBE-XGQKBEPLSA-N,clobetasol propionate,approved,0,"['DrugBank', 'ChEMBL']"
+4777,4777,C[C@@](CC1=CC(O)=C(O)C=C1)(NN)C(O)=O,39,TZFNLOMSOLWIDK-JTQLQIEISA-N,carbidopa,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4849,4849,CCCCCCNC(=O)N1C=C(C(=O)NC1=O)F,38,AOCCBINRVIKJHY-UHFFFAOYSA-N,carmofur,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+865,865,CCCCC1(OC)OCC(=O)[C@]2([C@]([H])(C)C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@]4([C@]([H])(C[C@@]32C)O)F)O1,98,BDIYOTVTJVHFJF-TTZIFLTOSA-N,"dexamethasone 17,21-methylorthovalerate",US Approved Rx,0,['NCATS']
+3603,3603,CCOC(=O)C=C(C)C=CC=C(C)C=CC1=C(C(=C(C=C1C)OC)C)C,51,HQMNCQVAMBCHCO-DJRRULDNSA-N,etretinate,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+4640,4640,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2OC)Br)OC,40,GUJRSXAPGDDABA-NSHDSACASA-N,remoxipride,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+2739,2739,N=C(N)NCC1COC2(CCCCC2)O1.N=C(N)NCC1COC2(CCCCC2)O1.O=S(=O)(O)O,61,RTEVGQJRTFFMLL-UHFFFAOYSA-N,guanadrel sulfate,withdrawn,1,['ChEMBL']
+3398,3398,c1ccc(cc1)C(c2ccc(cc2)Cl)N3CCN(CC3)CCOCCO.Cl,54,IPSVAUIEEPSJRZ-UHFFFAOYSA-N,hydroxyzine monohydrochloride,US Approved Rx,0,['NCATS']
+3597,3597,CN1CCC2=CC(=C(C=C2C1CCC3=CC=C(C=C3)Cl)OC)OC,51,YBCPYHQFUMNOJG-UHFFFAOYSA-N,methopholine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+3272,3272,CN(CC1=CC=C(C=C1)C(C)(C)C)CC1=CC=CC2=CC=CC=C12,55,ABJKWBDEJIDSJZ-UHFFFAOYSA-N,butenafine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+621,621,C[N+]1(CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C6C(CC7=CC(=C(C=C7)OC)O3)[N+](CCC6=CC(=C5OC)OC)(C)C)OC)C,110,JFXBEKISTKFVAB-AJQTZOPKSA-N,metocurine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+5817,5817,CN1CC(=NC1=N)O.OS(=O)(=O)O,26,DDRJAANPRJIHGJ-UHFFFAOYSA-N,creatinine sulfate,Possibly Marketed Outside US,0,['NCATS']
+6243,6243,[Cl-].[Cl-].[Pt+2],18,CLSUSRZJUQMOHH-UHFFFAOYSA-L,platinous chloride,US Approved Rx,0,['NCATS']
+5947,5947,[Mg+2].O=S(=S)([O-])[O-],24,DHCDFWKWKRSZHF-UHFFFAOYSA-M,magnesium thiosulfate,US Approved Rx,0,['NCATS']
+644,644,Cc1ccc(S(=O)(=O)O)cc1.Cn1ncnc1[C@H]1c2n[nH]c(=O)c3cc(F)cc(c23)N[C@@H]1c1ccc(F)cc1,109,QUQKKHBYEFLEHK-QNBGGDODSA-N,talazoparib tosylate,approved,0,['ChEMBL']
+1715,1715,CCCCN(CCCC)CC(c1cc(cc2/C(=C(/[H])\c3ccc(cc3)Cl)/c4cc(ccc4-c21)Cl)Cl)O,77,DYLGFOYVTXJFJP-UHFFFAOYSA-N,"lumefantrine, (-)-",US Approved Rx,0,['NCATS']
+5361,5361,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCCC2,32,PAZQYDJGLKSCSI-UHFFFAOYSA-N,heptabarbital,withdrawn,1,['WITHDRAWN']
+4010,4010,C[C@@]([H])(c1ccc(-c2ccccc2)c(c1)F)C(=O)O,47,SYTBZMRGLBWNTM-JTQLQIEISA-N,esflurbiprofen,US Approved Rx,0,['NCATS']
+4555,4555,C[C@H](N)Cc1ccccc1.O=C(O)CCCCC(=O)O,41,OFCJKOOVFDGTLY-QRPNPIFTSA-N,dextroamphetamine adipate,withdrawn,1,['ChEMBL']
+4221,4221,CCN(CC)CCOc1ccccc1C(=O)CCc2ccccc2,45,OEGDFSLNGABBKJ-UHFFFAOYSA-N,etafenone,Possibly Marketed Outside US,0,['NCATS']
+1096,1096,[H][C@@]12C[C@]1([H])[C@@]1(C)C(=CC2=O)C(Cl)=C[C@@]2([H])[C@]3([H])CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@]12[H],90,UWFYSQMTEOIJJG-FDTZYFLXSA-N,cyproterone acetate,approved; investigational,0,"['DrugBank', 'NCATS']"
+56,56,c1ccc2c(c1)cc(c(c2Cc3c4ccccc4cc(c3O)C(=O)O)O)C(=O)O.CC(C)(C)C(=O)OCOC(=O)[C@@]1([H])C(C)(C)S[C@]2([H])[C@@]([H])(C(=O)N12)N=C([C@@]([H])(c3ccccc3)N)O.CC(C)(C)C(=O)OCOC(=O)[C@@]1([H])C(C)(C)S[C@]2([H])[C@@]([H])(C(=O)N12)N=C([C@@]([H])(c3ccccc3)N)O,241,RYPIBFIQHKWKBM-WDPVPZODSA-N,pivampicillin pamoate,US Approved Rx,0,['NCATS']
+5424,5424,CCCCC1C(=NC(=O)N(C2CCCCC2)C1=O)O,32,DVEQCIBLXRSYPH-UHFFFAOYSA-N,bucolome,Possibly Marketed Outside US,0,['NCATS']
+5894,5894,CC(Cc1ccc(cc1)O)NC,24,SBUQZKJEOOQSBV-UHFFFAOYSA-N,pholedrine,US Previously Marketed,1,['NCATS']
+2641,2641,C=C[C@@]1([H])CN2CC[C@@]1([H])C[C@@]2([H])[C@@]([H])(c3ccnc4ccccc34)O.Cl,63,IMUHWLVEEVGMBC-YYXOUSRLSA-N,cinchonidine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+6108,6108,[Cr].O.O.[OH-].[OH-],20,QJJQCFFMTQDLQE-UHFFFAOYSA-L,chromate ion cr-51,US Previously Marketed,1,['NCATS']
+3156,3156,CN(C)CC(C)(C)OC(=O)C(O)(c1ccccc1)c1ccccc1.Cl,56,QRHDDSUGMIAILK-UHFFFAOYSA-N,difemerine hydrochloride,withdrawn,1,['ChEMBL']
+3822,3822,c1cc(ccc1N)S(=O)(=O)N=c2cncc(Cl)[nH]2,49,QKLPUVXBJHRFQZ-UHFFFAOYSA-N,sulfaclozine,Possibly Marketed Outside US,0,['NCATS']
+790,790,[H][C@@]1(OB(O[C@]1([H])[C@H](O)CO)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=NC=CN=C1)[C@H](O)CO,101,QDMRNLRJDHCHLB-DNNBANOASA-N,bortezomib d-mannitol,approved,0,"['DrugBank', 'NCATS']"
+1349,1349,CCCC(=O)OCC(=O)[C@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])[C@]([H])(C[C@@]21C)O)O,84,YZNQMPPBWQTLFJ-TUFAYURCSA-N,hydrocortisone 21-butyrate,US Approved Rx,0,['NCATS']
+4285,4285,NC(=O)O[C@@H](CN1N=CN=N1)C1=C(Cl)C=CC=C1,44,GFHAXPJGXSQLPT-VIFPVBQESA-N,cenobamate,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4418,4418,Cc1cc(C(C)(C)C)c(O)c(C)c1CC1=NCCN1.Cl,43,BEEDODBODQVSIM-UHFFFAOYSA-N,oxymetazoline hydrochloride,approved,0,['ChEMBL']
+3202,3202,CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21,56,CYQFCXCEBYINGO-IAGOWNOFSA-N,dronabinol,approved,0,"['ChEMBL', 'NCATS']"
+5954,5954,CC1C(OCCN1)C2=CC=CC=C2,23,OOBHFESNSZDWIU-KOLCDFICSA-N,phenmetrazine,withdrawn,1,['WITHDRAWN']
+4134,4134,CCCCCCCCCCCCCC[C@]([H])([C@]([H])([C@]([H])(CO)N)O)O.Cl,46,AERBNCYCJBRYDG-KSZLIROESA-N,phytosphingosine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+3454,3454,OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O,53,MYSWGUAQZAJSOK-UHFFFAOYSA-N,ciprofloxacin,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1488,1488,C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)C[C@@H]1O,81,GMRQFYUYWCNGIN-NKMMMXOESA-N,calcitriol,approved,0,['ChEMBL']
+177,177,CC(=CCC[C@@](C)([C@@]1([H])CC[C@]2(C)[C@]1([H])[C@@]([H])(C[C@]3([H])[C@@]4(C)CC[C@@]([H])(C(C)(C)[C@]4([H])CC[C@]32C)O[C@@]5([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O5)O)O)O[C@@]6([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O6)O)O)O)O)O)C,182,RWXIFXNRCLMQCD-JBVRGBGGSA-N,ginsenoside rg3,Possibly Marketed Outside US,0,['NCATS']
+1889,1889,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1.O=[N+]([O-])O,74,MCCACAIVAXEFAL-UHFFFAOYSA-N,miconazole nitrate,approved,0,['ChEMBL']
+5135,5135,c1ccc(cc1)CCN2CCC3(CC2)CN=C(O)O3,36,FVNFBBAOMBJTST-UHFFFAOYSA-N,fenspiride,Possibly Marketed Outside US,0,['NCATS']
+3961,3961,[Cd+2].[Cd+2].[Cl-].[Cl-].[Cl-].[Cl-].O.O.O.O.O,47,DZVRGWYMCGLNKJ-UHFFFAOYSA-J,cadmium chloride hemipentahydrate,US Previously Marketed,1,['NCATS']
+6422,6422,Cl[Fe](Cl)Cl,12,RBTARNINKXHZNM-UHFFFAOYSA-K,ferric chloride,approved; experimental,0,"['DrugBank', 'NCATS']"
+3759,3759,CC(CN1C2=CC=CC=C2SC3=C1C=C(C=C3)OC)CN(C)C,49,VRQVVMDWGGWHTJ-CQSZACIVSA-N,levomepromazine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+2875,2875,Cl.OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,60,WESWYMRNZNDGBX-UHFFFAOYSA-N,mefloquine hydrochloride,approved,0,['ChEMBL']
+4042,4042,CC1(C2=CC=CC=C2N(C3=CC=CC=C31)CCCN(C)C)C,46,RYQOGSFEJBUZBX-UHFFFAOYSA-N,dimetacrine,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+5829,5829,C=CCCCCCCCCC(=O)[O-].[Na+],26,DKYPZNSPQXLRRQ-UHFFFAOYSA-M,sodium undecylenate,US Approved OTC,0,['NCATS']
+5026,5026,C[C@](Cc1ccc(cc1)O)(C(=O)O)N.Cl,37,BVYZLEHNLQKCHO-PPHPATTJSA-N,metyrosine hydrochloride,US Approved Rx,0,['NCATS']
+616,616,CCCCCCCN(CC)CCCC(O)c1ccc(NS(C)(=O)=O)cc1.CCCCCCCN(CC)CCCC(O)c1ccc(NS(C)(=O)=O)cc1.O=C(O)/C=C/C(=O)O,111,PCIOHQNIRPWFMV-WXXKFALUSA-N,ibutilide fumarate,approved,0,['ChEMBL']
+6214,6214,FC(F)OC(F)C(F)(F)F,18,DPYMFVXJLLWWEU-UHFFFAOYSA-N,desflurane,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5240,5240,CCN(CC)CCOC(=O)C1=C(Cl)C=C(N)C=C1,34,VDANGULDQQJODZ-UHFFFAOYSA-N,chloroprocaine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1069,1069,[H][C@@]1(CCCCN1C(=O)OC[N+]1=CC=CC(=C1)C(=O)N[C@@H](CO)C([O-])=O)[C@H](C(=O)OC)C1=CC=CC=C1,91,UBZPNQRBUOBBLN-PWRODBHTSA-N,serdexmethylphenidate,approved,0,"['DrugBank', 'NCATS']"
+117,117,CC[C@]1([H])[C@](C)([C@@]([H])([C@@]([H])(C)C(=O)[C@]([H])(C)C[C@](C)([C@@]([H])([C@@]([H])(C)[C@@]([H])([C@@]([H])(C)C(=O)O1)O[C@@]2([H])C[C@](C)([C@]([H])([C@]([H])(C)O2)O)OC)O[C@@]3([H])[C@@]([H])([C@]([H])(C[C@@]([H])(C)O3)N(C)C)OC(=O)C)O)O)O.CCCCCCCCCCCCCCCCCC(=O)O,203,CVBHEIRZLPKMSH-SNWVVRALSA-N,erythromycin acistrate,US Approved Rx,0,['NCATS']
+5155,5155,CC[N+](C)(C)c1cccc(c1)[O-].Br,35,CAEPIUXAUPYIIJ-UHFFFAOYSA-N,edrophonium bromide,US Previously Marketed,1,['NCATS']
+1220,1220,Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1.Cl.Cl.O,87,QAFZLTVOFJHYDF-UHFFFAOYSA-N,fedratinib hydrochloride,approved,0,['ChEMBL']
+1157,1157,C=C1C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@]2(C)[C@]1(C(=O)COC(=O)C)O)O)F,89,DEFOZIFYUBUHHU-IYQKUMFPSA-N,fluprednidene acetate,Possibly Marketed Outside US,0,['NCATS']
+1777,1777,CN1CC[C@@]23[C@@]4([H])CC[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)OC)O.OP(=O)(O)O,76,HFBYLYCMISIEMM-FFHNEAJVSA-N,dihydrocodeine phosphate,US Approved Rx,0,['NCATS']
+2756,2756,CN1N=C(C(=O)N[C@@H]2C[C@@H]3CCC[C@H](C2)N3C)C2=C1C=CC=C2,61,MFWNKCLOYSRHCJ-BTTYYORXSA-N,granisetron,approved; investigational,0,"['DrugBank', 'NCATS']"
+4477,4477,NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2,42,JNTOCHDNEULJHD-UHFFFAOYSA-N,penciclovir,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+959,959,[Al+3].[Al+3].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O.O.O.O.O.O.O.O.O.O.O.O.O.O,95,GUNGYIXTFIIJDK-UHFFFAOYSA-H,aluminum sulfate tetradecahydrate,US Approved OTC,0,['NCATS']
+4021,4021,CCCCCCCCNC(=N)NC(=N)NCc1ccc(c(c1)Cl)Cl.Cl,47,GVBQOBUYEOFFLD-UHFFFAOYSA-N,olanexidine hydrochloride anhydrous,Possibly Marketed Outside US,0,['NCATS']
+1855,1855,c1ccc2c(c1)[C@]34CCN5CC6=CCO[C@@]7([H])CC(=O)N2[C@@]4([H])[C@@]7([H])[C@@]6([H])C[C@@]35[H].Cl,74,QMGVPVSNSZLJIA-ZEHUYGQASA-N,strychnine hydrochloride,US Previously Marketed,1,['NCATS']
+3451,3451,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F,53,SDUQYLNIPVEERB-QPPQHZFASA-N,gemcitabine,approved,0,"['DrugBank', 'ChEMBL']"
+3232,3232,CCCCOCC(CN1C(=O)C(C(=O)NC1=O)(CC)C2=CC=CC=C2)OC(=O)N,55,QHZQILHUJDRDAI-UHFFFAOYSA-N,febarbamate,withdrawn,1,['WITHDRAWN']
+605,605,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl,112,MWWSFMDVAYGXBV-RUELKSSGSA-N,doxorubicin hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+2008,2008,C[N+](C)(CCOc1ccccc1)Cc2cccs2.c1cc(ccc1Cl)S(=O)(=O)[O-],72,KYCIUIVANPKXLW-UHFFFAOYSA-N,thenium closylate,Possibly Marketed Outside US,0,['NCATS']
+5237,5237,NS(=O)(=O)CC1=NOC2=CC=CC=C12,34,UBQNRHZMVUUOMG-UHFFFAOYSA-N,zonisamide,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2169,2169,C=C[C@@]1([H])CN2CC[C@@]1([H])C[C@@]2([H])[C@@]([H])(c3ccnc4ccc(cc34)OC)O.OP=O,69,GQZXNSPRSGFJLY-UHFFFAOYSA-N,quinine hypophosphite,US Previously Marketed,1,['NCATS']
+4040,4040,CC(=O)NCC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)C)I,46,VVDGWALACJEJKG-UHFFFAOYSA-N,iodamide,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+4543,4543,c1cc(ccc1N)S(=O)(=O)NC(=N)[S-].[Na+],42,AMLYLOFLVJXROT-UHFFFAOYSA-M,sulfathiourea sodium,Possibly Marketed Outside US,0,['NCATS']
+1904,1904,C1CNCCNCCCN(CCNC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3.Cl.Cl.Cl.Cl.Cl.Cl.Cl.Cl,74,UEUPDYPUTTUXLJ-UHFFFAOYSA-N,plerixafor octahydrochloride,US Approved Rx,0,['NCATS']
+1983,1983,COC1=C(Cl)C=C(CNC2=C(C=NC(=N2)N2CCC[C@H]2CO)C(=O)NCC2=NC=CC=N2)C=C1,72,WEAJZXNPAWBCOA-INIZCTEOSA-N,avanafil,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2712,2712,Cn1c(=O)cc(N2CCC[C@]([H])(C2)N)n(Cc3cc(ccc3C#N)F)c1=O,62,IWYJYHUNXVAVAA-OAHLLOKOSA-N,trelagliptin,Possibly Marketed Outside US,0,['NCATS']
+4406,4406,COC1=CC=C(CN(CCN(C)C)C2=NC=CC=N2)C=C1,43,GULNIHOSWFYMRN-UHFFFAOYSA-N,thonzylamine,approved,0,"['DrugBank', 'NCATS']"
+3816,3816,[Al+3].[NH4+].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-],49,LCQXXBOSCBRNNT-UHFFFAOYSA-K,ammonium alum anhydrous,US Approved OTC,0,['NCATS']
+4022,4022,CC(C)C(=Nc1cccc(c1)[C@@]2([H])CN3CCSC3=N2)O.Cl,47,FXYKKPLSQTYWRY-BTQNPOSSSA-N,butamisole hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+6261,6261,CCC(C)(CC)OC(=N)O,17,SLWGJZPKHAXZQL-UHFFFAOYSA-N,emylcamate,US Previously Marketed,1,['NCATS']
+2053,2053,CC(C)(C)C1=CC(=C(O)C=C1NC(=O)C1=CNC2=CC=CC=C2C1=O)C(C)(C)C,71,PURKAOJPTOLRMP-UHFFFAOYSA-N,ivacaftor,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6045,6045,CC1(C)CCCC(C)(C)N1C.Cl,22,OEAJJNMBFKSVHF-UHFFFAOYSA-N,pempidine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1971,1971,C[C@@]12CCC(=O)C=C2CC[C@@]3([H])[C@]4([H])CC[C@@](C)([C@@]4(C)C[C@@]([H])([C@@]31F)O)O,72,YLRFCQOZQXIBAB-RBZZARIASA-N,fluoxymesterone,US Previously Marketed,1,['NCATS']
+1019,1019,Cc1ccc(cc1)OC(=O)[C@]([H])(c2ccsc2)C(=N[C@]3([H])C(=O)N4[C@@]([H])(C(=O)O)C(C)(C)S[C@]34[H])O,92,DGNAUIYWRWICBR-OAFZBRQQSA-N,ticarcillin cresyl,US Previously Marketed,1,['NCATS']
+5957,5957,CCC1(C(=O)C(CNC1=O)C)CC,23,SIDLZWOQUZRBRU-SSDOTTSWSA-N,methyprylon,withdrawn,1,['WITHDRAWN']
+4412,4412,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2.Cl,43,FYBXRCFPOTXTJF-UHFFFAOYSA-N,carteolol hydrochloride,approved,0,['ChEMBL']
+3826,3826,C[N+]1(C)CC(=C(c2cccs2)c3cccs3)CC(C1)OC,49,PDYOTUCJOLELJU-UHFFFAOYSA-N,timepidium,Possibly Marketed Outside US,0,['NCATS']
+6513,6513,CC(C)O,6,KFZMGEQAYNKOFK-UHFFFAOYSA-N,isopropyl alcohol,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4408,4408,CCOC(=O)[C@@](C)(N)Cc1ccc(O)c(O)c1.Cl,43,QSRVZCCJDKYRRF-YDALLXLXSA-N,methyldopate hydrochloride,approved,0,['ChEMBL']
+2743,2743,c1ccc(cc1)C(c2ccccc2)C(=O)C3C(=O)c4ccccc4C3=O,61,JYGLAHSAISAEAL-UHFFFAOYSA-N,diphenadione,US Previously Marketed,1,['NCATS']
+4760,4760,c1ccc(cc1)C[C@@]([H])(C(=O)[O-])N.[Na+],39,COLNVLDHVKWLRT-QMMMGPOBSA-M,phenylalanine sodium,US Previously Marketed,1,['NCATS']
+4407,4407,FC1=C(C=CC(=C1)C#N)[C@H]1CCC2=CN=CN12,43,USUZGMWDZDXMDG-CYBMUJFWSA-N,osilodrostat,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+2470,2470,[H][C@@]12C[C@]1([H])N([C@@H](C2)C#N)C(=O)[C@@H](N)C12CC3CC(CC(O)(C3)C1)C2,65,QGJUIPDUBHWZPV-SGTAVMJGSA-N,saxagliptin,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1637,1637,[Fe+3].CC1=C([O-])C(=O)C=CO1.CC1=C([O-])C(=O)C=CO1.CC1=C([O-])C(=O)C=CO1,78,AHPWLYJHTFAWKI-UHFFFAOYSA-K,ferric maltol,approved,0,"['DrugBank', 'NCATS']"
+3306,3306,Cc1c(CCO)sc[n+]1Cc2cnc(C)[nH]c2=N.Br.[Br-],55,BICSXHHXUZPOLW-UHFFFAOYSA-M,"thiamine hydrobromide, anhydrous",US Approved Rx,0,['NCATS']
+5628,5628,CC1=NN(C(=O)C1)C1=CC=CC=C1,29,QELUYTUMUWHWMC-UHFFFAOYSA-N,edaravone,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5029,5029,CCCOc1ccc2c(c1)sc(n2)N=C(O)OC,37,HLLICFJUWSZHRJ-UHFFFAOYSA-N,tioxidazole,Possibly Marketed Outside US,0,['NCATS']
+5337,5337,Cl.c1ccc2c(c1)CCCC2C1=NCCN1,33,BJORNXNYWNIWEY-UHFFFAOYSA-N,tetrahydrozoline hydrochloride,approved,0,['ChEMBL']
+3008,3008,OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O,58,WIIZWVCIJKGZOK-RKDXNWHRSA-N,chloramphenicol,approved; vet_approved,0,"['DrugBank', 'NCATS']"
+6321,6321,C/C(/[H])=C(\[H])/C(/[H])=C(\[H])/C(=O)O,16,WSWCOQWTEOXDQX-UHFFFAOYSA-N,sorbic acid,Possibly Marketed Outside US,0,['NCATS']
+985,985,COC(=O)[C@H](c1ccccc1)[C@H]1CCCCN1C(=O)OC[n+]1cccc(C(=O)N[C@@H](CO)C(=O)O)c1.[Cl-],94,GONQEUJYYMYNMN-HWAJWLCKSA-N,serdexmethylphenidate chloride,approved,0,"['ChEMBL', 'NCATS']"
+1551,1551,CC1=C(C(CCC1=O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C,79,FDSDTBUPSURDBL-DKLMTRRASA-N,canthaxanthin,withdrawn,1,['WITHDRAWN']
+2530,2530,COC1=C(OC)C=C(CCN(C)CCCC(C#N)(C(C)C)C2=CC(OC)=C(OC)C=C2)C=C1,64,SGTNSNPWRIOYBX-UHFFFAOYSA-N,verapamil,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2825,2825,C[C@]12C(=O)CC[C@@]3([H])[C@@]4([H])Cc5ccc(c(c5[C@]31CCN4C)O2)O,60,NPZXCTIHHUUEEJ-CMKMFDCUSA-N,metopon,US Previously Marketed,1,['NCATS']
+2502,2502,CC(=O)O[C@@]1([H])CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3([H])CC[C@@]21C,65,KPCDGGNHYODURF-PXQJOHHUSA-N,boldenone acetate,Possibly Marketed Outside US,0,['NCATS']
+1769,1769,CC(CCc1ccc(cc1)O)NCCc2ccc(c(c2)O)O.[C@]([H])([C@@]([H])(C(=O)O)O)(C(=O)O)O,76,FEWJPZIEWOKRBE-LWMBPPNESA-N,dobutamine d-tartrate,US Approved Rx,0,['NCATS']
+5143,5143,CCC(C(C1=CC(=C(C=C1)O)O)O)NC(C)C,35,HUYWAWARQUIQLE-UHFFFAOYSA-N,isoetharine,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+615,615,CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C1=CC=C2N1N=CN=C2N)OC1=CC=CC=C1,111,RWWYLEGWBNMMLJ-YSOARWBDSA-N,remdesivir,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+215,215,CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C)C(O)=C4C(O)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C1=C(N=C5C=C(C)C=CN15)C4=C3C2=O,172,NZCRJKRKKOLAOJ-XRCRFVBUSA-N,rifaximin,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+410,410,CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3OC(CNCCO)=CC[C@H]3N)[C@@H](N)C[C@H]2NC(=O)[C@@H](O)CCN)OC[C@]1(C)O.O=S(=O)(O)O,133,SFTBRKHJMASSAP-BGJNVEJLSA-N,plazomicin sulfate,approved,0,['ChEMBL']
+2923,2923,COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C,59,HMJIYCCIJYRONP-UHFFFAOYSA-N,isradipine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4666,4666,[H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1,40,BLJRIMJGRPQVNF-JTQLQIEISA-N,timolol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3720,3720,CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12.Cl,50,BWMISRWJRUSYEX-SZKNIZGXSA-N,terbinafine hydrochloride,approved,0,['ChEMBL']
+3245,3245,C[N+](C)(C)Cc1ccco1.Cc1ccc(cc1)S(=O)(=O)[O-],55,HEDXEAAVEOJUCR-UHFFFAOYSA-N,furtrethonium tosylate,US Previously Marketed,1,['NCATS']
+1322,1322,CCC(=O)O[C@@H](OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,84,BIDNLKIUORFRQP-FLODCBCLSA-N,fosinopril,approved,0,"['DrugBank', 'NCATS']"
+6279,6279,c1ccc(c(c1)CO)O,17,CQRYARSYNCAZFO-UHFFFAOYSA-N,salicyl alcohol,Possibly Marketed Outside US,0,['NCATS']
+5130,5130,COP(=S)(OC)Oc1cc(c(cc1Cl)Cl)Cl,36,JHJOOSLFWRRSGU-UHFFFAOYSA-N,ronnel,Possibly Marketed Outside US,0,['NCATS']
+3286,3286,C[C@H](N)[C@H](O)c1cccc(O)c1.O=C(O)C(O)C(O)C(=O)O,55,VENXSELNXQXCNT-YDYUUSCQSA-N,metaraminol bitartrate,approved,0,['ChEMBL']
+1601,1601,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C(C4=CC=C(C=C4)O)C(=O)O)OC)OC2)C(=O)O,78,JWCSIUVGFCSJCK-LIUKBUMOSA-N,moxalactam,withdrawn,1,['WITHDRAWN']
+4673,4673,NC1=NC(N)=C(N=N1)C1=C(Cl)C(Cl)=CC=C1,40,PYZRQGJRPPTADH-UHFFFAOYSA-N,lamotrigine,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5467,5467,S=C1N=CNC2=C1NC=N2,31,GLVAUDGFNGKCSF-UHFFFAOYSA-N,mercaptopurine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4126,4126,CN(C)CCOC1=Cc2ccccc2Sc3ccc(cc13)Cl,46,HDOZVRUNCMBHFH-UHFFFAOYSA-N,zotepine,Possibly Marketed Outside US,0,['NCATS']
+2285,2285,C[C@]([H])(CSC(=O)C)C(=O)N1CCC[C@@]1([H])C(=N[C@@]([H])(Cc2ccccc2)C(=O)O)O,68,FHHHOYXPRDYHEZ-COXVUDFISA-N,alacepril,US Approved Rx,0,['NCATS']
+5063,5063,CC(c1ccccc1)c2ccc(cc2O)O,36,PQSXNIMHIHYFEE-UHFFFAOYSA-N,phenylethyl resorcinol,Discontinued,1,['NCATS']
+188,188,[H][C@]12[C@H](OC(=O)C3=CC=CC=C3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C4=CC=CC=C4)C4=CC=CC=C4)C(C)=C([C@@H](OC(C)=O)C(=O)[C@]1(C)[C@@H](O)C[C@H]1OC[C@@]21OC(C)=O)C3(C)C,177,RCINICONZNJXQF-MZXODVADSA-N,paclitaxel,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+555,555,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]2C(=O)N3C(C(=O)[O-])=C(CSc4nnnn4C)CS[C@H]23)c2ccc(O)cc2)C(=O)C1=O.[Na+],115,NCFTXMQPRQZFMZ-WERGMSTESA-M,cefoperazone sodium,withdrawn,1,['ChEMBL']
+1,1,CC(C)C[C@@]([H])(C(=N[C@@]([H])(CCCCNC(C)C)C(=O)N1CCC[C@@]1([H])C(=N[C@]([H])(C)C(=N)O)O)O)N=C([C@@]([H])(Cc2ccc(cc2)NC(=N)O)N=C([C@]([H])(Cc3ccc(cc3)NC(=O)[C@]4([H])CC(=NC(=N4)O)O)N=C([C@]([H])(CO)N=C([C@@]([H])(Cc5cccnc5)N=C([C@@]([H])(Cc6ccc(cc6)Cl)N=C([C@@]([H])(Cc7ccc8ccccc8c7)N=C(C)O)O)O)O)O)O)O.CC(=O)O,299,AUTFSFUMNFDPLH-KYMMNHPFSA-N,degarelix acetate anhydrous,US Approved Rx,0,['NCATS']
+809,809,[H][C@@]12CC[C@](OC(=O)CCC)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,100,WYQPLTPSGFELIB-JTQPXKBDSA-N,difluprednate,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5538,5538,CC1=NC=C(N1CCO)[N+]([O-])=O,30,VAOCPAMSLUNLGC-UHFFFAOYSA-N,metronidazole,approved,0,"['DrugBank', 'ChEMBL']"
+3996,3996,CN(C)CC[C@@H](c1ccc(Cl)cc1)c1ccccn1,47,SOYKEARSMXGVTM-HNNXBMFYSA-N,dexchlorpheniramine,approved,0,"['ChEMBL', 'NCATS']"
+1434,1434,NC1=NC=NC2=C1C(=NN2[C@@H]1CCCN(C1)C(=O)C=C)C1=CC=C(OC2=CC=CC=C2)C=C1,82,XYFPWWZEPKGCCK-GOSISDBHSA-N,ibrutinib,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3656,3656,Cc1ccc2C[C@@]3([H])[C@@]4([H])CCCC[C@@]4(CCN3C)c2c1,51,KBEZZLAAKIIPFK-NJAFHUGGSA-N,dimemorfan,Possibly Marketed Outside US,0,['NCATS']
+6473,6473,C=CCN=C=S,9,ZOJBYZNEUISWFT-UHFFFAOYSA-N,allyl isothiocyanate,US Previously Marketed,1,['NCATS']
+2079,2079,c1cc(c(c2ccc(cc12)S(=O)(=O)O)/N=N/c3ccc(cc3)S(=O)(=O)O)O,71,KEYWXKLGZZGHMT-UHFFFAOYSA-N,food yellow 3 free acid,Possibly Marketed Outside US,0,['NCATS']
+2471,2471,CC1=CC(=CC(C)=C1OC1=C(Br)C(N)=NC(NC2=CC=C(C=C2)C#N)=N1)C#N,65,PYGWGZALEOIKDF-UHFFFAOYSA-N,etravirine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1336,1336,CC#CC(=O)N1CCC[C@H]1C1=NC(=C2N1C=CN=C2N)C1=CC=C(C=C1)C(=O)NC1=CC=CC=N1,84,WDENQIQQYWYTPO-IBGZPJMESA-N,acalabrutinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+575,575,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1.O=C(O)/C=C\C(=O)O.O=C(O)/C=C\C(=O)O,114,USNRYVNRPYXCSP-JUGPPOIOSA-N,afatinib dimaleate,approved,0,['ChEMBL']
+2119,2119,CCCNS(=O)(=O)NC1=C(C(OCCOC2=NC=C(Br)C=N2)=NC=N1)C1=CC=C(Br)C=C1,70,JGCMEBMXRHSZKX-UHFFFAOYSA-N,macitentan,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2024,2024,CCCCN(CCCC)CCC(C1=C2C=CC(=CC2=C3C=C(C=C(C3=C1)Cl)Cl)C(F)(F)F)O,71,FOHHNHSLJDZUGQ-UHFFFAOYSA-N,halofantrine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+552,552,C[C@@]1(CO[C@@]([H])([C@@]([H])([C@@]1([H])NC)O)O[C@@]2([H])[C@@]([H])(C[C@@]([H])([C@]([H])([C@]2([H])O)O[C@]3([H])[C@@]([H])(CC[C@@]([H])(CN)O3)N)N)N)O.OS(=O)(=O)O,116,HNCAOLPMSASREN-UCMBPTNBSA-N,gentamicin c1a sulfate,Possibly Marketed Outside US,0,['NCATS']
+3385,3385,C[C@](Cc1ccc(c(c1)O)OP(=O)(O)O)(C(=O)O)NN.O.O.O,54,PQUZXFMHVSMUNG-JTQLQIEISA-N,carbidopa-4'-monophosphate trihydrate,US Approved Rx,0,['NCATS']
+6501,6501,CS(C)=O,7,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,dimethyl sulfoxide,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2540,2540,[Gd+3].OC(=O)CN1CCN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)CC1,64,GFSTXYOTEVLASN-UHFFFAOYSA-K,gadoteric acid,approved,0,"['DrugBank', 'NCATS']"
+2473,2473,[H][C@]12CC[C@]([H])([C@H]([C@H](C1)C1=CC=C([123I])C=C1)C(=O)OC)N2CCCF,65,HXWLAJVUJSVENX-HFIFKADTSA-N,ioflupane i-123,approved,0,"['DrugBank', 'ChEMBL']"
+5310,5310,CC(=O)NS(=O)(=O)C1=CC=C(N)C=C1,33,SKIVFJLNDNKQPD-UHFFFAOYSA-N,sulfacetamide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4397,4397,NC(=O)CC1=CC=CC(C(=O)C2=CC=CC=C2)=C1N,43,QEFAQIPZVLVERP-UHFFFAOYSA-N,nepafenac,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6323,6323,CCCCCCCCOCC(CO)O,16,GUPXYSSGJWIURR-UHFFFAOYSA-N,caprylyl glyceryl ether,Possibly Marketed Outside US,0,['NCATS']
+1933,1933,CC(C)(C)C1=CC(=CC=C1N1CCCC1)C1=CC(=CC=C1OCCO)C1=CC=C(C=C1)C(O)=O,73,MFBCDACCJCDGBA-UHFFFAOYSA-N,trifarotene,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5023,5023,C1CCN(CC1)Cc2cccc(c2)OCCCN=C(CO)O,37,BCCREUFCSIMJFS-UHFFFAOYSA-N,roxatidine,Possibly Marketed Outside US,0,['NCATS']
+1712,1712,C[N@+]1(CCF)[C@@]2([H])CC[C@]1([H])C[C@@]([H])(C2)OC(=O)C(c3ccccc3)(c4ccccc4)O,77,IJLOCYOGUVSRGR-XWALJWNASA-N,flutropium,Possibly Marketed Outside US,0,['NCATS']
+4536,4536,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Bi+3],42,ANERHPOLUMFRDC-UHFFFAOYSA-K,bismuth citrate,US Approved OTC,0,['NCATS']
+3302,3302,c1cn(CC(O)(P(=O)(O)O)P(=O)([O-])[O-])cn1.[Na+].[Na+],55,CNMPZGSRUKCTEH-UHFFFAOYSA-M,zoledronate disodium anhydrous,US Approved Rx,0,['NCATS']
+4884,4884,CCN(CC)CCNC(=O)C1=CC(Cl)=C(N)C=C1OC,38,TTWJBBZEZQICBI-UHFFFAOYSA-N,metoclopramide,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1531,1531,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O.CS(=O)(=O)O,80,HWLFIUUAYLEFCT-UHFFFAOYSA-N,lenvatinib mesylate,approved,0,['ChEMBL']
+2455,2455,CC(c1ccccn1)C2=C(CCN(C)C)Cc3ccccc32.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,65,MVMQESMQSYOVGV-UHFFFAOYSA-N,dimethindene maleate,US Previously Marketed,1,['NCATS']
+3227,3227,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O,55,RJMUSRYZPJIFPJ-UHFFFAOYSA-N,niclosamide,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+20,20,CC[C@]([H])(C)[C@@]([H])(C1=N[C@@]([H])(CS1)C(=N[C@@]([H])(CC(C)C)C(=N[C@]([H])(CCC(=O)[O-])C(=N[C@@]([H])([C@@]([H])(C)CC)C(=N[C@@]2([H])CCCCN=C([C@]([H])(CC(=N)[O-])N=C([C@@]([H])(CC(=O)O)N=C([C@]([H])(Cc3cnc[nH]3)N=C([C@@]([H])(Cc4ccccc4)N=C([C@]([H])([C@@]([H])(C)CC)N=C([C@@]([H])(CCCN)N=C2O)O)O)O)O)O)O)O)O)O)O)N.[ZnH2+2],274,CLKOFPXJLQSYAH-ABRJDSQDSA-L,bacitracin a zinc,Possibly Marketed Outside US,0,['NCATS']
+4789,4789,CC(C)NCC(O)COC1=CC=CC2=C1C=CN2,39,JZQKKSLKJUAGIC-UHFFFAOYSA-N,pindolol,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4370,4370,Cc1cc2Cc3cccc(c3C(=O)c2c(c1)O)O,43,ZZBWSNKBZKPGAK-UHFFFAOYSA-N,chrysarobin,US Previously Marketed,1,['NCATS']
+3007,3007,COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC,58,DDUHZTYCFQRHIY-RBHXEPJQSA-N,griseofulvin,approved; investigational; vet_approved,0,"['DrugBank', 'ChEMBL']"
+234,234,C=CC[C@]1([H])/C(/[H])=C(\C)/C[C@]([H])(C)C[C@@]([H])([C@]2([H])[C@]([H])(C[C@@]([H])(C)[C@@](C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O[C@]([H])(/C(=C(\[H])/[C@]4([H])CC[C@]([H])([C@@]([H])(C4)OC)O)/C)[C@]([H])(C)[C@]([H])(CC1=O)O)(O)O2)OC)OC,167,QJJXYPPXXYFBGM-CLAWHKJSSA-N,tacrolimus anhydrous,US Approved Rx,0,['NCATS']
+4152,4152,CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)C1=CC=CC=C1,45,DGMKFQYCZXERLX-UHFFFAOYSA-N,proglumide,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+3800,3800,CN1CCN(CC1)C1=NC2=CC=CC=C2SC2=C1C=C(Cl)C=C2,49,KAAZGXDPUNNEFN-UHFFFAOYSA-N,clothiapine,approved,0,"['DrugBank', 'NCATS']"
+1015,1015,O=C(CCCCC(=O)Nc1c(I)cc(I)c(C(=O)[O-])c1I)Nc1c(I)cc(I)c(C(=O)[O-])c1I.[Na+].[Na+],92,SIZXNBZGPPPFHM-UHFFFAOYSA-L,iodipamide sodium,withdrawn,1,['ChEMBL']
+4831,4831,CC1CCN(CCCC(=O)c2ccc(cc2)F)CC1.Cl,39,DKMFBWQBDIGMHM-UHFFFAOYSA-N,melperone hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1728,1728,CCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCC.CCCCCCCC(=O)OCC(O)CO.CCCCCCCCCC(=O)OCC(O)CO,76,JFUMHQVCWWFATH-UHFFFAOYSA-N,monoctanoin,withdrawn,1,['ChEMBL']
+3477,3477,COC1=CC=C(C=C1)C(=O)CC(=O)C1=CC=C(C=C1)C(C)(C)C,53,XNEFYCZVKIDDMS-UHFFFAOYSA-N,avobenzone,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1877,1877,COC1=C(OC)C=C2C(OC3=CC(Cl)=C(NC(=O)NC4=NOC(C)=C4)C=C3)=CC=NC2=C1,74,SPMVMDHWKHCIDT-UHFFFAOYSA-N,tivozanib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1141,1141,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC3CCCC3)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,89,DLVOSEUFIRPIRM-KAQKJVHQSA-N,hydrocortisone cypionate,approved; investigational; vet_approved,0,"['DrugBank', 'NCATS']"
+5784,5784,NC1=CC(O)=C(C=C1)C(O)=O,26,WUBBRNOQWQTFEX-UHFFFAOYSA-N,aminosalicylic acid,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+693,693,[H][C@@]12CC3=C(C(O)=C(NC(=O)CNC(C)(C)C)C=C3N(C)C)C(=O)C1=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@]1([H])C2,106,FPZLLRFZJZRHSY-HJYUBDRYSA-N,tigecycline,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1241,1241,CC[N+](CC)(CCN=C(C(=NCC[N+](CC)(CC)Cc1ccccc1Cl)[O-])[O-])Cc2ccccc2Cl.Cl.Cl,86,DXUUXWKFVDVHIK-UHFFFAOYSA-N,ambenonium chloride,US Previously Marketed,1,['NCATS']
+1151,1151,CN1CCC(=C2c3ccccc3C=Cc4ccccc42)CC1.Cn1c2c(c(=O)n(C)c1=O)n(CC(=O)O)cn2,89,BIQITOFJWNQURK-UHFFFAOYSA-N,cyproheptadine acefyllinate,US Approved Rx,0,['NCATS']
+2221,2221,[Al+3].[Al+3].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O,69,BUACSMWVFUNQET-UHFFFAOYSA-H,aluminium sulfate,US Approved OTC,0,['NCATS']
+5893,5893,CC(CNC)c1ccccc1.Cl,24,AUFSOOYCQYDGES-UHFFFAOYSA-N,phenpromethamine hydrochloride,US Previously Marketed,1,['NCATS']
+812,812,CC(C(=O)[O-])c1cccc(Oc2ccccc2)c1.CC(C(=O)[O-])c1cccc(Oc2ccccc2)c1.O.O.[Ca+2],100,LZPBLUATTGKZBH-UHFFFAOYSA-L,fenoprofen calcium,approved,0,['ChEMBL']
+5205,5205,c1ccc2cc(c(cc2c1)C(=O)O)[O-],35,ALKYHXVLJMQRLQ-UHFFFAOYSA-M,hydroxynaphthoate,Possibly Marketed Outside US,0,['NCATS']
+1450,1450,Br.Nc1nc(=O)c2c([nH]1)N[C@@H]1O[C@@H]3COP(=O)(O)O[C@@H]3C(O)(O)[C@@H]1N2.O.O,82,GGLKTKQOHMCQHF-UNHNTEMGSA-N,fosdenopterin hydrobromide,approved,0,['ChEMBL']
+225,225,[H][C@@]12[C@@H](C)C(=O)[C@H](C)C[C@@](C)(OC)[C@H](O[C@@H]3O[C@H](C)C[C@@H]([C@H]3O)N(C)C)[C@@H](C)C(=O)[C@@H](C)C(=O)O[C@H](CC)[C@@]1(C)OC(=O)N2CCCCN1C=NC(=C1)C1=CC=CN=C1,168,LJVAJPDWBABPEJ-PNUFFHFMSA-N,telithromycin,approved,0,"['DrugBank', 'ChEMBL']"
+2914,2914,Cc1ccc(cc1)/C(=C(/[H])\CN2CCCC2)/c3cccc(/C(/[H])=C(\[H])/C(=O)O)n3,59,PWACSDKDOHSSQD-UHFFFAOYSA-N,acrivastine,US Previously Marketed,1,['NCATS']
+1292,1292,NC1=NC(=O)C2=C(NC[C@H](CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2C=O)N1,85,VVIAGPKUTFNRDU-STQMWFEESA-N,levoleucovorin,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4734,4734,CCCOc1ccc2c(c1)[nH]c(n2)N=C(O)OC,40,RAOCRURYZCVHMG-UHFFFAOYSA-N,oxibendazole,Possibly Marketed Outside US,0,['NCATS']
+1787,1787,C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O,75,FGXWKSZFVQUSTL-UHFFFAOYSA-N,domperidone,withdrawn,1,['WITHDRAWN']
+3252,3252,c1ccc(cc1)N=C(O)OCC(CN2CCCCC2)OC(=Nc3ccccc3)O,55,YUGZHQHSNYIFLG-UHFFFAOYSA-N,diperodon anhydrous,US Previously Marketed,1,['NCATS']
+2742,2742,CC[C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4([H])[C@@]3([H])CC[C@@]21C)O,61,ZDHCJEIGTNNEMY-XGXHKTLJSA-N,norethandrolone,US Previously Marketed,1,['NCATS']
+671,671,O=C([O-])C1=C(CSc2nnnn2CS(=O)(=O)[O-])CS[C@@H]2[C@H](NC(=O)[C@H](O)c3ccccc3)C(=O)N12.[Na+].[Na+],107,NAXFZVGOZUWLEP-RFXDPDBWSA-L,cefonicid sodium,withdrawn,1,['ChEMBL']
+5508,5508,CC(C)(N)Cc1ccc(Cl)cc1.Cl,30,WEJDYJKJPUPMLH-UHFFFAOYSA-N,chlorphentermine hydrochloride,withdrawn,1,['ChEMBL']
+1938,1938,Cl.N#CC(CCN1CCC(C(=O)O)(c2ccccc2)CC1)(c1ccccc1)c1ccccc1,73,VMIZTXDGZPTKIK-UHFFFAOYSA-N,difenoxin hydrochloride,approved,0,['ChEMBL']
+3332,3332,COC(CN1CCN(CC1)CC(C(C2=CC=CC=C2)OC)O)C3=CC=CC=C3,54,VSTNNAYSCJQCQI-UHFFFAOYSA-N,zipeprol,withdrawn,1,['WITHDRAWN']
+4257,4257,CCCCCCCCCCCCCCCC[n+]1ccccc1.CC(=O)[O-],44,CBRUQZUHJAXNHS-UHFFFAOYSA-M,cetylpyridinium acetate,US Previously Marketed,1,['NCATS']
+4774,4774,[Ce+3].[I-].[I-].[I-].O.O.O.O.O.O.O.O.O,39,XLYOFNOQVPJJNP-UHFFFAOYSA-N,cerous iodide nonahydrate,US Previously Marketed,1,['NCATS']
+1278,1278,COCCc1ccc(OCC(O)CNC(C)C)cc1.COCCc1ccc(OCC(O)CNC(C)C)cc1.O=C(O)/C=C/C(=O)O,85,BRIPGNJWPCKDQZ-WXXKFALUSA-N,metoprolol fumarate,withdrawn,1,['ChEMBL']
+1437,1437,CN1[C@@H](CNC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CNC2=C1C(=O)N=C(N)N2,82,ZNOVTXRBGFNYRX-STQMWFEESA-N,levomefolic acid,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+6490,6490,OCC(S)CS,8,WQABCVAJNWAXTE-UHFFFAOYSA-N,dimercaprol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+287,287,[Na+].CCOC1=CC=C(NC2=CC=C(C=C2)C(=C2\C=C/C(/C=C2C)=[N+](/CC)CC2=CC(=CC=C2)S([O-])(=O)=O)\C2=C(C)C=C(C=C2)N(CC)CC2=CC(=CC=C2)S([O-])(=O)=O)C=C1,154,RWVGQQGBQSJDQV-UHFFFAOYSA-M,brilliant blue g,approved,0,"['DrugBank', 'ChEMBL']"
+688,688,C[C@@]12C=CC(=O)C=C2CC[C@@]3([H])[C@]4([H])CC[C@](C(=O)COC(=O)c5cccc(c5)S(=O)(=O)O)([C@@]4(C)C[C@@]([H])([C@@]31[H])O)O,107,WVKSUFYQOHQCMM-YGZHYJPASA-N,solupred,US Approved Rx,0,['NCATS']
+6282,6282,Cc1c(CCCl)scn1,17,PCLITLDOTJTVDJ-UHFFFAOYSA-N,clomethiazole,Possibly Marketed Outside US,0,['NCATS']
+932,932,CCC[C@@]([H])(C(=O)OCC)N[C@@]([H])(C)C(=O)N1[C@@]2([H])CCCC[C@@]2([H])C[C@@]1([H])C(=O)O.Cc1ccc(cc1)S(=O)(=O)O,96,FWZROZSADJGJER-MHXJNQAMSA-N,perindopril tosylate,Possibly Marketed Outside US,0,['NCATS']
+2306,2306,CN1CCC[C@@H]1CC1=CNC2=C1C=C(CCS(=O)(=O)C1=CC=CC=C1)C=C2,67,PWVXXGRKLHYWKM-LJQANCHMSA-N,eletriptan,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5774,5774,c1ccc2cc(ccc2c1)O,26,JWAZRIHNYRIHIV-UHFFFAOYSA-N,betanaphthol,US Previously Marketed,1,['NCATS']
+2248,2248,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,68,AHLBNYSZXLDEJQ-FWEHEUNISA-N,orlistat,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6231,6231,O=C([O-])CCCO.[K+],18,TXSIWDVUJVMMKM-UHFFFAOYSA-M,potassium oxybate,approved,0,['ChEMBL']
+2519,2519,CCn1cc(c(=O)c2cc(c(cc21)N3CCNCC3)F)C(=O)O.CC(C(=O)O)O,64,AYEXIHJJZPTXSS-UHFFFAOYSA-N,norfloxacin lactate,US Previously Marketed,1,['NCATS']
+3405,3405,c1ccc(cc1)N(CCC(=O)O)C(=O)c2c(cc(c(c2I)N)I)I,54,FJYJNLIEGUTPIJ-UHFFFAOYSA-N,iobenzamic acid,Possibly Marketed Outside US,0,['NCATS']
+5369,5369,Cl.N=C(N)NC(=N)NCCc1ccccc1,32,YSUCWSWKRIOILX-UHFFFAOYSA-N,phenformin hydrochloride,withdrawn,1,['ChEMBL']
+2513,2513,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,64,LQOLIRLGBULYKD-JKIFEVAISA-N,cloxacillin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+1742,1742,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,76,JSDRRTOADPPCHY-HSQYWUDLSA-N,quinapril,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1586,1586,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1.Cl,79,PGYPOBZJRVSMDS-UHFFFAOYSA-N,loperamide hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+2014,2014,COc1cc(c(cc1C(=NC2CCN(CC2)Cc3ccccc3)O)Cl)N.C(\[H])(=C(\[H])/C(=O)O)/C(=O)O,72,BCVIWCRZYPHHMQ-UHFFFAOYSA-N,clebopride maleate,Possibly Marketed Outside US,0,['NCATS']
+1663,1663,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)C(=O)OC4=CC5=C(CCC5)C=C4)C(=O)O)C,77,JIRBAUWICKGBFE-MNRDOXJOSA-N,carbenicillin indanyl,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+6112,6112,C(=O)([O-])[O-].[Sr+2],20,BVKZGUZCCUSVTD-UHFFFAOYSA-L,strontium carbonate,US Previously Marketed,1,['NCATS']
+5188,5188,C(CNC(=O)c1ccc(cc1)Cl)CN2CCOCC2,35,YYFGRAGNYHYWEZ-UHFFFAOYSA-N,eprobemide,Possibly Marketed Outside US,0,['NCATS']
+3279,3279,CN1C(C(=O)NC2=CC=CC=N2)=C(O)C2=C(C=C(Cl)S2)S1(=O)=O,55,WLHQHAUOOXYABV-UHFFFAOYSA-N,lornoxicam,approved; investigational,0,"['DrugBank', 'NCATS']"
+2487,2487,C[C@@H](NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12.Cl,65,QANQWUQOEJZMLL-PKLMIRHRSA-N,cinacalcet hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+2554,2554,CCCCCCCC(=O)CC[C@H]1[C@H](O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)OC(C)C,64,XXUPXHKCPIKWLR-JHUOEJJVSA-N,unoprostone isopropyl,approved,0,['ChEMBL']
+2609,2609,COC1=CC=C(CC(C)(C)NC[C@H](O)C2=C3OCC(=O)NC3=CC(O)=C2)C=C1,63,COUYJEVMBVSIHV-SFHVURJKSA-N,olodaterol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5938,5938,[I-].[I-].[Mn+2].O.O.O.O,24,WAEMQWOKJMHJLA-UHFFFAOYSA-N,manganese iodide tetrahydrate,US Approved Rx,0,['NCATS']
+5874,5874,[Cl-].[Cl-].[HgH+].[HgH+],25,GVVBJBFGCVPQNR-UHFFFAOYSA-N,calomel,US Approved OTC,0,['NCATS']
+5119,5119,c1cc(c(cc1[O-])S(=O)(=O)O)O.[K+],36,IKQCSJBQLWJEPU-UHFFFAOYSA-M,potassium dobesilate,Possibly Marketed Outside US,0,['NCATS']
+6010,6010,C1COCCN1C(=N)NC(=N)N.Cl,23,FXYZDFSNBBOHTA-UHFFFAOYSA-N,moroxydine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+5208,5208,CC12CCCCCC(C1N)CC3=C2C=C(C=C3)O,34,VTMVHDZWSFQSQP-VBNZEHGJSA-N,dezocine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4532,4532,CN(C)S(=O)(=O)c1ccc(cc1)OP(=S)(OC)OC,42,JISACBWYRJHSMG-UHFFFAOYSA-N,famphur,Possibly Marketed Outside US,0,['NCATS']
+5032,5032,COc1ccc(cc1)/C(/[H])=C(\[H])/C(=O)[O-].[K+],37,AFDXODALSZRGIH-UHFFFAOYSA-M,potassium methoxycinnamate,Possibly Marketed Outside US,0,['NCATS']
+299,299,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314.COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314.O.O.O.O=S(=O)(O)O,151,BOLDZXRCJAJADM-AAXBYHQXSA-N,codeine sulfate,approved,0,"['ChEMBL', 'NCATS']"
+4957,4957,C=CCN1Cc2ccccc2-c3ccccc3C1,37,NYGHGTMKALXFIA-UHFFFAOYSA-N,azapetine,US Previously Marketed,1,['NCATS']
+4912,4912,Cc1cccc(C)c1N=C([C@]2([H])CCCCN2C)O,38,INWLQCZOYSRPNW-ZDUSSCGKSA-N,dexivacaine,US Approved Rx,0,['NCATS']
+26,26,CC(C)C[C@@]([H])(C(=N[C@@]([H])(CCCNC(=N)N)C(=O)N1CCC[C@@]1([H])C(=N[C@]([H])(C)C(=N)O)O)O)N=C([C@@]([H])(CCCNC(=N)O)N=C([C@]([H])(Cc2ccc(cc2)O)N=C([C@]([H])(CO)N=C([C@@]([H])(Cc3cccnc3)N=C([C@@]([H])(Cc4ccc(cc4)Cl)N=C([C@@]([H])(Cc5ccc6ccccc6c5)N=C(C)O)O)O)O)O)O)O.CC(=O)O.CC(=O)O,267,DTPVYWHLQLAXFT-SMCUOGPFSA-N,cetrorelix acetate,US Approved Rx,0,['NCATS']
+4192,4192,CC(C)(C)NC[C@H](O)COc1cccc2c1CCCC2=O.Cl,45,DNTDOBSIBZKFCP-YDALLXLXSA-N,levobunolol hydrochloride,approved,0,['ChEMBL']
+1831,1831,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12.O=P(O)(O)O,75,XCPXNPBILMXKNX-UHFFFAOYSA-N,carvedilol phosphate,approved,0,['ChEMBL']
+4729,4729,c1cc(c(cc1S(=O)(=O)N)S(=O)(=O)N)Cl,40,NENBAISIHCWPKP-UHFFFAOYSA-N,clofenamide,Possibly Marketed Outside US,0,['NCATS']
+1513,1513,[H][C@@]12CCC[C@]1([H])N([C@@H](C2)C(O)=O)C(=O)[C@H](C)N[C@@H](CCC1=CC=CC=C1)C(=O)OCC,80,HDACQVRGBOVJII-JBDAPHQKSA-N,ramipril,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3171,3171,CCN(CC)C(=O)C(=C\C1=CC(=C(O)C(O)=C1)[N+]([O-])=O)\C#N,56,JRURYQJSLYLRLN-BJMVGYQFSA-N,entacapone,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5236,5236,CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1,34,XWTYSIMOBUGWOL-UHFFFAOYSA-N,terbutaline,approved,0,"['DrugBank', 'ChEMBL']"
+1073,1073,CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C[C@H](C)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,91,YRFXGQHBPBMFHW-SBTZIJSASA-N,fluorometholone acetate,approved,0,"['ChEMBL', 'NCATS']"
+181,181,COC(=O)N[C@@H](C(C)C)C(=O)N1CC2(CC2)C[C@H]1C1=NC(=CN1)C1=CC=C2C3=CC=C(C=C3C(F)(F)C2=C1)C1=CC=C2NC(=NC2=C1)[C@@H]1[C@H]2CC[C@H](C2)N1C(=O)[C@@H](NC(=O)OC)C(C)C,180,VRTWBAAJJOHBQU-KMWAZVGDSA-N,ledipasvir,approved,0,"['DrugBank', 'ChEMBL']"
+1055,1055,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)N3CCNC3=O)c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+],91,UVOCNBWUHNCKJM-XFAPPKAWSA-M,azlocillin sodium,withdrawn,1,['ChEMBL']
+4176,4176,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C,45,BYPFEZZEUUWMEJ-UHFFFAOYSA-N,pentoxifylline,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1203,1203,c1cc(c(cc1[As]=[As]c2ccc(c(c2)NCS(=O)(=O)O)[O-])NCS(=O)(=O)O)[O-].[Na+].[Na+],87,BPRGSDPGYCSOSJ-UHFFFAOYSA-L,sulfarsphenamine,US Previously Marketed,1,['NCATS']
+1505,1505,C(\[H])(=C(\[H])/C[C@]1([H])[C@@]([H])(/C(/[H])=C(\[H])/[C@]([H])(COc2cccc(c2)Cl)O)[C@@]([H])(C[C@]1([H])O)O)/CCCC(=O)O,81,VJGGHXVGBSZVMZ-LELZANKISA-N,cloprostenol,Possibly Marketed Outside US,0,['NCATS']
+3612,3612,CC(C)COC(=O)c1ccccc1OC(=O)/C(/[H])=C(\[H])/c2ccccc2,51,KLWUCKSEMIGJSG-UHFFFAOYSA-N,isobutylsalicyl cinnamate,US Previously Marketed,1,['NCATS']
+2295,2295,COC1=CC=CC2=C3C(=C(C=C21)[N+](=O)[O-])C(=CC4=C3OCO4)C(=O)O,67,BBFQZRXNYIEMAW-UHFFFAOYSA-N,aristolochic acid,withdrawn,1,['WITHDRAWN']
+4571,4571,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,41,JTEGQNOMFQHVDC-NKWVEPMBSA-N,lamivudine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+449,449,COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1.COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1.O.O.O=C(O)/C=C/C(=O)O,127,RATSWNOMCHFQGJ-XODSYJLDSA-N,formoterol fumarate,approved,0,['ChEMBL']
+4679,4679,CCS(=O)(=O)CCN1C(C)=NC=C1[N+]([O-])=O,40,HJLSLZFTEKNLFI-UHFFFAOYSA-N,tinidazole,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3078,3078,B1([O-])OB2OB([O-])OB(O1)O2.[Na+].[Na+].O.O.O.O.O.O.O.O.O.O,57,CDMADVZSLOHIFP-UHFFFAOYSA-N,sodium borate,US Previously Marketed,1,['NCATS']
+2232,2232,C=C[C@@]1([H])CN2CC[C@@]1([H])C[C@]2([H])[C@]([H])(c3ccnc4ccccc34)O.Cl.Cl,68,KMPWYEUPVWOPIM-QAMTZSDWSA-N,cinchonine dihydrochloride,US Previously Marketed,1,['NCATS']
+2265,2265,N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-].[Na+],68,SBXXSUDPJJJJLC-YDALLXLXSA-M,liothyronine sodium,approved,0,['ChEMBL']
+887,887,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(=O)[O-])[C@H]21.[Na+],97,VWBQYTRBTXKKOG-IYNICTALSA-M,pravastatin sodium,approved,0,['ChEMBL']
+4860,4860,CCCC(C)C1(CC)C(=O)N=C([S-])NC1=O.[Na+],38,AWLILQARPMWUHA-UHFFFAOYSA-M,thiopental sodium,withdrawn,1,"['ChEMBL', 'NCATS']"
+131,131,CC(C(C(=O)NCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N)NC(=O)C(CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C5CCC(=O)N5)O,197,YRALAIOMGQZKOW-HYAOXDFASA-N,ceruletide,withdrawn,1,"['WITHDRAWN', 'NCATS']"
+5315,5315,NC(=N)NC(=O)CC1=C(Cl)C=CC=C1Cl,33,INJOMKTZOLKMBF-UHFFFAOYSA-N,guanfacine,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1737,1737,CCC1=C(C)CN(C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]2CC[C@H](C)CC2)C1=O,76,WIGIZIANZCJQQY-RUCARUNLSA-N,glimepiride,approved,0,"['DrugBank', 'ChEMBL']"
+2575,2575,COC1=CC=C(C=C1)C(=C(C2=CC=C(C=C2)OC)Cl)C3=CC=C(C=C3)OC,63,BFPSDSIWYFKGBC-UHFFFAOYSA-N,chlorotrianisene,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+6322,6322,CC(=O)[O-].[Rb+],16,FOGKDYADEBOSPL-UHFFFAOYSA-M,rubidium acetate,Possibly Marketed Outside US,0,['NCATS']
+2542,2542,CCCCCCCCCCCCCCCC[N+](C)(C)CCN(CC1=CC=C(OC)C=C1)C1=NC=CC=N1,64,IOYZYMQFUSNATM-UHFFFAOYSA-N,thonzonium,approved,0,"['DrugBank', 'NCATS']"
+2403,2403,C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5.Cl,66,RGPDIGOSVORSAK-STHHAXOLSA-N,naloxone hydrochloride,approved,0,['ChEMBL']
+5779,5779,c1ccc(cc1)C(COC(=N)O)O,26,OCSOHUROTFFTFO-UHFFFAOYSA-N,styramate,US Previously Marketed,1,['NCATS']
+4023,4023,CC1CCc2c(C)c(cc3c2n1cc(c3=O)C(=O)O)F,47,DXKRGNXUIRKXNR-UHFFFAOYSA-N,ibafloxacin,Possibly Marketed Outside US,0,['NCATS']
+622,622,CC(C)COC(=O)NCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N,110,ALXRNCVIQSDJAO-KRCBVYEFSA-N,pentagastrin,withdrawn,1,['WITHDRAWN']
+3137,3137,CN(C)c1ccc2c(c1)[s+]c3cc(ccc3n2)N(C)C.[OH-],57,DJRKUXZQFQJGGN-UHFFFAOYSA-M,methylene blue hydroxide,US Approved Rx,0,['NCATS']
+2367,2367,C1CN(CC=C1N2C3=CC=CC=C3NC2=O)CCCC(=O)C4=CC=C(C=C4)F,66,RMEDXOLNCUSCGS-UHFFFAOYSA-N,droperidol,withdrawn,1,['WITHDRAWN']
+2563,2563,C/C(=C(\c1ccc(cc1Cl)Cl)/OCCOc2ccc(cc2)Cl)/n3ccnc3,64,JMFOSJNGKJCTMJ-UHFFFAOYSA-N,omoconazole,Possibly Marketed Outside US,0,['NCATS']
+3976,3976,[H][C@]12OC[C@@H](O[N+]([O-])=O)[C@@]1([H])OC[C@@H]2O,47,YWXYYJSYQOXTPL-SLPGGIOYSA-N,isosorbide mononitrate,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2596,2596,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,63,HBOMLICNUCNMMY-XLPZGREQSA-N,zidovudine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1812,1812,C[N+]1(C)[C@H]2C[C@@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1,75,LZCOQTDXKCNBEE-IKIFYQGPSA-N,methscopolamine,approved,0,"['DrugBank', 'ChEMBL']"
+5362,5362,CCNC(C)CC1=CC(=CC=C1)C(F)(F)F,32,DBGIVFWFUFKIQN-VIFPVBQESA-N,dexfenfluramine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+5300,5300,C1CCN(CC1)CC2COc3ccccc3O2,33,LYKMMUBOEFYJQG-UHFFFAOYSA-N,piperoxan,US Previously Marketed,1,['NCATS']
+892,892,Cl.O=C1[C@H]2[C@@H]3CC[C@@H](C3)[C@H]2C(=O)N1C[C@@H]1CCCC[C@H]1CN1CCN(c2nsc3ccccc23)CC1,97,NEKCRUIRPWNMLK-SCIYSFAVSA-N,lurasidone hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+6082,6082,CC(C)(C(C(=O)O)N)S.Cl,21,CZDHUFYOXKHLME-DFWYDOINSA-N,penicillamine hydrochloride,US Approved Rx,0,['NCATS']
+5566,5566,[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4],30,LCKIEQZJEYYRIY-UHFFFAOYSA-N,titanium tetrachloride,US Approved Rx,0,['NCATS']
+4237,4237,CN1CCCC(C1)CC2C3=CC=CC=C3SC4=CC=CC=C24,44,MJFJKKXQDNNUJF-UHFFFAOYSA-N,methixene,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+5118,5118,c1ccc(cc1)COC(=O)c2ccccc2O,36,ZCTQGTTXIYCGGC-UHFFFAOYSA-N,benzyl salicylate,US Approved OTC,0,['NCATS']
+714,714,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC.Cl.O.O.O,105,KLEAIHJJLUAXIQ-JDRGBKBRSA-N,irinotecan hydrochloride,approved,0,['ChEMBL']
+3793,3793,CC(C)COC1=C(C=C(C=C1)C1=NC(C)=C(S1)C(O)=O)C#N,49,BQSJTQLCZDPROO-UHFFFAOYSA-N,febuxostat,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4766,4766,CCOC(=O)c1ccc(cc1)N(CC(C)O)CC(C)O,39,CBZHHQOZZQEZNJ-UHFFFAOYSA-N,roxadimate,US Previously Marketed,1,['NCATS']
+6155,6155,O=P([O-])([O-])[O-],19,NBIIXXVUZAFLBC-HOSYLAQJSA-K,phosphate ion p-32,US Previously Marketed,1,['NCATS']
+4626,4626,Cc1ncc(n1CC(CN2CCOCC2)O)N(=O)=O,41,GAZGHCHCYRSPIV-UHFFFAOYSA-N,morinidazole,Possibly Marketed Outside US,0,['NCATS']
+5580,5580,CNCC(c1ccc(c(c1)O)O)O.Cl,30,ATADHKWKHYVBTJ-UHFFFAOYSA-N,racepinephrine hydrochloride,US Approved OTC,0,['NCATS']
+763,763,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12.Cl,102,CBHYYLPALVVVEY-MRFRVZCGSA-N,chlortetracycline hydrochloride,withdrawn,1,['ChEMBL']
+4325,4325,c1cc(c(Cn2cnc3c(N)ncnc32)c(c1)F)Cl,44,NAPNOSFRRMHNBJ-UHFFFAOYSA-N,arprinocid,Possibly Marketed Outside US,0,['NCATS']
+3489,3489,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1.Cl,53,FJQXCDYVZAHXNS-UHFFFAOYSA-N,methadone hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+6277,6277,c1csc(=N)[nH]1,17,RAIPHJJURHTUIC-UHFFFAOYSA-N,aminothiazole,Possibly Marketed Outside US,0,['NCATS']
+2390,2390,CN(C)S(=O)(=O)C1=CC2=C(SC3=CC=CC=C3N2CCCN2CCC(CCO)CC2)C=C1,66,JOMHSQGEWSNUKU-UHFFFAOYSA-N,pipotiazine,approved; investigational,0,"['DrugBank', 'NCATS']"
+5775,5775,c1c(C=O)c(c(cc1Br)Br)O,26,JHZOXYGFQMROFJ-UHFFFAOYSA-N,"3,5-dibromosalicylaldehyde",US Previously Marketed,1,['NCATS']
+2611,2611,COCC(=O)NC1=C(I)C(C(=O)N(C)CC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I,63,DGAIEPBNLOQYER-UHFFFAOYSA-N,iopromide,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3427,3427,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)O)I,53,CZCHIEJNWPNBDE-UHFFFAOYSA-N,benziodarone,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+212,212,CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1.CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1.O=C(O)/C=C/C(=O)O,173,UJOUWHLYTQFUCU-WXXKFALUSA-N,gilteritinib fumarate,approved,0,['ChEMBL']
+6288,6288,CCOC(=O)C(=O)OCC,16,WYACBZDAHNBPPB-UHFFFAOYSA-N,diethyl oxalate,US Previously Marketed,1,['NCATS']
+33,33,CCNC(NCC)=NCCCC[C@@H](NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@@H](CC1=CC=CN=C1)NC(=O)[C@@H](CC1=CC=C(Cl)C=C1)NC(=O)[C@@H](CC1=CC2=CC=CC=C2C=C1)NC(C)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN=C(NCC)NCC)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O,261,GJNXBNATEDXMAK-PFLSVRRQSA-N,ganirelix,approved,0,"['DrugBank', 'NCATS']"
+5602,5602,CC(C)COC(=O)c1ccc(cc1)N,29,PUYOAVGNCWPANW-UHFFFAOYSA-N,isobutamben,US Previously Marketed,1,['NCATS']
+964,964,C[C@]1([H])C[C@@]2([H])[C@]3([H])C[C@@]([H])(C4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@]2(C)[C@]1(C(=O)CO)O)O)F)F,94,WXURHACBFYSXBI-GQKYHHCASA-N,flumethasone,US Previously Marketed,1,['NCATS']
+3417,3417,C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,53,QWCJHSGMANYXCW-UHFFFAOYSA-N,sulfaphenazole,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+270,270,COc1ccc2c3c1O[C@H]1C(=O)CC[C@@]4(O)[C@@H](C2)N(C)CC[C@]314.COc1ccc2c3c1O[C@H]1C(=O)CC[C@@]4(O)[C@@H](C2)N(C)CC[C@]314.O=C(O)c1ccc(C(=O)O)cc1,158,BTEYIHUKHHAVAN-KDKWOIFOSA-N,oxycodone terephthalate,approved,0,['ChEMBL']
+1120,1120,Cc1c(COC(=O)[C@@]2([H])C(C)(C)S[C@]3([H])[C@@]([H])(C(=O)N23)N=C([C@@]([H])(c4ccccc4)N)O)oc(=O)o1.Cl,90,FXXSETTYJSGMCR-GLCLSGQWSA-N,lenampicillin hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+3524,3524,CCN(CC)CCOC(=O)C(CC1CCCO1)CC2=CC=CC3=CC=CC=C32,52,KBAFPSLPKGSANY-VXKWHMMOSA-N,naftidrofuryl oxalate,withdrawn,1,['WITHDRAWN']
+2452,2452,C=CCN1CC[C@@]23[C@@]4([H])C=C[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)O)O,65,UIQMVEYFGZJHCZ-SSTWWWIQSA-N,nalorphine,US Previously Marketed,1,['NCATS']
+4771,4771,COc1ccccc1OC(=O)Oc2ccccc2OC,39,ORUJFMPWKPVXLZ-UHFFFAOYSA-N,guaiacol carbonate,US Previously Marketed,1,['NCATS']
+232,232,CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@H]1C)OC,167,QJJXYPPXXYFBGM-LFZNUXCKSA-N,tacrolimus,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5643,5643,C[N+](C)(C)CCCC(=O)OC.[Cl-].O,29,HUCARLCBGJLGMH-UHFFFAOYSA-M,carpronium chloride monohydrate,Possibly Marketed Outside US,0,['NCATS']
+3123,3123,Cc1ccc(cc1S(=O)(=O)N)C(CNCCOc2ccccc2OC)O.Cl,57,JRVCPDVOFCWKAG-UHFFFAOYSA-N,amosulalol hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+5878,5878,CCCCCCCCCCCCOCCOCCOC(=O)C,25,QXRCPJZJWJTNCJ-UHFFFAOYSA-N,laureth-2 acetate,Possibly Marketed Outside US,0,['NCATS']
+2707,2707,CC(=O)N(CCCCCN=C(CCC(=O)N(CCCCCN=C(CCC(=O)N(CCCCCN)O)O)O)O)O.O,62,SVIRNNMREPGSLS-UHFFFAOYSA-N,deferoxamine monohydrate,US Approved Rx,0,['NCATS']
+619,619,C=C[C@]1(C)C[C@]([H])([C@]2(C)[C@]([H])(C)CC[C@]3(CCC(=O)[C@@]23[H])[C@@]([H])(C)[C@]1([H])O)OC(=O)CSCCN(CC)CC.C(\[H])(=C(/[H])\C(=O)O)/C(=O)O,111,UURAUHCOJAIIRQ-QGLSALSOSA-N,tiamulin fumarate,Possibly Marketed Outside US,0,['NCATS']
+752,752,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1.Cc1ccc(S(=O)(=O)O)cc1,103,IVDHYUQIDRJSTI-UHFFFAOYSA-N,sorafenib tosylate,approved,0,['ChEMBL']
+2128,2128,N#CC(CCN1CCC(C(=O)O)(c2ccccc2)CC1)(c1ccccc1)c1ccccc1,70,UFIVBRCCIRTJTN-UHFFFAOYSA-N,difenoxin,approved,0,"['ChEMBL', 'NCATS']"
+5937,5937,[La+3].[OH-].[OH-].[OH-],24,CZMAIROVPAYCMU-UHFFFAOYSA-N,lanthanum hydroxide,US Approved Rx,0,['NCATS']
+961,961,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CCC7C8=CC(=O)OC8)O)C)C)C)C)O)O,94,WDJUZGPOPHTGOT-XUDUSOBPSA-N,digitoxin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+519,519,c1cc(ccc1Cl)SC(P(=O)(O)O)P(=O)(O)O.c1cc(ccc1Cl)SC(P(=O)([O-])[O-])P(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].O,119,DKJJVAGXPKPDRL-UHFFFAOYSA-N,tiludronate disodium hemihydrate,US Previously Marketed,1,['NCATS']
+5262,5262,Cl.NC(=O)OC[C@H](N)Cc1ccccc1,34,KAOVAAHCFNYXNJ-SBSPUUFOSA-N,solriamfetol hydrochloride,approved,0,['ChEMBL']
+3863,3863,CC(CC(c1ccccc1)c1ccccc1)NC(C)(C)C.Cl,48,RNGHAJVBYQPLAZ-UHFFFAOYSA-N,terodiline hydrochloride,withdrawn,1,['ChEMBL']
+2395,2395,N[C@@H]1CCCCN(C1)C1=C(F)C=C2C(=O)C(=CN(C3CC3)C2=C1Cl)C(O)=O,66,QFFGVLORLPOAEC-SNVBAGLBSA-N,besifloxacin,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4421,4421,CCCC[C@]([H])(/C(/[H])=C(\C)/C(/[H])=C(\[H])/C(/[H])=C(\[H])/C(=O)N1CCCC1=O)O,43,ZYPGADGCNXOUJP-OAHLLOKOSA-N,pecilocin,Possibly Marketed Outside US,0,['NCATS']
+802,802,C[N+](C)(CCCCCC[N+](C)(C)C1c2ccccc2-c2ccccc21)C1c2ccccc2-c2ccccc21.[Br-].[Br-],100,WDEFPRUEZRUYNW-UHFFFAOYSA-L,hexafluorenium bromide,withdrawn,1,['ChEMBL']
+4808,4808,[Al+3].CC([O-])=O.CC([O-])=O.CC([O-])=O,39,WCOATMADISNSBV-UHFFFAOYSA-K,aluminum acetate,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+185,185,CC[C@]([H])([C@@]1([H])CC[C@]([H])(C)[C@]([H])([C@@]([H])(C)[C@@]([H])([C@]([H])(C)C(=O)[C@]([H])(CC)[C@]2([H])[C@@]([H])(C)C[C@@]([H])(C)[C@@]3(C=C[C@]([H])([C@]4(CC[C@@](C)([C@@]5([H])CC[C@](CC)([C@]([H])(C)O5)O)O4)O3)O)O2)O)O1)C(=O)O,178,KQXDHUJYNAXLNZ-XQSDOZFQSA-N,salinomycin,Possibly Marketed Outside US,0,['NCATS']
+2438,2438,C1CCN(C1)CCOC2=CC=C(C=C2)C3C(CCC4=C3C=CC(=C4)O)C5=CC=CC=C5,65,GXESHMAMLJKROZ-IAPPQJPRSA-N,lasofoxifene,withdrawn,1,['WITHDRAWN']
+4345,4345,CC1=CC(=C(C(=C1OC(=O)C)C)C)OCC(CNC(C)C)O,43,BQIPXWYNLPYNHW-UHFFFAOYSA-N,metipranolol,withdrawn,1,"['WITHDRAWN', 'NCATS']"
+2915,2915,C[N+]1(C)[C@@]2([H])CC[C@]1([H])C[C@@]([H])(C2)OC(=O)C([H])(CO)c3ccccc3,59,MIYYCIZRGMLXFT-KNCRFDSUSA-N,methylatropinium,US Previously Marketed,1,['NCATS']
+2699,2699,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1.Cl.Cl,62,BXDAOUXDMHXPDI-UHFFFAOYSA-N,trifluoperazine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+587,587,CCCCCCCCCCCCCCCC(=O)O[C@@H]1[C@@H](O)[C@@H](O)[C@@H]([C@H](NC(=O)[C@@H]2C[C@@H](CCC)CN2C)[C@H](C)Cl)O[C@@H]1SC.Cl,113,GTNDZRUWKHDICY-DJHAJVGHSA-N,clindamycin palmitate hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+5763,5763,C[N+](C)(C)NCCC(=O)[O-].O.O,27,JFWLFLLRLZSBRA-UHFFFAOYSA-N,meldonium dihydrate,Possibly Marketed Outside US,0,['NCATS']
+3593,3593,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,51,DJBNUMBKLMJRSA-LLVKDONJSA-N,flecainide,withdrawn,1,['WITHDRAWN']
+4660,4660,c1cc(c(cc1Cl)Cl)Oc2ccc(cc2O)Cl,40,XEFQLINVKFYRCS-UHFFFAOYSA-N,triclosan,US Previously Marketed,1,['NCATS']
+737,737,c1ccc2c(c1)cc(Cc3cc(ccc3F)[C@@]4([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O4)O)O)O)s2.C1C[C@@]([H])(C(=O)O)NC1,104,AHFWIQIYAXSLBA-RQXATKFSSA-N,ipragliflozin l-proline,Possibly Marketed Outside US,0,['NCATS']
+4723,4723,CC/C(/[H])=C(/[H])\C/C(/[H])=C(/[H])\C/C(/[H])=C(/[H])\C/C(/[H])=C(/[H])\C/C(/[H])=C(/[H])\CCCC(=O)O,40,JAZBEHYOTPTENJ-UHFFFAOYSA-N,icosapent,US Approved Rx,0,['NCATS']
+3432,3432,CC1=NN=C2N1C3=C(C=C(S3)Br)C(=NC2)C4=CC=CC=C4Cl,53,UMSGKTJDUHERQW-UHFFFAOYSA-N,brotizolam,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+1433,1433,CNC(=O)C1=CN(N=C1)C1=NC2=C(N=CN2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C(N)=N1,82,LZPZPHGJDAGEJZ-AKAIJSEGSA-N,regadenoson,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+6358,6358,CCCC(CCC)C(=N)O,15,OMOMUFTZPTXCHP-UHFFFAOYSA-N,valpromide,Possibly Marketed Outside US,0,['NCATS']
+4538,4538,CN1CCOC(c2ccccc2)c3ccccc3C1.Cl,42,CNNVSINJDJNHQK-UHFFFAOYSA-N,nefopam hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2153,2153,COC(=O)CCC/C(/[H])=C(/[H])\C[C@]1([H])[C@@]([H])(C#C[C@]([H])(CCC2CCCCC2)O)[C@@]([H])(C[C@]1([H])O)O,70,OZDSQCVLNUIYLN-BVAFDOMYSA-N,alfaprostol,Possibly Marketed Outside US,0,['NCATS']
+82,82,Cc1ccc(cc1N=C(c2cccc(c2)NC(=Nc3cccc(c3)C(=Nc4cc(ccc4C)C(=Nc5ccc(c6cc(cc(c65)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)O)O)O)O)C(=Nc7ccc(c8cc(cc(c87)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)O,219,FIAFUQMPZJWCLV-UHFFFAOYSA-N,suramin,Possibly Marketed Outside US,0,['NCATS']
+6000,6000,c1cc(ccc1C(CN)O)O,23,QHGUCRYDKWKLMG-UHFFFAOYSA-N,octopamine,Possibly Marketed Outside US,0,['NCATS']
+1451,1451,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OC(C)OC(C)=O)=C(COC(N)=O)CS[C@H]12)c1ccco1,82,KEJCWVGMRLCZQQ-YJBYXUATSA-N,cefuroxime axetil,approved,0,['ChEMBL']
+691,691,CC1CC(C(C(O1)OC2C(CC3(CO3)C(=O)C(C(C(C(OC(=O)C(C(C2C)OC4CC(C(C(O4)C)OC(=O)C)OC)C)C)C)OC(=O)C)C)C)OC(=O)C)N(C)C,106,LQCLVBQBTUVCEQ-QTFUVMRISA-N,troleandomycin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+1818,1818,CC1=CC=CC(C)=C1NC(=O)CN1CCN(CCCC(C2=CC=C(F)C=C2)C2=CC=C(F)C=C2)CC1,75,ZBIAKUMOEKILTF-UHFFFAOYSA-N,lidoflazine,approved; experimental,0,"['DrugBank', 'NCATS']"
+351,351,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)NC(CCCCN)C(=O)NCC(=O)N,140,BJFIDCADFRDPIO-XHQHHRCCSA-N,lypressin,withdrawn,1,['WITHDRAWN']
+3539,3539,c1cc(ccc1[As](=O)(O)[O-])NC(=O)CO.[Bi+3].[O-2],52,BIASAFJVDOYXQQ-UHFFFAOYSA-M,glycobiarsol,US Previously Marketed,1,['NCATS']
+53,53,C([C@]1([H])[C@]2([H])[C@@]([H])([C@]([H])([C@]([H])(O1)O[C@]3([H])[C@@]([H])(CO)O[C@@]([H])([C@@]([H])([C@@]3([H])O)O)O[C@]4([H])[C@@]([H])(CO)O[C@@]([H])([C@@]([H])([C@@]4([H])O)O)O[C@]5([H])[C@@]([H])(CO)O[C@@]([H])([C@@]([H])([C@@]5([H])O)O)O[C@]6([H])[C@@]([H])(CO)O[C@@]([H])([C@@]([H])([C@@]6([H])O)O)O[C@]7([H])[C@@]([H])(CO)O[C@@]([H])([C@@]([H])([C@@]7([H])O)O)O2)O)O)O,243,HFHDHCJBZVLPGP-RWMJIURBSA-N,alfadex,Possibly Marketed Outside US,0,['NCATS']
+3982,3982,COCCCN1CCC(CC1)NC(=O)C1=C2OCCC2=C(N)C(Cl)=C1,47,ZPMNHBXQOOVQJL-UHFFFAOYSA-N,prucalopride,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1367,1367,C[N+]1(CC(=O)c2ccccc2)[C@@]3([H])CC[C@]1([H])C[C@@]([H])(C3)OC(=O)C([H])(c4ccccc4)O.[Cl-],83,HOBCVVNIDNTUOL-VLBFHQNGSA-N,phenactropinium chloride,US Previously Marketed,1,['NCATS']
+5372,5372,c1cc(c(/C(/[H])=N/NC(=N)N)c(c1)Cl)Cl,32,WDZVGELJXXEGPV-UHFFFAOYSA-N,guanabenz,US Previously Marketed,1,['NCATS']
+3614,3614,Cn1c2c(c(=O)n(C)c1=O)nc(Br)[nH]2.CC(C)(CO)N,51,ATOTUUBRFJHZQG-UHFFFAOYSA-N,pamabrom,US Previously Marketed,1,['NCATS']
+6076,6076,COC(=O)C1=CN=CC=C1,21,YNBADRVTZLEFNH-UHFFFAOYSA-N,methyl nicotinate,approved,0,"['DrugBank', 'NCATS']"
+2229,2229,CCN(CC)CCOCCOC(=O)C1(c2ccccc2)CCCC1.O=C(O)CC(O)(CC(=O)O)C(=O)O,68,AKJDEXBCRLOVTH-UHFFFAOYSA-N,carbetapentane citrate,withdrawn,1,"['ChEMBL', 'NCATS']"
+1721,1721,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4,76,RDOIQAHITMMDAJ-UHFFFAOYSA-N,loperamide,withdrawn,1,['WITHDRAWN']
+3161,3161,CC1(CC(c2ccccc2)c3c(c4ccccc4oc3=O)O1)OC,56,ZGFASEKBKWVCGP-UHFFFAOYSA-N,cyclocumarol,US Previously Marketed,1,['NCATS']
+5084,5084,N[C@@H](CC1=CC(O)=C(O)C=C1)C(O)=O,36,WTDRDQBEARUVNC-LURJTMIESA-N,levodopa,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5555,5555,O=[Si](O)O[Si](O)(O)O[Si](=O)O,30,NPEYATQABYMBPM-UHFFFAOYSA-N,trisilicate,approved,0,['ChEMBL']
+4905,4905,CCOC(=O)C1(c2ccccc2)CCN(C)CC1.Cl,38,WCNLCIJMFAJCPX-UHFFFAOYSA-N,meperidine hydrochloride,approved,0,['ChEMBL']
+55,55,[H][C@]1(NC(=O)[C@@H](NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)[C@H](C[C@@H](O)[C@@H](O)NC(=O)[C@@H]2[C@@H](O)[C@@H](C)CN2C1=O)NC(=O)C1=CC=C(C=C1)C1=CC=C(C=C1)C1=CC=C(OCCCCC)C=C1)[C@@H](C)O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@@H](C)O,241,JHVAMHSQVVQIOT-MFAJLEFUSA-N,anidulafungin,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1703,1703,CCOC(=O)[C@]([H])(CCc1ccccc1)N[C@@]2([H])CS[C@@]([H])(CN(CC(=O)O)C2=O)c3cccs3.Cl,77,FIQOFIRCTOWDOW-BJLQDIEVSA-N,temocapril hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2691,2691,CC(C)COC1=CC=C(CNC(=O)N(CC2=CC=C(F)C=C2)C2CCN(C)CC2)C=C1,62,RKEWSXXUOLRFBX-UHFFFAOYSA-N,pimavanserin,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2759,2759,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)CC1=CC=CC=C1)C(O)=O,61,JGSARLDLIJGVTE-MBNYWOFBSA-N,benzylpenicillin,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2280,2280,CCCc1ccc(c(c1)OC)OCC(=O)N2CCN(CC2)C(=O)COc3ccc(CCC)cc3OC,68,IMOLVSPMDGCLMB-UHFFFAOYSA-N,simetride,Possibly Marketed Outside US,0,['NCATS']
+5393,5393,CC(C)CC1=CC=C(C=C1)C(C)C(O)=O,32,HEFNNWSXXWATRW-UHFFFAOYSA-N,ibuprofen,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4135,4135,CCOc1ccc(nn1)NS(=O)(=O)c2ccc(cc2)N,46,FFJIWWBSBCOKLS-UHFFFAOYSA-N,sulfaethoxypyridazine,Possibly Marketed Outside US,0,['NCATS']
+2287,2287,C(CCCNCC(c1ccc(c(c1)O)O)O)CCNCC(c2ccc(c(c2)O)O)O.OS(=O)(=O)O,68,GTDCHGNGVGRHQY-UHFFFAOYSA-N,hexoprenaline sulfate,Possibly Marketed Outside US,0,['NCATS']
+103,103,CC(C)CC(C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(CC2=CC=C(C=C2)O)N(C)C(=O)C(CO)NC(=O)C(CC3=CN=CC=C3)NC(=O)C(CC4=CC=C(C=C4)Cl)NC(=O)C(CC5=CC6=CC=CC=C6C=C5)NC(=O)C,207,AIWRTTMUVOZGPW-HSPKUQOVSA-N,abarelix,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+286,286,O=C(O)/C=C/C(=O)O.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1,155,RESIMIUSNACMNW-BXRWSSRYSA-N,cobimetinib fumarate,approved,0,['ChEMBL']
+1599,1599,CC(C)OC(=O)CCC/C(/[H])=C(\[H])/C[C@]1([H])[C@@]([H])(CC[C@]([H])(CCc2ccccc2)O)[C@@]([H])(C[C@]1([H])O)O,79,GGXICVAJURFBLW-VCDBXAJLSA-N,"latanoprost, (5e)-",US Approved Rx,0,['NCATS']
+1944,1944,CC[C@@]12CCCN3CCc4c5ccc(cc5n(c4[C@]13[H])[C@](C2)(C(=O)OC)O)Br,73,WYIJGAVIVKPUGJ-GIVPXCGWSA-N,brovincamine,Possibly Marketed Outside US,0,['NCATS']
+6305,6305,[Na+].OC([O-])=O,16,UIIMBOGNXHQVGW-UHFFFAOYSA-M,sodium bicarbonate,approved,0,"['DrugBank', 'ChEMBL']"
+4599,4599,CC(=O)Nc1nnc(S([NH-])(=O)=O)s1.[Na+],41,MRSXAJAOWWFZJJ-UHFFFAOYSA-M,acetazolamide sodium,approved,0,['ChEMBL']
+6334,6334,CC(C(C(=O)O)N)O,15,AYFVYJQAPQTCCC-UHFFFAOYSA-N,2-amino-3-hydroxy-butanoic acid,US Previously Marketed,1,['NCATS']
+2985,2985,CC(=O)OC1=CC=C(C=C1)C(=C2CCCCC2)C3=CC=C(C=C3)OC(=O)C,58,GVOUFPWUYJWQSK-UHFFFAOYSA-N,cyclofenil,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2523,2523,c1ccc(c(c1)C(=O)Nc2ccc(cc2)S(=O)(=O)Nc3nccs3)C(=O)O,64,PBMSWVPMRUJMPE-UHFFFAOYSA-N,phthalylsulfathiazole,US Previously Marketed,1,['NCATS']
+1579,1579,Br.NC(=O)C(c1ccccc1)(c1ccccc1)[C@@H]1CCN(CCc2ccc3c(c2)CCO3)C1,79,UQAVIASOPREUIT-VQIWEWKSSA-N,darifenacin hydrobromide,approved,0,['ChEMBL']
+6262,6262,[Cu+].[Cu+].[O-2],17,KRFJLUBVMFXRPN-UHFFFAOYSA-N,cuprous oxide,Discontinued,1,['NCATS']
+5782,5782,CN1CCC[C@H]1C1=CN=CC=C1,26,SNICXCGAKADSCV-JTQLQIEISA-N,nicotine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5223,5223,C([C@]([H])([C@]([H])([C@@]([H])(C(=O)CO)O)O)O)O,34,BJHIKXHVCXFQLS-UYFOZJQFSA-N,fructose,US Previously Marketed,1,['NCATS']
+461,461,CCC([H])(C)n1c(=O)n(cn1)-c2ccc(cc2)N3CCN(CC3)c4ccc(cc4)OC[C@@]5([H])CO[C@](Cn6cncn6)(c7ccc(cc7Cl)Cl)O5.Cl.Cl.Cl,126,IKQCHGBROJMCCD-MEBRADKNSA-N,itraconazole trihydrochloride,US Approved Rx,0,['NCATS']
+58,58,c1ccc(cc1)C[C@@]2([H])C(=O)N3C[C@@]([H])(C[C@@]3([H])C(=N[C@@]([H])(c4ccccc4)C(=N[C@]([H])(Cc5c[nH]c6ccccc56)C(=N[C@@]([H])(CCCCN)C(=N[C@@]([H])(Cc7ccc(cc7)OCc8ccccc8)C(=N2)O)O)O)O)O)OC(=NCCN)O.C([C@@]([H])(C(=O)O)N)C(=O)O.C([C@@]([H])(C(=O)O)N)C(=O)O,239,CKLJMWTZIZZHCS-REOHCLBHSA-N,pasireotide diaspartate,US Approved Rx,0,['NCATS']
+4964,4964,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,37,XRASPMIURGNCCH-UHFFFAOYSA-N,zoledronic acid,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3186,3186,ClC1=CC=C(CSC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1,56,AFNXATANNDIXLG-UHFFFAOYSA-N,sulconazole,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1677,1677,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,77,GZUITABIAKMVPG-UHFFFAOYSA-N,raloxifene,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2405,2405,COc1ccc(CC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)cc1.Cl,66,KCEHVJZZIGJAAW-FERBBOLQSA-N,olodaterol hydrochloride,approved,0,['ChEMBL']
+2878,2878,C[C@@]1([H])COc2c(c(cc3c2n1cc(c3=O)C(=O)O)F)C4(CC4)N,60,XAGMUUZPGZWTRP-ZETCQYMHSA-N,pazufloxacin,Possibly Marketed Outside US,0,['NCATS']
+6340,6340,OC(=O)P(O)(O)=O,15,ZJAOAACCNHFJAH-UHFFFAOYSA-N,foscarnet,approved,0,"['DrugBank', 'ChEMBL']"
+1428,1428,OC(COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O)COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O,82,IMZMKUWMOSJXDT-UHFFFAOYSA-N,cromoglicic acid,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4209,4209,CCN(Cc1ccc(Cl)nc1)/C(=C(\[H])/N(=O)=O)/NC,45,CFRPSFYHXJZSBI-UHFFFAOYSA-N,nitenpyram,Possibly Marketed Outside US,0,['NCATS']
+3609,3609,CN(C)CCOCCOC(=O)N1c2ccccc2Sc3ccccc31.Cl,51,OOVJCSPCMCAXEX-UHFFFAOYSA-N,dimethoxanate hydrochloride,US Previously Marketed,1,['NCATS']
+506,506,CC1(C)O[C@]2([H])C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@]4([C@]([H])(C[C@]3(C)[C@]2(C(=O)COC(=O)c6cc7ccccc7o6)O1)O)F,121,OSWKQSQWSQSPQH-GNFRAIDCSA-N,triamcinolone furetonide,US Approved Rx,0,['NCATS']
+5655,5655,CCC(C)C(C)(COC(=O)N)COC(=O)N,28,LEROTMJVBFSIMP-UHFFFAOYSA-N,mebutamate,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+5906,5906,[Mg++].[O-]S([O-])(=O)=O,24,CSNNHWWHGAXBCP-UHFFFAOYSA-L,magnesium sulfate,approved; investigational; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5608,5608,C(C(CO)O)n1cc(c(=O)c(c1)I)I,29,TZADDXVKYWMEHX-UHFFFAOYSA-N,iopydol,US Previously Marketed,1,['NCATS']
+5131,5131,Cc1cc(=O)c2c(cc(cc2o1)O)O,36,NCUJRUDLFCGVOE-UHFFFAOYSA-N,"5,7-dihydroxy-2-methylchromone",Possibly Marketed Outside US,0,['NCATS']
+4928,4928,C1CCC(CC1)C(CCN2CCCC2)(C3=CC=CC=C3)O,37,WYDUSKDSKCASEF-UHFFFAOYSA-N,procyclidine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4949,4949,c1ccc(cc1)-c2cccc(c2O)C(=O)O,37,ZJWUEJOPKFYFQD-UHFFFAOYSA-N,3-phenylsalicylic acid,US Previously Marketed,1,['NCATS']
+6168,6168,[H]\C(=C(\[H])C(=O)OC)C(=O)OC,19,LDCRTTXIJACKKU-ONEGZZNKSA-N,dimethyl fumarate,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+829,829,CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)Oc3ccc4c(c3)CCC4)c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+],99,QFWPXOXWAUAYAB-XZVIDJSISA-M,carbenicillin indanyl sodium,withdrawn,1,['ChEMBL']
+645,645,CS(=O)(=O)O.Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C,109,NQHXCOAXSHGTIA-SKXNDZRYSA-N,nelfinavir mesylate,approved,0,['ChEMBL']
+4039,4039,CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCCN(C)C,46,KKHPNPMTPORSQE-UHFFFAOYSA-N,chlorphenoxamine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'NCATS']"
+2667,2667,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[ZnH2+2],62,GRGKIUWWEAXELS-UHFFFAOYSA-L,zinc stearate,US Previously Marketed,1,['NCATS']
+4203,4203,C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1.Cl,45,BIFMNMPSIYHKDN-FJXQXJEOSA-N,dexrazoxane hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+898,898,Cc1c(CCO)sc[n+]1Cc2cnc(C)[nH]c2=N.CCCCCCCCCCCCOS(=O)(=O)O.CCCCCCCCCCCCOS(=O)(=O)[O-],97,FHSWKZUNNVWBSG-UHFFFAOYSA-M,thiamine bis-laurylsulfate,US Approved Rx,0,['NCATS']
+3939,3939,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC=C(C=C3)O,47,RFRXIWQYSOIBDI-UHFFFAOYSA-N,benzarone,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+3413,3413,CC1(C(N2C(S1)C(C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)O)C,53,RJQXTJLFIWVMTO-TYNCELHUSA-N,methicillin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+1050,1050,C[C@]1([H])CC[C@@]2([H])[C@@]([H])(C)[C@]([H])(OC(=O)CCC(=O)[O-])O[C@@]3([H])[C@]42[C@@]1([H])CC[C@](C)(O3)OO4.[Na+],92,FIHJKUPKCHIPAT-AXFKQHSWSA-M,sodium artesunate,US Approved Rx,0,['NCATS']
+1815,1815,COC1=C(OC)C=C2[C@H]3C[C@@H](OC(=O)[C@@H](N)C(C)C)[C@H](CC(C)C)CN3CCC2=C1,75,GEJDGVNQKABXKG-CFKGEZKQSA-N,valbenazine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6300,6300,COC(=O)CCC(=O)CN,16,YUUAYBAIHCDHHD-UHFFFAOYSA-N,methyl aminolevulinate,US Previously Marketed,1,['NCATS']
+4913,4913,COP(=S)(OC)SCN1C(=O)c2ccccc2C1=O,38,LMNZTLDVJIUSHT-UHFFFAOYSA-N,phosmet,Possibly Marketed Outside US,0,['NCATS']
+5441,5441,N=C(N)NCCN1CCCCCCC1.O=S(=O)(O)O,31,YUFWAVFNITUSHI-UHFFFAOYSA-N,guanethidine monosulfate,withdrawn,1,['ChEMBL']
+5339,5339,Cc1cc(ccc1SC)OP(=S)(OC)OC,33,PNVJTZOFSHSLTO-UHFFFAOYSA-N,fenthion,Possibly Marketed Outside US,0,['NCATS']
+5409,5409,Cl.Clc1cccc(Cl)c1NC1=NCCN1,32,ZNIFSRGNXRYGHF-UHFFFAOYSA-N,clonidine hydrochloride,approved,0,['ChEMBL']
+2983,2983,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)OC(=O)N(C)C)C3=CC=CC=C3,58,PXBVEXGRHZFEOF-UHFFFAOYSA-N,camazepam,withdrawn,1,['WITHDRAWN']
+5200,5200,CN(CC(=O)[O-])C(=N)NP(=O)(O)O.[Na+],35,DRBBFCLWYRJSJZ-UHFFFAOYSA-M,monosodium phosphocreatine,Possibly Marketed Outside US,0,['NCATS']
+772,772,CCOC(=O)[C@@H](N)CC1=CC=C(C=C1)C1=NC(N)=NC(O[C@H](C2=CC=C(Cl)C=C2N2C=CC(C)=N2)C(F)(F)F)=C1,102,MDSQOJYHHZBZKA-GBXCKJPGSA-N,telotristat ethyl,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5377,5377,Cc1cccc(C)c1N=C(CN2CCCC2)O,32,OYCGKECKIVYHTN-UHFFFAOYSA-N,pyrrocaine,US Previously Marketed,1,['NCATS']
+4981,4981,CC(=O)OC1=C(C=CC(=C1)C(F)(F)F)C(O)=O,37,RMWVZGDJPAKBDE-UHFFFAOYSA-N,triflusal,approved; investigational,0,"['DrugBank', 'NCATS']"
+4746,4746,CC(C1=CC(=C(C=C1)Cl)Cl)N2C(=O)CC(=N2)N,39,RLWRMIYXDPXIEX-UHFFFAOYSA-N,muzolimine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+4648,4648,CCCCOc1cc(C(=O)OCCN(CC)CC)ccc1N.Cl,40,PRGUDWLMFLCODA-UHFFFAOYSA-N,benoxinate hydrochloride,withdrawn,1,['ChEMBL']
+3658,3658,C[C@@]1([H])CNCCCN1S(=O)(=O)c2cccc3cncc(c32)F,51,QSKQVZWVLOIIEV-NSHDSACASA-N,ripasudil,Possibly Marketed Outside US,0,['NCATS']
+3827,3827,CCCCOC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F,49,JDLSRXWHEBFHNC-UHFFFAOYSA-N,ufenamate,Possibly Marketed Outside US,0,['NCATS']
+6285,6285,COC(C(Cl)Cl)(F)F,16,RFKMCNOHBTXSMU-UHFFFAOYSA-N,methoxyflurane,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4598,4598,Cl.OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1,41,QDWJJTJNXAKQKD-UHFFFAOYSA-N,trihexyphenidyl hydrochloride,approved,0,['ChEMBL']
+938,938,CC(=O)N(C)c1c(c(c(c(c1I)C(=NCC(=Nc2c(c(c(c(c2I)C(=O)O)I)C(=NCCO)O)I)O)O)I)C(=NC)O)I,95,TYYBFXNZMFNZJT-UHFFFAOYSA-N,ioxaglic acid,US Previously Marketed,1,['NCATS']
+3377,3377,N#Cc1ccc([C@H]2CCc3cncn32)c(F)c1.O=P(O)(O)O,54,FMCPYRDGUZBOJZ-BTQNPOSSSA-N,osilodrostat phosphate,approved,0,['ChEMBL']
+4468,4468,CCOCCn1c2ccccc2nc1N3CCCN(C)CC3,42,KBUZBQVCBVDWKX-UHFFFAOYSA-N,emedastine,US Previously Marketed,1,['NCATS']
+4456,4456,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3,42,IQWYAQCHYZHJOS-UHFFFAOYSA-N,tetrazepam,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2697,2697,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21.Cl.Cl,62,ZIIJJOPLRSCQNX-UHFFFAOYSA-N,flurazepam hydrochloride,approved,0,['ChEMBL']
+5727,5727,c1ccc(c(c1)C(=O)O)O.CCNCC,27,HPNMFZURTQLUMO-UHFFFAOYSA-N,diethylamine salicylate,US Previously Marketed,1,['NCATS']
+6189,6189,CCCCCCCCCCCCCC(=O)O,19,TUNFSRHWOTWDNC-UHFFFAOYSA-N,myristic acid,Possibly Marketed Outside US,0,['NCATS']
+5109,5109,CC(Oc1c(Cl)cccc1Cl)C1=NCCN1.Cl,36,DWWHMKBNNNZGHF-UHFFFAOYSA-N,lofexidine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+1514,1514,[H][C@@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC3=CC=CC=C3)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O,80,VXFJYXUZANRPDJ-WTNASJBWSA-N,trandolapril,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5497,5497,CC1=C(C2=CC=CC=C2C(=C1)O)O,30,ZJTLZYDQJHKRMQ-UHFFFAOYSA-N,menadiol,withdrawn,1,"['WITHDRAWN', 'NCATS']"
+2533,2533,COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2,64,OGHNVEJMJSYVRP-UHFFFAOYSA-N,carvedilol,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1860,1860,[H][C@]12CN(C[C@@]1([H])NCCC2)C1=C(F)C=C2C(=O)C(=CN(C3CC3)C2=C1OC)C(O)=O,74,FABPRXSRWADJSP-MEDUHNTESA-N,moxifloxacin,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+638,638,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,109,KJHKTHWMRKYKJE-SUGCFTRWSA-N,lopinavir,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2479,2479,CCS(=O)(=O)N1CC(CC#N)(C1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1,65,XUZMWHLSFXCVMG-UHFFFAOYSA-N,baricitinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+3034,3034,O=C(O)C(O)C(O)C(=O)O.c1cnc2cc3c(cc2n1)C1CNCC3C1,58,TWYFGYXQSYOKLK-UHFFFAOYSA-N,varenicline tartrate,approved,0,['ChEMBL']
+1658,1658,C[n+]1cccc(c1)OC(=O)N(C)CCCCCCN(C)C(=O)Oc2ccc[n+](C)c2.[Br-].[Br-],78,AHZBEVXBKNYXPU-UHFFFAOYSA-N,distigmine bromide,Possibly Marketed Outside US,0,['NCATS']
+5897,5897,CC[C@]([H])(C)[C@@]([H])(C(=O)O)N,24,AGPKZVBTJJNPAG-WHFBIAKZSA-N,isoleucine,US Previously Marketed,1,['NCATS']
+1153,1153,CC(=O)Oc1ccccc1C(=O)Oc2ccc3c(CC[C@]4([H])[C@]3([H])CC[C@@]5(C)[C@@]4([H])CC[C@]5([H])O)c2,89,KNJUTXJFANOVGR-HXVSAZQXSA-N,estradiol acetylsalicylate,US Approved Rx,0,['NCATS']
+3874,3874,C(CON(=O)=O)N(CCON(=O)=O)CCON(=O)=O,48,HWKQNAWCHQMZHK-UHFFFAOYSA-N,trolnitrate,US Previously Marketed,1,['NCATS']
+3142,3142,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CSCC(F)(F)F,56,CYLWJCABXYDINA-UHFFFAOYSA-N,polythiazide,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+1049,1049,CO/N=C(/c1csc(=N)[nH]1)\C(=N[C@]2([H])C(=O)N3C(=C(CS[C@]23[H])CSC(=O)c4ccco4)C(=O)O)O.Cl,92,KEQFDTJEEQKVLM-VQZRABBESA-N,ceftiofur hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1484,1484,CN1N=CN=C1[C@@H]1[C@H](NC2=C3C1=NNC(=O)C3=CC(F)=C2)C1=CC=C(F)C=C1,81,HWGQMRYQVZSGDQ-HZPDHXFCSA-N,talazoparib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1630,1630,CNC(=O)C1=CC(OC2=CC(F)=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,78,FNHKPVJBJVTLMP-UHFFFAOYSA-N,regorafenib,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4943,4943,C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,37,NJCBUSHGCBERSK-UHFFFAOYSA-N,dodecafluoropentane,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+3806,3806,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1.Cl,49,BQKADKWNRWCIJL-UHFFFAOYSA-N,dobutamine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+4411,4411,Nc1nc([O-])c2ncn(COCCO)c2n1.[Na+],43,RMLUKZWYIKEASN-UHFFFAOYSA-M,acyclovir sodium,approved,0,['ChEMBL']
+4402,4402,NC(=O)[C@@H]1CC[C@@H]2CN1C(=O)N2OS(O)(=O)=O,43,NDCUAPJVLWFHHB-UHNVWZDZSA-N,avibactam,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5532,5532,NC[C@H](O)C1=CC(O)=C(O)C=C1,30,SFLSHLFXELFNJZ-QMMMGPOBSA-N,norepinephrine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5258,5258,O=C([O-])CCCO.O=C([O-])CCCO.[Ca+2],34,AZRRVLSHRWGNRS-UHFFFAOYSA-L,calcium oxybate,approved,0,"['ChEMBL', 'NCATS']"
+2719,2719,CC(C)CCOC(=O)c1cc(=O)c2c(c3ccc(C)c(C)c3nc2O)o1,62,NFQIAEMCQGTTIR-UHFFFAOYSA-N,repirinast,Possibly Marketed Outside US,0,['NCATS']
+5142,5142,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,35,SESFRYSPDFLNCH-UHFFFAOYSA-N,benzyl benzoate,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+3073,3073,CCC(=O)C([C@]([H])(C)CN(C)C)(c1ccccc1)c2ccccc2.Cl,57,IFKPLJWIEQBPGG-QGZVFWFLSA-N,levoisomethadone hydrochloride,US Previously Marketed,1,['NCATS']
+2469,2469,O=C(CC1=CC=C(C=N1)C1=CC=C(OCCN2CCOCC2)C=C1)NCC1=CC=CC=C1,65,HUNGUWOZPQBXGX-UHFFFAOYSA-N,tirbanibulin,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+3211,3211,CC(CN(C)C)CN1c2ccccc2Sc3ccc(cc31)C(F)(F)F.Cl,56,ILBBYVOOXMPNTM-UHFFFAOYSA-N,trifluomeprazine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1727,1727,CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)O.NC(CO)(CO)CO,76,IYGXEHDCSOYNKY-RZHHZEQLSA-N,dinoprost tromethamine,withdrawn,1,['ChEMBL']
+4535,4535,CC(C)NCC(COc1ccc(cc1)COCCOC(C)C)O.Cl,42,NDIJCSDPVYWQSZ-UHFFFAOYSA-N,bisoprolol hydrochloride,US Approved Rx,0,['NCATS']
+1701,1701,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+],77,KLOHDWPABZXLGI-YWUHCJSESA-M,ampicillin sodium,approved,0,['ChEMBL']
+3379,3379,CNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=[N+]([O-])C1,54,ANTSCNMPPGJYLG-UHFFFAOYSA-N,chlordiazepoxide,approved,0,"['ChEMBL', 'NCATS']"
+4008,4008,COc1c(=NS(=O)(=O)c2ccc(cc2)N)[nH]ccn1,47,KXRZBTAEDBELFD-UHFFFAOYSA-N,sulfalene,Possibly Marketed Outside US,0,['NCATS']
+6428,6428,CC(=O)C(=O)O,12,LCTONWCANYUPML-UHFFFAOYSA-N,pyruvic acid,Possibly Marketed Outside US,0,['NCATS']
+2269,2269,CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccc(O)cc3)[C@H]2SC1,68,BOEGTKLJZSQCCD-UEKVPHQBSA-N,cefadroxil,approved,0,"['ChEMBL', 'NCATS']"
+2459,2459,[H][C@]1(OC(=C[C@H](N=C(N)N)[C@H]1NC(C)=O)C(O)=O)[C@H](O)[C@H](O)CO,65,ARAIBEBZBOPLMB-UFGQHTETSA-N,zanamivir,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2640,2640,CCCCCOc1ccc(c2ccccc21)C(=O)c3cccc4ccccc43,63,RSUMDJRTAFBISX-UHFFFAOYSA-N,cb-13,Possibly Marketed Outside US,0,['NCATS']
+4830,4830,C1CC(=N[C@]1([H])C(=O)N2CSC[C@@]2([H])C(=O)O)O,39,UUTKICFRNVKFRG-WDSKDSINSA-N,pidotimod,Possibly Marketed Outside US,0,['NCATS']
+2917,2917,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc3ccccc31)C(C)C,59,VVWYOYDLCMFIEM-UHFFFAOYSA-N,propantheline,US Previously Marketed,1,['NCATS']
+3972,3972,C[C@@H]1CC(=O)NN=C1C1=CC=C(NN=C(C#N)C#N)C=C1,47,WHXMKTBCFHIYNQ-SECBINFHSA-N,levosimendan,approved; investigational,0,"['DrugBank', 'NCATS']"
+3141,3141,c1ccc2c(c1)c3CCn4c(-c3[nH]2)nc5ccccc5c4=O,57,ACVGWSKVRYFWRP-UHFFFAOYSA-N,rutecarpine,Possibly Marketed Outside US,0,['NCATS']
+2499,2499,CC(=N[C@]1([H])[C@]([H])(C=C(C(=O)O)O[C@@]1([H])[C@@]([H])([C@@]([H])(CO)O)OC)NC(=N)N)O,65,QNRRHYPPQFELSF-CNYIRLTGSA-N,laninamivir,Possibly Marketed Outside US,0,['NCATS']
+5088,5088,CC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C,36,RDHQFKQIGNGIED-MRVPVSSYSA-N,acetylcarnitine,approved; investigational,0,"['DrugBank', 'NCATS']"
+5785,5785,NC1=CC(C(O)=O)=C(O)C=C1,26,KBOPZPXVLCULAV-UHFFFAOYSA-N,mesalazine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+78,78,[H][C@]12C[C@]([H])(N(C(=O)[C@@]3([H])CC4=C(CN3C(=O)[C@H](CO)NC(=O)[C@H](CC3=CC=CS3)NC(=O)CNC(=O)[C@]3([H])C[C@@H](O)CN3C(=O)[C@@H]3CCCN3C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](N)CCCNC(N)=N)C=CC=C4)[C@@]1([H])CCCC2)C(=O)N[C@@H](CCCNC(N)=N)C(O)=O,222,QURWXBZNHXJZBE-SKXRKSCCSA-N,icatibant,approved; investigational,0,"['DrugBank', 'NCATS']"
+4600,4600,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1.Cl,41,CHDPSNLJFOQTRK-UHFFFAOYSA-N,betaxolol hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+4815,4815,Cl.O=C1CN2Cc3c(ccc(Cl)c3Cl)N=C2N1,39,TVWRQCIPWUCNMI-UHFFFAOYSA-N,anagrelide hydrochloride,approved,0,['ChEMBL']
+4951,4951,C[C@@]([H])([C@@]([H])(c1cccc(c1)O)O)N.Cl,37,PPRPRPMMKPXRKK-YDYUUSCQSA-N,metaraminol hydrochloride,US Previously Marketed,1,['NCATS']
+31,31,CN1C[C@H](C(=O)N[C@]2(C)O[C@@]3(O)[C@@H]4CCCN4C(=O)[C@H](Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)C[C@H]21.CN1C[C@H](C(=O)N[C@]2(C)O[C@@]3(O)[C@@H]4CCCN4C(=O)[C@H](Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)C[C@H]21.O=C(O)C(O)C(O)C(=O)O,262,CJMJLDQKTOJACI-SEUSHGJOSA-N,ergotamine tartrate,approved,0,['ChEMBL']
+951,951,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)[O-])C(C)(C)S[C@H]12.O.[Na+],95,SIGZQNJITOWQEF-VICXVTCVSA-M,dicloxacillin sodium,approved,0,['ChEMBL']
+5033,5033,c1ccc(cc1)-c2ccc(cc2)CC(=O)O,37,QRZAKQDHEVVFRX-UHFFFAOYSA-N,felbinac,Possibly Marketed Outside US,0,['NCATS']
+3802,3802,OCN1C(NC(=O)NCNC(=O)NC2N(CO)C(=O)NC2=O)C(=O)NC1=O,49,ZCTXEAQXZGPWFG-UHFFFAOYSA-N,imidurea,approved; experimental,0,"['DrugBank', 'NCATS']"
+1270,1270,CC(=Nc1c(c(c(c(c1I)C(=O)O)I)C(=NCCO)O)I)O.CNC[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O)O)O)O,86,IFTFXKNYTWAOGK-WZTVWXICSA-N,meglumine ioxithalamate,Possibly Marketed Outside US,0,['NCATS']
+1418,1418,CC(C)/N=c/1\cc2-c(cc1Nc3ccc(cc3)Cl)nc4ccccc4n2-c5ccc(cc5)Cl,82,WDQPAMHFFCXSNU-UHFFFAOYSA-N,clofazimine,US Previously Marketed,1,['NCATS']
+1102,1102,[H][C@@]12CC3=C(CN(C)OC)C=CC(O)=C3C(=O)C1=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@]1([H])C2,90,PQJQFLNBMSCUSH-SBAJWEJLSA-N,sarecycline,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+403,403,C[C@@]([H])(c1nc(cs1)-c2ccc(cc2)C#N)[C@](Cn3c[n+](cn3)C([H])(C)OC(=O)N(C)c4c(cccn4)COC(=O)CNC)(c5cc(ccc5F)F)O.Cl.[Cl-],134,QELOMWCWBPJMAS-XFERGYADSA-M,isavuconazonium chloride,US Approved Rx,0,['NCATS']
+224,224,C[C@@]1([H])C[C@@]2(CO2)C(=O)[C@]([H])(C)[C@]([H])([C@@]([H])(C)[C@@]([H])(C)OC(=O)[C@]([H])(C)[C@]([H])([C@]([H])(C)[C@@]1([H])O[C@@]3([H])[C@@]([H])([C@]([H])(C[C@@]([H])(C)O3)N(C)C)O)O[C@@]4([H])C[C@@]([H])([C@]([H])([C@]([H])(C)O4)O)OC)O.Cl,168,CWYHZGJSHPPEHY-UOBLTHIJSA-N,oleandomycin hydrochloride,US Previously Marketed,1,['NCATS']
+144,144,[H][C@@]1(C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O2)OC)CC[C@@H](OCCO)[C@@H](C1)OC,193,HKVAMNSJSFKALM-GKUWKFKPSA-N,everolimus,approved,0,"['DrugBank', 'ChEMBL']"
+1604,1604,CS(=O)(=O)C1=C2N(CC3=CC=C(Cl)C=C3)C3=C(CC[C@@H]3CC(O)=O)C2=CC(F)=C1,78,NXFFJDQHYLNEJK-CYBMUJFWSA-N,laropiprant,approved; investigational; withdrawn,1,"['DrugBank', 'NCATS']"
+1799,1799,C[C@]1([H])C[C@@]2(C)[C@@]([H])(CC[C@@]3([H])[C@]4([H])CC[C@@]([H])([C@@]4(C)CC[C@@]32[H])O)CC1=O,75,IKXILDNPCZPPRV-RFMGOVQKSA-N,dromostanolone,US Previously Marketed,1,['NCATS']
+3283,3283,[H][C@@]12CC[C@@](O)(CC#N)[C@@]1(C)CCC1=C3CCC(=O)C=C3CC[C@@]21[H],55,AZFLJNIPTRTECV-FUMNGEBKSA-N,dienogest,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3952,3952,O=C(Nc1ccc(Br)cc1)c1cc(Br)cc(Br)c1O,47,KVSKGMLNBAPGKH-UHFFFAOYSA-N,tribromsalan,withdrawn,1,"['ChEMBL', 'NCATS']"
+3766,3766,COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC,49,ZZORFUFYDOWNEF-UHFFFAOYSA-N,sulfadimethoxine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4915,4915,c1(C(=O)[O-])nc([nH]c(=O)n1)O.[K+],38,IAPCTXZQXAVYNG-UHFFFAOYSA-M,oteracil potassium,Possibly Marketed Outside US,0,['NCATS']
+974,974,CC(C)CN(C[C@@H](OP(O)(O)=O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)C1=CC=C(N)C=C1,94,MLBVMOWEQCZNCC-OEMFJLHTSA-N,fosamprenavir,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3395,3395,CC1(CCCO1)CN(C)S(=O)(=O)c2ccc(c(c2)S(=O)(=O)N)Cl,54,SMNOERSLNYGGOU-UHFFFAOYSA-N,mefruside,Possibly Marketed Outside US,0,['NCATS']
+2006,2006,c1ccc(cc1)N=Nc2c(cc3cc(cc(c3c2O)N)S(=O)(=O)O)S(=O)(=O)O,72,UDCKXEFJOHLCKM-UHFFFAOYSA-N,d&c red no. 33 free acid,Possibly Marketed Outside US,0,['NCATS']
+101,101,[H][C@@]12C[C@@H](O)CN1C(=O)[C@@H](NC(=O)[C@]([H])(C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]1[C@@H](O)CCN1C(=O)[C@@H](NC(=O)[C@@H](NC2=O)[C@H](O)[C@@H](O)C1=CC=C(O)C=C1)[C@H](O)CCN)NC(=O)CCCCCCCC[C@@H](C)C[C@@H](C)CC)[C@@H](C)O,210,JYIKNQVWKBUSNH-WVDDFWQHSA-N,caspofungin,approved,0,"['DrugBank', 'NCATS']"
+1078,1078,CC[C@@]12CCCN3CCc4c5ccc(cc5n(c4[C@]13[H])[C@](C2)(C(=O)OC)O)Br.C(\[H])(=C(/[H])\C(=O)O)/C(=O)O,91,CKCVTPQYFOMHFD-YAFGAGFVSA-N,brovincamine fumarate,Possibly Marketed Outside US,0,['NCATS']
+1766,1766,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)[C@@H]1c1ccccc1Cl.O=C(O)/C=C\C(=O)O,76,TZNOWAJJWCGILX-HNUXRKMMSA-N,levamlodipine maleate,approved,0,['ChEMBL']
+2634,2634,CCC(=O)O[C@@]1([H])CC[C@@]2([H])[C@]3([H])CCc4cc(ccc4[C@@]3([H])CC[C@@]21C)O,63,PQCRZWCSVWBYSC-AGRFSFNASA-N,estradiol 17-propionate,US Approved Rx,0,['NCATS']
+775,775,CCC(=O)OCC(=O)[C@@]1(OC(=O)CC)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,102,CIWBQSYVNNPZIQ-XYWKZLDCSA-N,betamethasone dipropionate,approved,0,"['ChEMBL', 'NCATS']"
+2118,2118,CS(=O)(=O)C1=CC(Cl)=C(C=C1)C(=O)NC1=CC=C(Cl)C(=C1)C1=CC=CC=N1,70,BPQMGSKTAYIVFO-UHFFFAOYSA-N,vismodegib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5663,5663,[Cr+6].[F-].[F-].[O-2].[O-2],28,JOPOVCBBYLSVDA-UHFFFAOYSA-N,chromium difluoride dioxide,US Previously Marketed,1,['NCATS']
+900,900,c1ccc2c(c1)c(ccc2C(=O)NCC(=NCC(F)(F)F)O)C3=NOC(C3)(c4cc(cc(c4)Cl)C(F)(F)F)C(F)(F)F,97,OXDDDHGGRFRLEE-UHFFFAOYSA-N,afoxolaner,Possibly Marketed Outside US,0,['NCATS']
+6293,6293,CC(C(Cl)(Cl)Cl)O,16,HCMBPASAOZIEDZ-UHFFFAOYSA-N,"1,1,1-trichloro-2-propanol",US Previously Marketed,1,['NCATS']
+2651,2651,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F,62,XUBOMFCQGDBHNK-UHFFFAOYSA-N,gatifloxacin,withdrawn,1,['WITHDRAWN']
+1685,1685,CCC1=C(NC2CCOCC2)N=C(NC2=CC=C(N3CCC(CC3)N3CCN(C)CC3)C(OC)=C2)C(=N1)C(N)=O,77,GYQYAJJFPNQOOW-UHFFFAOYSA-N,gilteritinib,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2891,2891,c1cnc2cc3[C@@]4([H])C[C@@]([H])(CNC4)c3cc2n1.C(=O)(C(=O)O)O,60,JQSHBVHOMNKWFT-IUCAKERBSA-N,varenicline oxalate,US Approved Rx,0,['NCATS']
+3430,3430,CC(C1=CC2=C(C=C1)OC(=N2)C3=CC=C(C=C3)Cl)C(=O)O,53,MITFXPHMIHQXPI-UHFFFAOYSA-N,benoxaprofen,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+2411,2411,Cc1c(/C(/[H])=C\2/c3cc(ccc3N=C2O)F)[nH]c(C)c1C(=NCCN4CCCC4)O,66,SRSGVKWWVXWSJT-UHFFFAOYSA-N,toceranib,Possibly Marketed Outside US,0,['NCATS']
+4837,4837,C(CC(O)(P(=O)(O)O)P(=O)(O)[O-])CN.[Na+].O,39,DUYCFMAOEDAKDN-UHFFFAOYSA-M,alendronate sodium monohydrate,US Approved Rx,0,['NCATS']
+312,312,C(C(C(=O)[O-])[S-])(C(=O)[O-])[S-].C(C(C(=O)[O-])[S-])(C(=O)[O-])[S-].C(C(C(=O)[O-])[S-])(C(=O)[O-])[S-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Sb+3].[Sb+3],148,AOGOCZMBIYQOFE-UHFFFAOYSA-B,sodium stibocaptate,US Approved Rx,0,['NCATS']
+4541,4541,CC(C)(C)NCC(COc1ccccc1OCC2CCCO2)O.Cl,42,AKLNLVOZXMQGSI-UHFFFAOYSA-N,bufetolol hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+6211,6211,CN1C=CNC1=S,18,PMRYVIKBURPHAH-UHFFFAOYSA-N,methimazole,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6096,6096,c1ccc(c(c1)C(=O)O)N,21,RWZYAGGXGHYGMB-UHFFFAOYSA-N,anthranilic acid,Possibly Marketed Outside US,0,['NCATS']
+5942,5942,CC(=O)O.CC(=O)[O-].[Na+],24,BHZOKUMUHVTPBX-UHFFFAOYSA-M,sodium diacetate,US Approved Rx,0,['NCATS']
+1231,1231,CCC(COC(=O)c1cc(c(c(c1)OC)OC)OC)(c2ccccc2)N(C)C.Cc1ccc(cc1)S(=O)(=O)O,87,GFFDXKKSLGNXFJ-UHFFFAOYSA-N,trimebutine tosylate,Possibly Marketed Outside US,0,['NCATS']
+3723,3723,CC(=NCCCCCC(=O)O)O.CC(=NCCCCCC(=O)[O-])[O-].[Ca+2],50,BHPQYMZQTOCNFJ-UHFFFAOYSA-N,acexamate calcium,Possibly Marketed Outside US,0,['NCATS']
+3479,3479,CC(C)(OC1=CC=C(C=C1)C(=O)C1=CC=C(Cl)C=C1)C(O)=O,53,MQOBSOSZFYZQOK-UHFFFAOYSA-N,fenofibric acid,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1236,1236,CCCCCC(=O)OCC(=O)[C@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3([H])[C@]([H])(C[C@@]21C)O)O,87,DNSAKUGJOSFARZ-FOMYWIRZSA-N,prednisolone caproate,US Approved Rx,0,['NCATS']
+5991,5991,CC(C)(CO)C(O)C(=O)NCCCO,23,SNPLKNRPJHDVJA-UHFFFAOYSA-N,panthenol,approved,0,"['DrugBank', 'NCATS']"
+3378,3378,CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1.Cl,54,WQVZLXWQESQGIF-UHFFFAOYSA-N,labetalol hydrochloride,approved,0,['ChEMBL']
+4356,4356,CCN(CC)CCOC(=O)c1ccc(c2ccccc21)N,43,ZSYWYFNJKDJHKS-UHFFFAOYSA-N,naphthocaine,US Previously Marketed,1,['NCATS']
+1184,1184,CC[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1.O=C(O)/C=C\C(=O)O,88,NOFOWWRHEPHDCY-DAUURJMHSA-N,methylergonovine maleate,approved,0,['ChEMBL']
+1125,1125,c1ccc2c(c1)[C@]34CCN5CC6=CCO[C@@]7([H])CC(=O)N2[C@@]4([H])[C@@]7([H])[C@@]6([H])C[C@@]35[H].C(C(COP(=O)(O)O)O)O,89,AWUCVROLDVIAJX-UHFFFAOYSA-N,strychnine 1-glycerophosphate,US Previously Marketed,1,['NCATS']
+1927,1927,OS(O)(=O)=O.NC(=N)NCC1=CC([123I])=CC=C1.NC(=N)NCC1=CC([123I])=CC=C1,73,XNACDNPGABUBFR-FKNPGSCZSA-N,iobenguane sulfate i-123,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+4639,4639,CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42,40,UEQUQVLFIPOEMF-UHFFFAOYSA-N,mianserin,withdrawn,1,['WITHDRAWN']
+2337,2337,Cc1ccccc1C(OCCN(C)C)c1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O,67,MMMNTDFSPSQXJP-UHFFFAOYSA-N,orphenadrine citrate,approved,0,['ChEMBL']
+1797,1797,C[C@@]([H])([C@@]([H])(c1ccccc1)O)N.C[C@@]([H])([C@@]([H])(c1ccccc1)O)N.OS(=O)(=O)O,75,DLNKOYKMWOXYQA-CBAPKCEASA-N,phenylpropanolamine sulfate,US Previously Marketed,1,['NCATS']
+5662,5662,CC(=O)C=CC=C1C2CCC(C2)C1(C)C,28,WDMFHQNUSVLQMS-NWDGAFQWSA-N,bornelone,US Previously Marketed,1,['NCATS']
+6006,6006,CC(C)CCCC(C)NCCC(C)C.Cl,23,LOUVMIYRBQFBQN-UHFFFAOYSA-N,octamylamine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+4028,4028,CC=C(C1=CC=C(C=C1)O)C(=CC)C2=CC=C(C=C2)O,46,NFDFQCUYFHCNBW-SCGPFSFSSA-N,dienestrol,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+5418,5418,c1cnc(cn1)C(=NCN2CCOCC2)O.Cl,32,CQTFUUAUHIMFAJ-UHFFFAOYSA-N,morinamide hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1090,1090,C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Ce+3].[Ce+3].O.O.O.O.O.O.O.O.O.O,90,BYCKXMUEODWQNZ-UHFFFAOYSA-H,cerous oxalate decahydrate,US Previously Marketed,1,['NCATS']
+4829,4829,c1ccc(cc1)CCN2CCC3(CC2)CN=C(O)O3.Cl,39,FIKFLLIUPUVONI-UHFFFAOYSA-N,fenspiride hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+4780,4780,OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO,39,IBAQFPQHRJAVAV-ULAWRXDQSA-N,miglitol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4855,4855,CCC1(CCC(C)C)C(=O)N=C([O-])NC1=O.[Na+],38,BNHGKKNINBGEQL-UHFFFAOYSA-M,amobarbital sodium,withdrawn,1,['ChEMBL']
+3000,3000,c1ccc(c(c1)CO)O[C@@]2([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O2)O)O)O,58,NGFMICBWJRZIBI-UJPOAAIJSA-N,salicin,US Previously Marketed,1,['NCATS']
+291,291,Cc1cc(-c2ccc(/N=N/c3ccc4c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c4c3O)c(C)c2)ccc1/N=N/c1ccc2c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c2c1O,152,COXVTLYNGOIATD-HVMBLDELSA-N,evans blue,withdrawn,1,['ChEMBL']
+1130,1130,[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O,89,RUDATBOHQWOJDD-UZVSRGJWSA-N,ursodeoxycholic acid,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+3135,3135,CC(C)Cc1ccc(cc1)C(C)C(=O)O.C(C[C@@]([H])(C(=O)O)N)CNC(=N)N,57,GCCOJNYCFNSJII-VWMHFEHESA-N,ibuprofen arginine,US Approved Rx,0,['NCATS']
+2761,2761,NC1=NC(F)=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O,61,HBUBKKRHXORPQB-FJFJXFQQSA-N,fludarabine,approved,0,"['DrugBank', 'NCATS']"
+3871,3871,CC/C(=C(/CC)\c1ccc(cc1)OC)/c2ccc(cc2)O,48,CKMDPZMWUZDKAI-UHFFFAOYSA-N,mestilbol,US Previously Marketed,1,['NCATS']
+129,129,CC1(C)[C@]2([H])CC[C@]3(C)[C@]([H])(C(=O)C=C4[C@]5([H])C[C@](C)(CC[C@]5(C)CC[C@]43C)C(=O)O)[C@@]2(C)CC[C@]1([H])O[C@]6([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)O)O6)O)O)O[C@@]7([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(C(=O)O)O7)O)O)O.N.O.O.O,198,GPRLSGONYQIRFK-UHFFFAOYSA-N,ammonium glycyrrhizinate trihydrate,US Previously Marketed,1,['NCATS']
+2824,2824,c1cc(c(cc1[As]=[As]c2ccc(c(c2)NCOSO)O)N)[O-].[Na+],60,CXFGBOZIEIIEIH-UHFFFAOYSA-M,neoarsphenamine,US Previously Marketed,1,['NCATS']
+2101,2101,C1=C(OC(=C1)[N+](=O)[O-])C=CC(=NN=C(N)N)C=CC2=CC=C(O2)[N+](=O)[O-],70,XQCFHQBGMWUEMY-ZPUQHVIOSA-N,nitrovin,withdrawn,1,['WITHDRAWN']
+1548,1548,c1cc(ccc1[C@]([H])([C@@]([H])(CO)N=C(C(Cl)Cl)O)O)N(=O)=O.C(CC(=O)O)C(=O)O.C(CO)N,80,GLOVPJIOQKHINH-UONRGADFSA-N,chloramphenicol monoethanolamine succinate,US Approved Rx,0,['NCATS']
+2751,2751,ClC1=CC=CC=C1C(N1C=CN=C1)(C1=CC=CC=C1)C1=CC=CC=C1,61,VNFPBHJOKIVQEB-UHFFFAOYSA-N,clotrimazole,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1844,1844,c1ccn(=O)c(c1)SSc2ccccn2=O.[Mg+2].O=S(=O)([O-])[O-].O.O.O,75,FNJVKRQYEQVPLK-UHFFFAOYSA-L,bispyrithione magsulfex,Possibly Marketed Outside US,0,['NCATS']
+4323,4323,CCCCCOc1ccccc1/C(=C(/[H])\SC)/n2ccnc2.Cl,44,HAHMABKERDVYCH-UHFFFAOYSA-N,neticonazole hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+5186,5186,COC(=O)C(c1ccccc1)C1CCCCN1.Cl,35,JUMYIBMBTDDLNG-UHFFFAOYSA-N,methylphenidate hydrochloride,approved,0,['ChEMBL']
+1387,1387,CN1CCC(COC2=CN=C(N=C2)C2=CC(CN3N=C(C=CC3=O)C3=CC(=CC=C3)C#N)=CC=C2)CC1,83,AHYMHWXQRWRBKT-UHFFFAOYSA-N,tepotinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5434,5434,CC(C)NC1=NC=CC=N1.OP(=O)(O)O,31,CXEBHWXMQKIKPJ-UHFFFAOYSA-N,isaxonine phosphate,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+3904,3904,CC(O)C(=O)O.Nc1cc(-c2ccncc2)c[nH]c1=O,48,DOSIONJFGDSKCQ-UHFFFAOYSA-N,inamrinone lactate,approved,0,"['ChEMBL', 'NCATS']"
+3716,3716,NS(=O)(=O)c1cc2c(cc1Cl)N=C[N-]S2(=O)=O.[Na+],50,CPIWHAFLBZQYLQ-UHFFFAOYSA-N,chlorothiazide sodium,approved,0,"['ChEMBL', 'NCATS']"
+4238,4238,CC[N+](CC)(CC)CCC(C1CCCCC1)(C2=CC=CC=C2)O,44,NPRHVSBSZMAEIN-UHFFFAOYSA-N,tridihexethyl,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+1541,1541,CC1(C)[C@]([H])(C(=O)OCOC)N2C(=O)[C@]([H])([C@@]2([H])S1)N3C(=O)[C@@]([H])(c4ccccc4)NC3(C)C,80,QTQPGZVDUCMVLK-ZXFNITATSA-N,sarpicillin,US Approved Rx,0,['NCATS']
+3289,3289,C[C@H]1[C@H](c2ccccc2)OCCN1C.O=C(O)C(O)C(O)C(=O)O,55,VEPOHXYIFQMVHW-XOZOLZJESA-N,phendimetrazine tartrate,approved,0,['ChEMBL']
+5958,5958,CC(C(C1=CC=CC=C1)O)N,23,DLNKOYKMWOXYQA-UHFFFAOYSA-N,phenylpropanolamine,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL']"
+3862,3862,CN1CCCN=C1COC(=O)C(O)(c1ccccc1)C1CCCCC1.Cl,48,WXAYTPABEADAAB-UHFFFAOYSA-N,oxyphencyclimine hydrochloride,withdrawn,1,['ChEMBL']
+1709,1709,CC(C)(C(=O)OC(COC(=O)c1cccnc1)COC(=O)c2cccnc2)Oc3ccc(cc3)Cl,77,BFYRHDVAEJIBON-UHFFFAOYSA-N,binifibrate,Possibly Marketed Outside US,0,['NCATS']
+3336,3336,Cl.Oc1ccc(CCCCNC[C@H](O)c2ccc(O)c(O)c2)cc1,54,ATBUNPBAFFCFKY-FERBBOLQSA-N,arbutamine hydrochloride,withdrawn,1,"['ChEMBL', 'NCATS']"
+2895,2895,CN1CCN(CC1)CC(=O)N2c3ccccc3C(=Nc4cccnc42)O.Cl.Cl,60,FFNMBRCFFADNAO-UHFFFAOYSA-N,pirenzepine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+4522,4522,CNCCCC1c2ccccc2C=Cc2ccccc21.Cl,42,OGQDIIKRQRZXJH-UHFFFAOYSA-N,protriptyline hydrochloride,approved,0,['ChEMBL']
+4024,4024,c1ccc(c(c1)C(=Nc2ncc(N(=O)=O)s2)O)O,47,FDTZUTSGGSRHQF-UHFFFAOYSA-N,tizoxanide,US Approved Rx,0,['NCATS']
+2222,2222,CC[C@@]12CCCN3CCc4c5ccccc5n(c4[C@]13[H])[C@](C2)(C(=O)OC)O,69,RXPRRQLKFXBCSJ-GIVPXCGWSA-N,vincamine,Possibly Marketed Outside US,0,['NCATS']
+2954,2954,Cc1ccc(cc1)C(=O)Oc2ccc(cc2)C(CN(C)C)C3(CCCCC3)O,59,QKYBZJLEMOZFFU-UHFFFAOYSA-N,toludesvenlafaxine,US Approved Rx,0,['NCATS']
+2973,2973,c1cc(CNc2cc(c(cc2C(=O)[O-])S(=O)(=O)N)Cl)oc1.[Na+],59,DLFCAVBMDSKMEY-UHFFFAOYSA-M,furosemide sodium,US Approved Rx,0,['NCATS']
+6008,6008,CCCCCCCCCCC(CCCCCCCC)CO,23,LEACJMVNYZDSKR-UHFFFAOYSA-N,octyldodecanol,Possibly Marketed Outside US,0,['NCATS']
+3714,3714,CN(C(=O)C(Cl)Cl)C1=CC=C(OC(=O)C2=CC=CO2)C=C1,50,BDYYDXJSHYEDGB-UHFFFAOYSA-N,diloxanide furoate,approved,0,"['DrugBank', 'NCATS']"
+2151,2151,CC(=O)OC1=CC[C@@]2([H])[C@@]3([H])Cc4ccc(c5c4[C@@]2(CCN3C)[C@@]1([H])O5)OC.Cl,70,OTQDEDKVELDPIY-ZKVYEUBZSA-N,thebacon hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+5658,5658,Cl.c1ccc(CC2=NCCN2)cc1,28,RHTNTTODYGNRSP-UHFFFAOYSA-N,tolazoline hydrochloride,withdrawn,1,['ChEMBL']
+3157,3157,CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1.Cl.O,56,UEECHQPWQHYEDE-UHFFFAOYSA-N,bepridil hydrochloride,withdrawn,1,['ChEMBL']
+4077,4077,CC(CCC1=CC=C(O)C=C1)NCCC1=CC(O)=C(O)C=C1,46,JRWZLRBJNMZMFE-UHFFFAOYSA-N,dobutamine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6452,6452,[Br-].[Li+],11,AMXOYNBUYSYVKV-UHFFFAOYSA-M,lithium bromide,US Approved Rx,0,['NCATS']
+2864,2864,Cl.Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1,60,GELRVIPPMNMYGS-RVXRQPKJSA-N,paroxetine hydrochloride,approved,0,['ChEMBL']
+738,738,CCCCC1(CCCC)CN(c2ccccc2)c3cc(c(cc3S(=O)(=O)C1)OCC(=N[C@]([H])(c4ccccc4)C(=NCC(=O)O)O)O)SC,104,XFLQIRAKKLNXRQ-UUWRZZSWSA-N,elobixibat,Possibly Marketed Outside US,0,['NCATS']
+1605,1605,N=C(N)c1ccc(/C=C/c2ccc(C(=N)N)cc2O)cc1.O=S(=O)(O)CCO.O=S(=O)(O)CCO,78,XVTQTNAKZYLTNZ-HFPMQDOPSA-N,hydroxystilbamidine isethionate,withdrawn,1,['ChEMBL']
+1304,1304,c1cc(ccc1C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O)NCc2cnc3c(c(nc(=N)[nH]3)O)n2.O.O,85,ODYNNYOEHBJUQP-LTCKWSDVSA-N,folic acid dihydrate,US Approved Rx,0,['NCATS']
+4610,4610,CCC1(Cc2ccccc2C1)c3cnc[nH]3.Cl,41,HSWPZIDYAHLZDD-UHFFFAOYSA-N,atipamezole hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2908,2908,CCN1C(=CC=CC=Cc2sc3ccccc3[n+]2CC)Sc2ccccc21,59,FYXWDSGGZAMYFZ-UHFFFAOYSA-N,dithiazanine,withdrawn,1,['ChEMBL']
+5290,5290,CC(C)CC1=CC=C(C=C1)C(C)C(=O)NO,33,BYPIURIATSUHDW-UHFFFAOYSA-N,ibuproxam,withdrawn,1,"['WITHDRAWN', 'DrugBank']"
+3380,3380,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,54,JLYXXMFPNIAWKQ-GNIYUCBRSA-N,lindane,approved,0,"['ChEMBL', 'NCATS']"
+5091,5091,CCCNC(C)C(=O)NC1=C(SC=C1C)C(=O)OC,36,QTGIAADRBBLJGA-UHFFFAOYSA-N,articaine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+598,598,c1ccc2c(c1)cc(c(c2Cc3c4ccccc4cc(c3O)C(=O)O)O)C(=O)O.c1ccc2c(c1)[nH]c(-c3cscn3)n2,112,PTPIORXVQZURBP-UHFFFAOYSA-N,thiabendazole pamoate,US Previously Marketed,1,['NCATS']
+1576,1576,CCN1C(=O)C(=CC2=C1C=C(NC)N=C2)C1=C(Br)C=C(F)C(NC(=O)NC2=CC=CC=C2)=C1,79,CEFJVGZHQAGLHS-UHFFFAOYSA-N,ripretinib,approved,0,"['DrugBank', 'ChEMBL']"
+4883,4883,CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C12,38,HCYAFALTSJYZDH-UHFFFAOYSA-N,desipramine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5336,5336,C[C@H]1CNCCc2ccc(Cl)cc21.Cl,33,ITIHHRMYZPNGRC-QRPNPIFTSA-N,lorcaserin hydrochloride,approved,0,['ChEMBL']
+508,508,C[N+]1(CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C6C(CC7=CC(=C(C=C7)OC)O3)[N+](CCC6=CC(=C5OC)OC)(C)C)OC)C.[I-].[I-],120,DIGFQJFCDPKEPF-OIUSMDOTSA-L,metocurine iodide,withdrawn,1,"['WITHDRAWN', 'DrugBank', 'ChEMBL', 'NCATS']"
+5702,5702,c1cc(ccc1Cl)[O-].[Na+],28,CFPLEOLETMZLIB-UHFFFAOYSA-M,sodium 4-chlorophenolate,Possibly Marketed Outside US,0,['NCATS']
+3964,3964,CN(C)CC[C@@H](C1=CC=C(Br)C=C1)C1=CC=CC=N1,47,ZDIGNSYAACHWNL-HNNXBMFYSA-N,dexbrompheniramine,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1170,1170,[H][C@@]12CC3=C(C(O)=CC=C3N(C)C)C(=O)C1=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@]1([H])C2,88,DYKFCLLONBREIL-KVUCHLLUSA-N,minocycline,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1692,1692,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,77,HCDMJFOHIXMBOV-UHFFFAOYSA-N,pemigatinib,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+5579,5579,Cc1cccc(c1)N2CC(CO)OC2=O,30,MXUNKHLAEDCYJL-UHFFFAOYSA-N,toloxatone,Possibly Marketed Outside US,0,['NCATS']
+3086,3086,CC1(C)NC(=O)N(C1=O)C1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F,57,XWXYUMMDTVBTOU-UHFFFAOYSA-N,nilutamide,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6360,6360,C[N+](C)(CCO)CF,15,CSKDJKGQCUXXLJ-UHFFFAOYSA-N,fluorocholine,Possibly Marketed Outside US,0,['NCATS']
+778,778,CCCCCCCCCCCCCCCC(=N[C@@]([H])(C(C)C)C(=NCC(=N[C@@]([H])(C(C)C)C(=N[C@@]([H])(C)C(=O)N1CCC[C@@]1([H])C(=NCC(=O)O)O)O)O)O)O,102,JFSQSDAOQLNSQI-DTBJPNGVSA-N,palmitoyl hexapeptide-12,Possibly Marketed Outside US,0,['NCATS']
+5854,5854,CC(N)C12CC3CC(CC(C3)C1)C2,25,UBCHPRBFMUDMNC-UHFFFAOYSA-N,rimantadine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5120,5120,CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Mg+2],36,ANICIGAOPTXGND-UHFFFAOYSA-N,magnesium lactate,US Approved OTC,0,['NCATS']
+5014,5014,CCC(c1ccccc1)C(=O)OCCN(CC)CC.Cl,37,CKWHSYRZDLWQFV-UHFFFAOYSA-N,butetamate hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2642,2642,c1cc(ccc1NC(=O)Nc2ccc(cc2)N(=O)=O)N(=O)=O,63,JEZZOKXIXNSKQD-UHFFFAOYSA-N,"4,4'-dinitrocarbanilide",Possibly Marketed Outside US,0,['NCATS']
+1027,1027,[H][C@@]12C[C@]1([H])[C@@]1([H])[C@]3([H])[C@]4([H])C[C@]4([H])[C@@]4(CCC(=O)O4)[C@@]3(C)CC[C@]1([H])[C@@]1(C)CCC(=O)C=C21,92,METQSPRSQINEEU-HXCATZOESA-N,drospirenone,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1272,1272,CC(=O)OCC(=O)[C@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@]3([C@]([H])(C[C@@]21C)O)F)O,86,ZOCUOMKMBMEYQV-GSLJADNHSA-N,isoflupredone acetate,Possibly Marketed Outside US,0,['NCATS']
+4502,4502,OB1OCC2=C1C=CC(OC1=CC=C(C=C1)C#N)=C2,42,USZAGAREISWJDP-UHFFFAOYSA-N,crisaborole,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1582,1582,C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(C)[C@H]1CC[C@@H]2[C@H](C)/C=C/[C@H](C)C(C)C,79,MECHNRXZTMCUDQ-RKHKHRCZSA-N,ergocalciferol,approved,0,['ChEMBL']
+3815,3815,c1ccc(c(c1)C23c4cc(ccc4N=C(CN3CCO2)O)Br)F,49,XDKCGKQHVBOOHC-UHFFFAOYSA-N,haloxazolam,Possibly Marketed Outside US,0,['NCATS']
+5804,5804,Cl.NCCCC(N)(C(=O)O)C(F)F.O,26,FJPAMFNRCFEGSD-UHFFFAOYSA-N,eflornithine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
+4072,4072,CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1,46,RTHCYVBBDHJXIQ-UHFFFAOYSA-N,fluoxetine,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4321,4321,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,44,HMMGMWAXVFQUOA-UHFFFAOYSA-N,cyclomethicone 4,Possibly Marketed Outside US,0,['NCATS']
+6122,6122,CC(=O)OCC[N+](C)(C)C,20,OIPILFWXSMYKGL-UHFFFAOYSA-N,acetylcholine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3445,3445,CN(C)c1ccc2c(c1)[s+]c3cc(ccc3n2)N.[Cl-],53,HMYISFASHDWPMO-UHFFFAOYSA-O,azure a,US Previously Marketed,1,['NCATS']
+2127,2127,CC(C)Oc1ccc(-c2nc(-c3cccc4c3CC[C@@H]4NCCO)no2)cc1C#N.Cl,70,HAOOCAKHSFYDBU-BDQAORGHSA-N,ozanimod hydrochloride,approved,0,['ChEMBL']
+2978,2978,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O,58,ZEKZLJVOYLTDKK-UHFFFAOYSA-N,lomefloxacin,withdrawn,1,"['WITHDRAWN', 'ChEMBL']"
+2023,2023,CC1=CC(=C(N1C2=CC=CC=C2)C)C=CC3=[N+](C4=C(C=C3)C=C(C=C4)N(C)C)C,71,QMHSXPLYMTVAMK-UHFFFAOYSA-N,pyrvinium,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+1718,1718,Cc1c(/C(/[H])=C\2/c3cc(ccc3N=C2O)F)[nH]c(C)c1C(=NCCN4CCCC4)O.OP(=O)(O)O,77,AOORBROPMMRREB-UHFFFAOYSA-N,toceranib phosphate,Possibly Marketed Outside US,0,['NCATS']
+1350,1350,CC1(C)C(/C(/[H])=C(/c2ccc(cc2)Cl)\Cl)C1C(=O)OC(C#N)c3ccc(c(c3)Oc4ccccc4)F,84,YXWCBRDRVXHABN-UHFFFAOYSA-N,flumethrin,Possibly Marketed Outside US,0,['NCATS']
+5816,5816,c1ccc(cc1)C(C(=O)O)O.N,26,BDEXTKUJIZCFST-UHFFFAOYSA-N,ammonium mandelate,Possibly Marketed Outside US,0,['NCATS']
+3954,3954,c1ccc(cc1)CS(=O)(=O)Nc2ccc(cc2)C(=O)O,47,ZOFLWJXPXAHZLI-UHFFFAOYSA-N,p-(benzylsulfonamido)benzoic acid,US Previously Marketed,1,['NCATS']
+842,842,CN1CC[C@@]23[C@@]4([H])C=C[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)OCCN6CCOCC6)O.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,99,GPFAJKDEDBRFOS-FKQDBXSBSA-N,pholcodine citrate,Possibly Marketed Outside US,0,['NCATS']
+320,320,C[C@@]1(CO[C@@]([H])([C@@]([H])([C@@]1([H])NC)O)O[C@@]2([H])[C@@]([H])(C[C@@]([H])([C@]([H])([C@]2([H])O)O[C@]3([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CN)O3)O)O)O)N)N=C([C@]([H])(CN)O)O)O.OS(=O)(=O)O,147,DDXRHRXGIWOVDQ-MGAUJLSLSA-N,isepamicin sulfate,Possibly Marketed Outside US,0,['NCATS']
+35,35,CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O.CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O.O=S(=O)(O)O.O=S(=O)(O)O.O=S(=O)(O)O.O=S(=O)(O)O.O=S(=O)(O)O,259,AGFWIZQEWFGATK-UNZHCMSXSA-N,netilmicin sulfate,withdrawn,1,"['ChEMBL', 'NCATS']"
+1716,1716,CC1(C)[C@]([H])(C(=O)O)N2C(=O)[C@@]([H])([C@@]2([H])S1)N3C(=O)[C@@]([H])(c4ccccc4)NC3(C)C,77,DXVUYOAEDJXBPY-LMOYCYGVSA-N,epihetacillin,Possibly Marketed Outside US,0,['NCATS']
+1202,1202,Cn1c(nnn1)SCC2=C(C(=O)O)N3C(=O)[C@]([C@@]3([H])OC2)(N=C(C([H])(c4ccc(cc4)O)C(=O)O)O)OC,87,JWCSIUVGFCSJCK-CAVRMKNVSA-N,latamoxef,US Previously Marketed,1,"['ChEMBL', 'NCATS']"
+699,699,[H][C@@]12C[C@@H](C)[C@](OC(=O)C3=CC=CO3)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,106,WOFMFGQZHJDGCX-ZULDAHANSA-N,mometasone furoate,approved; investigational; vet_approved,0,"['DrugBank', 'ChEMBL']"
+1501,1501,CCCCCCCC(=O)OC[C@]([H])([C@]([H])([C@@]1([H])[C@@]([H])([C@]([H])(C=C(C(=O)O)O1)NC(=N)N)N=C(C)O)OC)O.O,81,IBFFAVWCRFPPNZ-QZAMVOJNSA-N,laninamivir octanoate monohydrate,Possibly Marketed Outside US,0,['NCATS']
+6143,6143,Cc1c(CCCl)scn1.Cl,20,OFXYKSLKNMTBHK-UHFFFAOYSA-N,clomethiazole hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+2867,2867,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1.O=C(O)/C=C\C(=O)O,60,SRGKFVAASLQVBO-BTJKTKAUSA-N,brompheniramine maleate,approved,0,['ChEMBL']
+1062,1062,OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)C1=CC=C(Cl)C(CC2=CC=C(O[C@H]3CCOC3)C=C2)=C1,91,OBWASQILIWPZMG-QZMOQZSNSA-N,empagliflozin,approved,0,"['DrugBank', 'ChEMBL']"
+5281,5281,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O,33,ISAVYTVYFVQUDY-UHFFFAOYSA-N,tyloxapol,withdrawn,1,['WITHDRAWN']
+3412,3412,CCC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CC(C)N(C)C,53,UVOIBTBFPOZKGP-UHFFFAOYSA-N,propiomazine,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+719,719,CCCCCCCCCCCCCCCCOS(=O)(=O)O.CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].Cc1c(CCO)sc[n+]1Cc2cnc(C)[nH]c2=N,105,HVIVKYLMXRWCDK-UHFFFAOYSA-M,thiamine dicetylsulfate,US Approved Rx,0,['NCATS']
+5755,5755,CC(C)C[C@@]([H])(C(=O)O)N=C(C)O,27,WXNXCEHXYPACJF-ZETCQYMHSA-N,"acetylleucine, l-",Possibly Marketed Outside US,0,['NCATS']
+5697,5697,c1cc(c(c(c1)F)NC2=NCCN2)Br,28,KDPNLRQZHDJRFU-UHFFFAOYSA-N,romifidine,Possibly Marketed Outside US,0,['NCATS']
+1147,1147,CO/N=C(/c1csc(=N)[nH]1)\C(=N[C@]2([H])C(=O)N3C(=C(CS[C@]23[H])CSC(=O)c4ccco4)C(=O)O)O,89,ZBHXIWJRIFEVQY-MLGOLLRUSA-N,ceftiofur,Possibly Marketed Outside US,0,['NCATS']
+153,153,[H][C@@]1(C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O2)OC)CC[C@@H](O)[C@@H](C1)OC,190,QFJCIRLUMZQUOT-HPLJOQBZSA-N,sirolimus,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+2562,2562,COc1ccccc1N2CCN(CC2)CC(COc3cccc4ccccc43)O.Cl.Cl,64,HRRBJVNMSRJFHQ-UHFFFAOYSA-N,naftopidil dihydrochloride,Possibly Marketed Outside US,0,['NCATS']
+1485,1485,ClC1=CC2=C(C=C1)C(=CC=N2)N1CCN(CCCN2CCN(CC2)C2=CC=NC3=C2C=CC(Cl)=C3)CC1,81,UCRHFBCYFMIWHC-UHFFFAOYSA-N,piperaquine,approved; experimental; investigational,0,"['DrugBank', 'NCATS']"
+5460,5460,CNC[C@H](O)C1=CC(O)=C(O)C=C1,31,UCTWMZQNUQWSLP-VIFPVBQESA-N,epinephrine,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3180,3180,OP(O)(=O)OCN1C(=O)NC(C1=O)(C1=CC=CC=C1)C1=CC=CC=C1,56,XWLUWCNOOVRFPX-UHFFFAOYSA-N,fosphenytoin,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+1821,1821,[H][C@@]12CC(=C)[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],75,CKFBRGLGTWAVLG-GOMYTPFNSA-N,segesterone acetate,approved; experimental; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+6263,6263,c1ccc(cc1)C=O,17,HUMNYLRZRPPJDN-UHFFFAOYSA-N,benzaldehyde,US Previously Marketed,1,['NCATS']
+1295,1295,[H][C@@]12CC[C@](O)(C(=O)COP(O)(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,85,JDOZJEUDSLGTLU-VWUMJDOOSA-N,prednisolone phosphate,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5845,5845,Cl(=O)(=O)(=O)O.N,25,HHEFNVCDPLQQTP-UHFFFAOYSA-N,ammonium perchlorate,US Previously Marketed,1,['NCATS']
+1273,1273,C=C[C@@]1([H])CN2CC[C@@]1([H])C[C@]2([H])[C@]([H])(c3ccnc4ccc(cc34)OC)O.OS(=O)(=O)O.O.O.O.O,86,GFKRMXVYTDHLDX-KWVNHBFUSA-N,quinidine bisulfate tetrahydrate,US Approved Rx,0,['NCATS']
+347,347,[H][C@@]12C[C@]1(NC(=O)[C@]1([H])C[C@H](CN1C(=O)[C@H](CCCCC\C=C/2)NC(=O)C1=CN=C(C)C=N1)OC1=NC2=C(C=CC=C2)C2=C1C=CC=C2)C(=O)NS(=O)(=O)C1CC1,141,UAUIUKWPKRJZJV-QPLHLKROSA-N,paritaprevir,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+6095,6095,COP(=O)(OC)OC=C(Cl)Cl,21,OEBRKCOSUFCWJD-UHFFFAOYSA-N,dichlorvos,Possibly Marketed Outside US,0,['NCATS']
+4495,4495,CC(CN1C2=CC=CC=C2SC2=CC=CC=C12)N(C)C,42,PWWVAXIEGOYWEE-UHFFFAOYSA-N,promethazine,approved; investigational,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2556,2556,Cc1cccc(C)c1N=C(CN2CCN(CC2)CC(COc3ccccc3OC)O)O.Cl.Cl,64,RJNSNFZXAZXOFX-UHFFFAOYSA-N,ranolazine hydrochloride,US Approved Rx,0,['NCATS']
+1246,1246,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,86,VHRSUDSXCMQTMA-PJHHCJLFSA-N,methylprednisolone,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+5735,5735,OC1=NC=NC2=C1C=NN2,27,OFCNXPDARWKPPY-UHFFFAOYSA-N,allopurinol,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+1552,1552,CC(=O)N1C2=CC=CC=C2C(C1=O)(C3=CC=C(C=C3)OC(=O)C)C4=CC=C(C=C4)OC(=O)C,79,JPGUEMQIAGJQSJ-UHFFFAOYSA-N,triacetyldiphenolisatin,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4772,4772,CCC1(c2ccccc2)C(=NC(=O)N(C)C1=O)O,39,ALARQZQTBTVLJV-UHFFFAOYSA-N,mephobarbital,US Previously Marketed,1,['NCATS']
+2573,2573,CN1CC[C@@]23[C@@]4([H])CC[C@@]([H])([C@]2([H])Oc5c(ccc(C[C@]41[H])c53)O)O.Cl,64,DZGJPYLWWJSNCT-VYKNHSEDSA-N,dihydromorphine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+6399,6399,C(CS(=O)(=O)O)N,13,XOAAWQZATWQOTB-UHFFFAOYSA-N,taurine,Possibly Marketed Outside US,0,['NCATS']
+2788,2788,COc1ccc(cc1OC)C(=O)N2CCN(CC2)c3ccc4c(CCC(=O)N4)c3,61,ZVNYJIZDIRKMBF-UHFFFAOYSA-N,vesnarinone,Possibly Marketed Outside US,0,['NCATS']
+2358,2358,C1C2([H])CC3(CC1([H])CC(C2)(C3)O)[C@@]([H])(C(=O)N4[C@@]([H])(C[C@]5([H])C[C@@]54[H])C#N)N.O,67,AFNTWHMDBNQQPX-NHKADLRUSA-N,saxagliptin monohydrate,US Approved Rx,0,['NCATS']
+5678,5678,NCC1=CC=C(C=C1)S(N)(=O)=O,28,TYMRLRRVMHJFTF-UHFFFAOYSA-N,mafenide,approved; vet_approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+4315,4315,Cc1c(c2COC(c3ccc(cc3)Cl)c2cn1)O.Cl,44,CVKNDPRBJVBDSS-UHFFFAOYSA-N,cicletanine hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+997,997,CCC[C@@H]1C[C@@H](C(=O)N[C@H]([C@@H](C)O)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)N(C)C1.Cl.O,93,LFZGYTBWUHCAKF-DCNJEFSFSA-N,lincomycin hydrochloride,approved,0,['ChEMBL']
+5408,5408,O=C([O-])CCCc1ccccc1.[Na+],32,VPZRWNZGLKXFOE-UHFFFAOYSA-M,sodium phenylbutyrate,approved,0,['ChEMBL']
+3503,3503,C[N+]1(CCC(c2ccccc2)(c3cccs3)O)CCOCC1.[I-],53,FCQWMXOTCLMVSS-UHFFFAOYSA-N,tiemonium iodide,Possibly Marketed Outside US,0,['NCATS']
+1323,1323,[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,84,VWVSBHGCDBMOOT-IIEHVVJPSA-N,desoximetasone,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+3328,3328,C1C2CC(C1C=C2)C3NC4=CC(=C(C=C4S(=O)(=O)N3)S(=O)(=O)N)Cl,54,BOCUKUHCLICSIY-UHFFFAOYSA-N,cyclothiazide,withdrawn,1,"['WITHDRAWN', 'ChEMBL', 'NCATS']"
+4119,4119,C[N+](C)(CCOc1ccccc1)Cc2cccs2.[Cl-],46,CGSVCNBINHWWFW-UHFFFAOYSA-M,thenium chloride,Possibly Marketed Outside US,0,['NCATS']
+1030,1030,CN(C(=O)C(C)(C)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)C1=CN=C(C=C1C1=CC=CC=C1C)N1CCN(C)CC1,92,WAXQNWCZJDTGBU-UHFFFAOYSA-N,netupitant,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+3535,3535,CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Cl-],52,OGQYPPBGSLZBEG-UHFFFAOYSA-N,distearyldimonium chloride,Discontinued,1,['NCATS']
+3108,3108,Cc1ccsc1C(=CCCN1CCC[C@@H](C(=O)O)C1)c1sccc1C.Cl,57,YUKARLAABCGMCN-PKLMIRHRSA-N,tiagabine hydrochloride,approved,0,['ChEMBL']
+5163,5163,NC1=CC(=NC(N)=[N+]1[O-])N1CCCCC1,35,ZFMITUMMTDLWHR-UHFFFAOYSA-N,minoxidil,approved; investigational,0,"['DrugBank', 'ChEMBL']"
+934,934,CC/C(/[H])=C(/c1csc(=N)[nH]1)\C(=N[C@]2([H])C(=O)N3C(=C(COC(=N)O)CS[C@]23[H])C(=O)OCOC(=O)C(C)(C)C)O.Cl,96,ALPFRUJYOAKQQR-KEZWHQCISA-N,cefcapene pivoxil hydrochloride,Possibly Marketed Outside US,0,['NCATS']
+6345,6345,NC1=CC=NC=C1,15,NUKYPUAOHBNCPY-UHFFFAOYSA-N,dalfampridine,approved,0,"['DrugBank', 'ChEMBL']"
+4646,4646,CCN[C@@H](C)Cc1cccc(C(F)(F)F)c1.Cl,40,ZXKXJHAOUFHNAS-FVGYRXGTSA-N,dexfenfluramine hydrochloride,withdrawn,1,['ChEMBL']
+4478,4478,CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,42,KRMDCWKBEZIMAB-UHFFFAOYSA-N,amitriptyline,approved,0,"['DrugBank', 'ChEMBL', 'NCATS']"
+2091,2091,CC(=O)O[C@@]1([H])CC[C@@]2(C)C(=CC[C@@]3([H])[C@]4([H])CCC(=O)[C@@]4(C)CC[C@@]32[H])C1,71,NCMZQTLCXHGLOK-ZKHIMWLXSA-N,prasterone acetate,US Approved Rx,0,['NCATS']
+5712,5712,Cc1cccc(C)c1NC2=NCCCS2,28,BPICBUSOMSTKRF-UHFFFAOYSA-N,xylazine,Possibly Marketed Outside US,0,['NCATS']
+756,756,C(=O)[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO[C@]1([H])[C@@]([H])([C@]([H])([C@@]([H])([C@@]([H])(CO)O1)O)O)O)O)O)O)O.[Fe+3].[OH-].[OH-].[OH-],103,AYRXSINWFIIFAE-YJOKQAJESA-N,iron polymaltose,US Approved OTC,0,['NCATS']
+2156,2156,c1cc(c(cc1F)F)-n2cc(c(=O)c3cc(c(nc32)N4CCC(C4)N)F)C(=O)O.O,70,FCHGAGZTPICOSW-UHFFFAOYSA-N,tosufloxacin monohydrate,Possibly Marketed Outside US,0,['NCATS']
+4523,4523,CN(C)CCOC(c1ccccc1)c1ccccc1.Cl,42,PCHPORCSPXIHLZ-UHFFFAOYSA-N,diphenhydramine hydrochloride,approved,0,"['ChEMBL', 'NCATS']"
