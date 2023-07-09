@@ -7,6 +7,7 @@ Withdrawal of Drugs from the Market".
 - [Requirements](#requirements)
 - [Data](#data)
 - [Training](#training)
+- [Feature Extraction](#extracting-features-from-pre-trained-models)
 
 ## Requirements
 * [Huggingface Transformers](https://huggingface.co/docs/transformers/index)- used for ChemBERTA v1 and v2
