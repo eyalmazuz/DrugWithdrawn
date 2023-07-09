@@ -39,3 +39,19 @@ each notebook is used to train a different model from the paper.
 * T5chem_model- is used to train and evaluate [T5chem](https://github.com/HelloJocelynLu/t5chem) (follow the instruction in the repo to how to download the pre-trained model that is used for fine-tune)
 
 To run training for each of notebooks and follow the code written inside
+
+## Extracting features from pre-trained models
+
+If one desire to use pre-trained models such as ChemBERTa and Chemprop to extract fingerprint vectors for each SMILES and then use a classical machine learning algorithm for prediciton (such in paper models mixed features section or SMILES only section).
+
+all the pre-trained features already exists in their respective data directories.
+
+But if one wish to extract their own features it can be done as follows:
+
+1. Extract ChemBERTa features.ipynb notebook will extract ChemBERTa features, the get_embeddings method receives a DataFrame which needs to contain a column called ``smiles``. then we load a pre-trained ChemBERTa model and iterate over the dataset and extract the hidden representation of the model for each smile then save it back to the same location as the original data.
+
+2. To extract Chemprop features, please follow their documentation on how to train a model here [training](https://github.com/chemprop/chemprop/#training) and how to extract Chemprop fingerprints here [fingerprints](https://github.com/chemprop/chemprop/#encode-fingerprint-latent-representation).
+A pre-trained Chemprop model is already provised in the Chemprop directory in additional to features extract from a pre-trained models on Tox21 dataset, this model was trained on Tox21 dataset which tries to predict toxological properties of molecules (which could indicate a reason for withdrawing a drug from the market, which is a very close task). and the Tox21 dataset is also provided in the same directory.
+If one wish to use a different dataset, they can download it from the moleculeNet repository here: [datasets](https://moleculenet.org/datasets)
+
+3. Mol2Vec features can be extracted through the PaperModels.ipynb notebook and then manually save them to the disk, additionaly same as previous extract features, they are already provided in the data directories for use and no need to extract them again.
